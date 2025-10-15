@@ -1,0 +1,116 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>19</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="579">
+        <QUESTIONS>
+            <QUESTION>Người chiếm hữu, người sử dụng tài sản của người khác mà không có căn cứ pháp luật phải làm gì?</QUESTION>
+            <QUESTION>Trường hợp không tìm được chủ sở hữu, chủ thể có quyền khác đối với tài sản thì người chiếm hữu, sử dụng tài sản phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người chiếm hữu, người sử dụng tài sản của người khác mà không có căn cứ pháp luật phải hoàn trả cho chủ sở hữu, chủ thể có quyền khác đối với tài sản đó; nếu không tìm được chủ sở hữu, chủ thể có quyền khác đối với tài sản thì phải giao cho cơ quan nhà nước có thẩm quyền, trừ trường hợp quy định tại Điều 236 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="579">
+        <QUESTIONS>
+            <QUESTION>Người được lợi về tài sản mà không có căn cứ pháp luật phải làm gì?</QUESTION>
+            <QUESTION>Trường hợp người được lợi về tài sản gây thiệt hại cho người khác thì phải hoàn trả khoản lợi đó cho ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người được lợi về tài sản mà không có căn cứ pháp luật làm cho người khác bị thiệt hại thì phải hoàn trả khoản lợi đó cho người bị thiệt hại, trừ trường hợp quy định tại Điều 236 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="580">
+        <QUESTIONS>
+            <QUESTION>Người chiếm hữu, người sử dụng tài sản mà không có căn cứ pháp luật có nghĩa vụ gì?</QUESTION>
+            <QUESTION>Người chiếm hữu tài sản không có căn cứ pháp luật cần hoàn trả gì cho chủ sở hữu?</QUESTION>
+            <QUESTION>Trong trường hợp người chiếm hữu tài sản không có căn cứ pháp luật, họ có trách nhiệm hoàn trả gì cho chủ thể có quyền đối với tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người chiếm hữu, người sử dụng tài sản mà không có căn cứ pháp luật phải hoàn trả toàn bộ tài sản đã thu được.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="580">
+        <QUESTIONS>
+            <QUESTION>Trường hợp tài sản hoàn trả là vật đặc định, người chiếm hữu có cần hoàn trả đúng vật đó không?</QUESTION>
+            <QUESTION>Nếu vật đặc định bị mất hoặc hư hỏng, người chiếm hữu phải làm gì?</QUESTION>
+            <QUESTION>Trong trường hợp vật đặc định bị mất hoặc hư hỏng, người chiếm hữu phải đền bù như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp tài sản hoàn trả là vật đặc định thì phải hoàn trả đúng vật đó; nếu vật đặc định đó bị mất hoặc hư hỏng thì phải đền bù bằng tiền, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="580">
+        <QUESTIONS>
+            <QUESTION>Trường hợp tài sản hoàn trả là vật cùng loại nhưng bị mất hoặc hư hỏng, người chiếm hữu có phải trả vật cùng loại không?</QUESTION>
+            <QUESTION>Người chiếm hữu tài sản không có căn cứ pháp luật sẽ hoàn trả thế nào khi tài sản là vật cùng loại nhưng bị mất hoặc hư hỏng?</QUESTION>
+            <QUESTION>Trường hợp tài sản hoàn trả là vật cùng loại và bị mất hoặc hư hỏng, có thể đền bù bằng gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp tài sản hoàn trả là vật cùng loại, nhưng bị mất hoặc hư hỏng thì phải trả vật cùng loại hoặc đền bù bằng tiền, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="580">
+        <QUESTIONS>
+            <QUESTION>Người chiếm hữu tài sản không có căn cứ pháp luật có nghĩa vụ hoàn trả lợi gì cho người bị thiệt hại?</QUESTION>
+            <QUESTION>Người được lợi về tài sản mà không có căn cứ pháp luật phải hoàn trả như thế nào?</QUESTION>
+            <QUESTION>Trường hợp người chiếm hữu tài sản không có căn cứ pháp luật, họ có trách nhiệm hoàn trả gì cho người bị thiệt hại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Người được lợi về tài sản mà không có căn cứ pháp luật phải hoàn trả khoản lợi về tài sản đó cho người bị thiệt hại bằng hiện vật hoặc bằng tiền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="581">
+        <QUESTIONS>
+            <QUESTION>Người chiếm hữu tài sản không có căn cứ pháp luật và không ngay tình phải hoàn trả gì?</QUESTION>
+            <QUESTION>Người chiếm hữu tài sản mà không có căn cứ pháp luật và không ngay tình có nghĩa vụ gì liên quan đến hoa lợi, lợi tức?</QUESTION>
+            <QUESTION>Khi người chiếm hữu tài sản không ngay tình, họ có phải hoàn trả hoa lợi, lợi tức từ thời điểm nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản mà không có căn cứ pháp luật và không ngay tình thì phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="581">
+        <QUESTIONS>
+            <QUESTION>Người chiếm hữu tài sản không có căn cứ pháp luật nhưng ngay tình có nghĩa vụ hoàn trả hoa lợi, lợi tức không?</QUESTION>
+            <QUESTION>Trường hợp người chiếm hữu tài sản ngay tình, họ sẽ hoàn trả hoa lợi, lợi tức từ thời điểm nào?</QUESTION>
+            <QUESTION>Người chiếm hữu tài sản ngay tình phải hoàn trả hoa lợi, lợi tức từ khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản mà không có căn cứ pháp luật nhưng ngay tình thì phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm người đó biết hoặc phải biết việc chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, trừ trường hợp quy định tại Điều 236 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="582">
+        <QUESTIONS>
+            <QUESTION>Trường hợp nào người thứ ba có nghĩa vụ hoàn trả tài sản?</QUESTION>
+            <QUESTION>Người chiếm hữu tài sản không có căn cứ pháp luật đã giao tài sản cho người thứ ba, khi bị yêu cầu hoàn trả thì người thứ ba phải làm gì?</QUESTION>
+            <QUESTION>Người thứ ba có quyền yêu cầu bồi thường thiệt hại khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp người chiếm hữu, người sử dụng tài sản mà không có căn cứ pháp luật đã giao tài sản cho người thứ ba thì khi bị chủ sở hữu, chủ thể có quyền khác đối với tài sản yêu cầu hoàn trả, người thứ ba có nghĩa vụ hoàn trả tài sản đó, trừ trường hợp Bộ luật này có quy định khác; nếu tài sản đó đã được trả bằng tiền hoặc có đền bù thì người thứ ba có quyền yêu cầu người đã giao tài sản cho mình bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="583">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu tài sản phải thanh toán chi phí cần thiết trong trường hợp nào?</QUESTION>
+            <QUESTION>Ai là người phải thanh toán chi phí bảo quản tài sản khi tài sản được hoàn trả?</QUESTION>
+            <QUESTION>Người chiếm hữu tài sản không có căn cứ pháp luật nhưng ngay tình có nghĩa vụ gì khi tài sản được hoàn trả?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu, chủ thể có quyền khác đối với tài sản, người bị thiệt hại được hoàn trả tài sản thì phải thanh toán chi phí cần thiết mà người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản mà không có căn cứ pháp luật nhưng ngay tình đã bỏ ra để bảo quản, làm tăng giá trị của tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

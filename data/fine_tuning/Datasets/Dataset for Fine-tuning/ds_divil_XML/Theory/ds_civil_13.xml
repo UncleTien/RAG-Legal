@@ -1,0 +1,1509 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>13</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="186">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu có quyền thực hiện những hành vi nào đối với tài sản của mình?</QUESTION>
+            <QUESTION>Việc thực hiện quyền chiếm hữu của chủ sở hữu cần tuân thủ những quy định nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu được thực hiện mọi hành vi theo ý chí của mình để nắm giữ, chi phối tài sản của mình nhưng không được trái pháp luật, đạo đức xã hội.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="187">
+        <QUESTIONS>
+            <QUESTION>Người được chủ sở hữu ủy quyền quản lý tài sản có quyền chiếm hữu tài sản như thế nào?</QUESTION>
+            <QUESTION>Phạm vi, cách thức và thời hạn chiếm hữu của người được ủy quyền được xác định bởi ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người được chủ sở hữu ủy quyền quản lý tài sản thực hiện việc chiếm hữu tài sản đó trong phạm vi, theo cách thức, thời hạn do chủ sở hữu xác định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="187">
+        <QUESTIONS>
+            <QUESTION>Người được chủ sở hữu ủy quyền quản lý tài sản có thể trở thành chủ sở hữu của tài sản đó không?</QUESTION>
+            <QUESTION>Quy định nào trong Bộ luật cấm người được ủy quyền trở thành chủ sở hữu đối với tài sản được giao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người được chủ sở hữu ủy quyền quản lý tài sản không thể trở thành chủ sở hữu đối với tài sản được giao theo quy định tại Điều 236 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="188">
+        <QUESTIONS>
+            <QUESTION>Khi nào người được giao tài sản phải thực hiện việc chiếm hữu tài sản phù hợp với mục đích và nội dung của giao dịch?</QUESTION>
+            <QUESTION>Quyền chiếm hữu của người được giao tài sản được quy định như thế nào trong trường hợp giao dịch dân sự không chuyển quyền sở hữu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi chủ sở hữu giao tài sản cho người khác thông qua giao dịch dân sự mà nội dung không bao gồm việc chuyển quyền sở hữu thì người được giao tài sản phải thực hiện việc chiếm hữu tài sản đó phù hợp với mục đích, nội dung của giao dịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="188">
+        <QUESTIONS>
+            <QUESTION>Người được giao tài sản có quyền sử dụng tài sản được giao không?</QUESTION>
+            <QUESTION>Trong trường hợp nào người được giao tài sản có thể chuyển quyền chiếm hữu và sử dụng tài sản cho người khác?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người được giao tài sản có quyền sử dụng tài sản được giao, được chuyển quyền chiếm hữu, sử dụng tài sản đó cho người khác nếu được chủ sở hữu đồng ý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="188">
+        <QUESTIONS>
+            <QUESTION>Người được giao tài sản thông qua giao dịch dân sự có thể trở thành chủ sở hữu tài sản đó không?</QUESTION>
+            <QUESTION>Quy định nào trong Bộ luật cấm người được giao tài sản trở thành chủ sở hữu đối với tài sản được giao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người được giao tài sản không thể trở thành chủ sở hữu đối với tài sản được giao theo quy định tại Điều 236 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="189">
+        <QUESTIONS>
+            <QUESTION>Quyền sử dụng được hiểu như thế nào?</QUESTION>
+            <QUESTION>Quyền sử dụng bao gồm những nội dung gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền sử dụng là quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="189">
+        <QUESTIONS>
+            <QUESTION>Quyền sử dụng có thể được chuyển giao cho người khác không?</QUESTION>
+            <QUESTION>Trong những trường hợp nào quyền sử dụng được chuyển giao cho người khác?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền sử dụng có thể được chuyển giao cho người khác theo thỏa thuận hoặc theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="190">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu được sử dụng tài sản theo nguyên tắc nào?</QUESTION>
+            <QUESTION>Chủ sở hữu có quyền sử dụng tài sản theo ý chí của mình không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu được sử dụng tài sản theo ý chí của mình nhưng không được gây thiệt hại hoặc làm ảnh hưởng đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền và lợi ích hợp pháp của người khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="191">
+        <QUESTIONS>
+            <QUESTION>Người không phải là chủ sở hữu được sử dụng tài sản theo nguyên tắc nào?</QUESTION>
+            <QUESTION>Người không phải là chủ sở hữu có thể sử dụng tài sản khi nào?</QUESTION>
+            <QUESTION>Việc sử dụng tài sản của người không phải là chủ sở hữu phải dựa trên cơ sở nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người không phải là chủ sở hữu được sử dụng tài sản theo thỏa thuận với chủ sở hữu hoặc theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="192">
+        <QUESTIONS>
+            <QUESTION>Quyền định đoạt tài sản được hiểu như thế nào?</QUESTION>
+            <QUESTION>Những hành vi nào thuộc phạm vi quyền định đoạt tài sản?</QUESTION>
+            <QUESTION>Quyền định đoạt bao gồm quyền gì đối với tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền định đoạt là quyền chuyển giao quyền sở hữu tài sản, từ bỏ quyền sở hữu, tiêu dùng hoặc tiêu hủy tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="193">
+        <QUESTIONS>
+            <QUESTION>Ai có quyền thực hiện việc định đoạt tài sản?</QUESTION>
+            <QUESTION>Việc định đoạt tài sản phải đáp ứng những điều kiện nào?</QUESTION>
+            <QUESTION>Có yêu cầu gì về năng lực hành vi dân sự khi thực hiện quyền định đoạt tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Việc định đoạt tài sản phải do người có năng lực hành vi dân sự thực hiện không trái quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="193">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp pháp luật quy định trình tự, thủ tục định đoạt tài sản, điều gì cần tuân theo?</QUESTION>
+            <QUESTION>Việc định đoạt tài sản có phải tuân thủ các quy định của pháp luật không?</QUESTION>
+            <QUESTION>Có quy trình cụ thể nào được yêu cầu khi định đoạt tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp pháp luật có quy định trình tự, thủ tục định đoạt tài sản thì phải tuân theo trình tự, thủ tục đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="194">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu có những quyền gì đối với tài sản của mình?</QUESTION>
+            <QUESTION>Chủ sở hữu có thể thực hiện việc tặng cho hoặc để thừa kế tài sản không?</QUESTION>
+            <QUESTION>Việc tiêu dùng hoặc tiêu hủy tài sản có phải là một quyền của chủ sở hữu không?</QUESTION>
+            <QUESTION>Các hình thức định đoạt tài sản của chủ sở hữu cần tuân theo điều kiện gì?</QUESTION>
+            <QUESTION>Chủ sở hữu có quyền từ bỏ quyền sở hữu tài sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu có quyền bán, trao đổi, tặng cho, cho vay, để thừa kế, từ bỏ quyền sở hữu, tiêu dùng, tiêu hủy hoặc thực hiện các hình thức định đoạt khác phù hợp với quy định của pháp luật đối với tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="195">
+        <QUESTIONS>
+            <QUESTION>Người không phải là chủ sở hữu có quyền định đoạt tài sản không?</QUESTION>
+            <QUESTION>Khi nào người không phải là chủ sở hữu được phép định đoạt tài sản?</QUESTION>
+            <QUESTION>Quyền định đoạt tài sản của người không phải là chủ sở hữu phụ thuộc vào điều kiện gì?</QUESTION>
+            <QUESTION>Người không phải là chủ sở hữu có thể định đoạt tài sản mà không cần sự ủy quyền của chủ sở hữu không?</QUESTION>
+            <QUESTION>Các quy định pháp luật có vai trò gì trong việc cho phép người không phải là chủ sở hữu định đoạt tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người không phải là chủ sở hữu tài sản chỉ có quyền định đoạt tài sản theo ủy quyền của chủ sở hữu hoặc theo quy định của luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="196">
+        <QUESTIONS>
+            <QUESTION>Quyền định đoạt tài sản có bị hạn chế không?</QUESTION>
+            <QUESTION>Trong trường hợp nào quyền định đoạt tài sản bị hạn chế?</QUESTION>
+            <QUESTION>Hạn chế quyền định đoạt tài sản có phải là quy định của pháp luật không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Quyền định đoạt chỉ bị hạn chế trong trường hợp do luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="196">
+        <QUESTIONS>
+            <QUESTION>Nhà nước có quyền ưu tiên mua tài sản trong trường hợp nào?</QUESTION>
+            <QUESTION>Các tài sản thuộc di tích lịch sử - văn hóa có được ưu tiên mua không?</QUESTION>
+            <QUESTION>Ai có quyền ưu tiên mua tài sản khi bán tài sản thuộc di tích lịch sử - văn hóa?</QUESTION>
+            <QUESTION>Có phải chỉ Nhà nước mới có quyền ưu tiên mua tài sản thuộc di tích lịch sử - văn hóa không?</QUESTION>
+            <QUESTION>Quyền ưu tiên mua tài sản có áp dụng cho các cá nhân và pháp nhân không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi tài sản đem bán là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa thì Nhà nước có quyền ưu tiên mua. Trường hợp cá nhân, pháp nhân có quyền ưu tiên mua đối với tài sản nhất định theo quy định của pháp luật thì khi bán tài sản, chủ sở hữu phải dành quyền ưu tiên mua cho các chủ thể đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="197">
+        <QUESTIONS>
+            <QUESTION>Tài sản thuộc sở hữu toàn dân bao gồm những loại tài sản nào?</QUESTION>
+            <QUESTION>Ai là người đại diện chủ sở hữu đối với tài sản thuộc sở hữu toàn dân?</QUESTION>
+            <QUESTION>Nhà nước có trách nhiệm gì đối với tài sản thuộc sở hữu toàn dân?</QUESTION>
+            <QUESTION>Tài nguyên khoáng sản có phải là tài sản thuộc sở hữu toàn dân không?</QUESTION>
+            <QUESTION>Tài nguyên nước và tài nguyên thiên nhiên khác có thuộc sở hữu toàn dân không?</QUESTION>
+            <QUESTION>Tài sản do Nhà nước đầu tư, quản lý có phải là tài sản công thuộc sở hữu toàn dân không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Đất đai, tài nguyên nước, tài nguyên khoáng sản, nguồn lợi ở vùng biển, vùng trời, tài nguyên thiên nhiên khác và các tài sản do Nhà nước đầu tư, quản lý là tài sản công thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="198">
+        <QUESTIONS>
+            <QUESTION>Ai là đại diện thực hiện quyền của chủ sở hữu đối với tài sản thuộc sở hữu toàn dân?</QUESTION>
+            <QUESTION>Tài sản thuộc sở hữu toàn dân được Nhà nước quản lý như thế nào?</QUESTION>
+            <QUESTION>Nhà nước có vai trò gì trong việc bảo vệ tài sản thuộc sở hữu toàn dân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là đại diện, thực hiện quyền của chủ sở hữu đối với tài sản thuộc sở hữu toàn dân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="198">
+        <QUESTIONS>
+            <QUESTION>Chính phủ có trách nhiệm gì đối với tài sản thuộc sở hữu toàn dân?</QUESTION>
+            <QUESTION>Chính phủ làm thế nào để bảo đảm tài sản thuộc sở hữu toàn dân được sử dụng đúng mục đích?</QUESTION>
+            <QUESTION>Chính phủ có biện pháp nào để quản lý tài sản thuộc sở hữu toàn dân một cách hiệu quả?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Chính phủ thống nhất quản lý và bảo đảm sử dụng đúng mục đích, hiệu quả và tiết kiệm tài sản thuộc sở hữu toàn dân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="199">
+        <QUESTIONS>
+            <QUESTION>Việc chiếm hữu tài sản thuộc sở hữu toàn dân được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Những quy định nào cần tuân theo khi sử dụng tài sản thuộc sở hữu toàn dân?</QUESTION>
+            <QUESTION>Quy trình thực hiện quyền định đoạt đối với tài sản thuộc sở hữu toàn dân ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Việc chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu toàn dân được thực hiện trong phạm vi và theo trình tự do pháp luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="200">
+        <QUESTIONS>
+            <QUESTION>Khi tài sản thuộc sở hữu toàn dân được đầu tư vào doanh nghiệp, Nhà nước thực hiện quyền sở hữu như thế nào?</QUESTION>
+            <QUESTION>Các quy định nào áp dụng khi Nhà nước quản lý tài sản thuộc sở hữu toàn dân đầu tư vào doanh nghiệp?</QUESTION>
+            <QUESTION>Doanh nghiệp có trách nhiệm gì khi sử dụng tài sản do Nhà nước đầu tư?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi tài sản thuộc sở hữu toàn dân được đầu tư vào doanh nghiệp thì Nhà nước thực hiện quyền của chủ sở hữu đối với tài sản đó theo quy định của pháp luật về doanh nghiệp, quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp và quy định khác của pháp luật có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="200">
+        <QUESTIONS>
+            <QUESTION>Doanh nghiệp thực hiện quản lý tài sản nào do Nhà nước đầu tư?</QUESTION>
+            <QUESTION>Các quy định nào áp dụng đối với doanh nghiệp khi sử dụng tài sản Nhà nước đầu tư?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Doanh nghiệp thực hiện việc quản lý, sử dụng vốn, đất đai, tài nguyên và các tài sản khác do Nhà nước đầu tư theo quy định của pháp luật có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="201">
+        <QUESTIONS>
+            <QUESTION>Nhà nước thực hiện quyền gì khi tài sản thuộc sở hữu toàn dân được giao cho cơ quan nhà nước, đơn vị vũ trang nhân dân?</QUESTION>
+            <QUESTION>Nhà nước có trách nhiệm gì trong việc quản lý tài sản giao cho cơ quan nhà nước, đơn vị vũ trang nhân dân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi tài sản thuộc sở hữu toàn dân được giao cho cơ quan nhà nước, đơn vị vũ trang nhân dân thì Nhà nước thực hiện quyền kiểm tra, giám sát việc quản lý, sử dụng tài sản đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="201">
+        <QUESTIONS>
+            <QUESTION>Cơ quan nhà nước và đơn vị vũ trang nhân dân có nghĩa vụ gì đối với tài sản được Nhà nước giao?</QUESTION>
+            <QUESTION>Đối với tài sản giao cho cơ quan nhà nước và đơn vị vũ trang nhân dân, quy định pháp luật yêu cầu gì về việc sử dụng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Cơ quan nhà nước, đơn vị vũ trang nhân dân thực hiện việc quản lý, sử dụng đúng mục đích, theo quy định của pháp luật đối với tài sản được Nhà nước giao.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="202">
+        <QUESTIONS>
+            <QUESTION>Nhà nước thực hiện quyền gì khi tài sản thuộc sở hữu toàn dân được giao cho tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp?</QUESTION>
+            <QUESTION>Nhà nước có trách nhiệm gì trong việc giám sát tài sản giao cho các tổ chức chính trị, tổ chức xã hội?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi tài sản thuộc sở hữu toàn dân được giao cho tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp thì Nhà nước thực hiện quyền kiểm tra, giám sát việc quản lý, sử dụng tài sản đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="202">
+        <QUESTIONS>
+            <QUESTION>Tổ chức chính trị, tổ chức xã hội phải làm gì đối với tài sản được giao từ Nhà nước?</QUESTION>
+            <QUESTION>Quy định pháp luật yêu cầu gì đối với việc sử dụng tài sản giao cho tổ chức chính trị, tổ chức xã hội?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp thực hiện việc quản lý, sử dụng tài sản được Nhà nước giao đúng mục đích, phạm vi, theo cách thức, trình tự do pháp luật quy định, phù hợp với chức năng, nhiệm vụ được quy định trong điều lệ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="203">
+        <QUESTIONS>
+            <QUESTION>Cá nhân, pháp nhân có quyền gì đối với tài sản thuộc sở hữu toàn dân?</QUESTION>
+            <QUESTION>Điều kiện sử dụng tài sản thuộc sở hữu toàn dân của cá nhân và pháp nhân là gì?</QUESTION>
+            <QUESTION>Cá nhân, pháp nhân phải thực hiện nghĩa vụ gì khi sử dụng tài sản thuộc sở hữu toàn dân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Cá nhân, pháp nhân được sử dụng đất, khai thác nguồn lợi thủy sản, tài nguyên thiên nhiên và các tài sản khác thuộc sở hữu toàn dân đúng mục đích, có hiệu quả, thực hiện đầy đủ nghĩa vụ đối với Nhà nước theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="204">
+        <QUESTIONS>
+            <QUESTION>Tài sản thuộc sở hữu toàn dân chưa được giao cho cá nhân, pháp nhân quản lý sẽ được Chính phủ xử lý như thế nào?</QUESTION>
+            <QUESTION>Chính phủ có trách nhiệm gì đối với tài sản thuộc sở hữu toàn dân chưa được giao cho cá nhân, pháp nhân quản lý?</QUESTION>
+            <QUESTION>Quy trình xử lý tài sản thuộc sở hữu toàn dân chưa được giao cho cá nhân, pháp nhân quản lý được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Đối với tài sản thuộc sở hữu toàn dân mà chưa được giao cho cá nhân, pháp nhân quản lý thì Chính phủ tổ chức thực hiện việc bảo vệ, điều tra, khảo sát và lập quy hoạch đưa vào khai thác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="205">
+        <QUESTIONS>
+            <QUESTION>Sở hữu riêng là gì?</QUESTION>
+            <QUESTION>Sở hữu riêng có thể là của ai?</QUESTION>
+            <QUESTION>Đối tượng sở hữu riêng có phải chỉ là cá nhân không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Sở hữu riêng là sở hữu của một cá nhân hoặc một pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='31' article="205">
+        <QUESTIONS>
+            <QUESTION>Tài sản thuộc sở hữu riêng có bị hạn chế về số lượng không?</QUESTION>
+            <QUESTION>Có giới hạn nào về giá trị đối với tài sản thuộc sở hữu riêng không?</QUESTION>
+            <QUESTION>Tài sản hợp pháp thuộc sở hữu riêng có bị hạn chế không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Tài sản hợp pháp thuộc sở hữu riêng không bị hạn chế về số lượng, giá trị.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='32' article="206">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu có quyền gì đối với tài sản thuộc sở hữu riêng?</QUESTION>
+            <QUESTION>Chủ sở hữu có thể sử dụng tài sản thuộc sở hữu riêng cho mục đích gì?</QUESTION>
+            <QUESTION>Có phải tài sản thuộc sở hữu riêng chỉ có thể sử dụng cho mục đích sản xuất và kinh doanh?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Chủ sở hữu có quyền chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng nhằm phục vụ nhu cầu sinh hoạt, tiêu dùng, sản xuất, kinh doanh và các mục đích khác không trái pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='33' article="206">
+        <QUESTIONS>
+            <QUESTION>Có giới hạn nào đối với việc chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng không?</QUESTION>
+            <QUESTION>Việc sử dụng tài sản thuộc sở hữu riêng có thể gây thiệt hại hoặc ảnh hưởng đến những lợi ích nào?</QUESTION>
+            <QUESTION>Tài sản thuộc sở hữu riêng có thể sử dụng để gây thiệt hại đến lợi ích quốc gia không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng không được gây thiệt hại hoặc làm ảnh hưởng đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền và lợi ích hợp pháp của người khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='34' article="207">
+        <QUESTIONS>
+            <QUESTION>Sở hữu chung là gì?</QUESTION>
+            <QUESTION>Sở hữu chung có thể thuộc về bao nhiêu chủ thể?</QUESTION>
+            <QUESTION>Sở hữu chung có phải là sở hữu của một cá nhân không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Sở hữu chung là sở hữu của nhiều chủ thể đối với tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='35' article="207">
+        <QUESTIONS>
+            <QUESTION>Sở hữu chung bao gồm những loại nào?</QUESTION>
+            <QUESTION>Có phải sở hữu chung chỉ có một hình thức duy nhất không?</QUESTION>
+            <QUESTION>Sở hữu chung có thể phân chia thành những loại sở hữu nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Sở hữu chung bao gồm sở hữu chung theo phần và sở hữu chung hợp nhất.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='36' article="208">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu chung được xác lập như thế nào?</QUESTION>
+            <QUESTION>Quyền sở hữu chung có thể được xác lập thông qua những cách nào?</QUESTION>
+            <QUESTION>Sở hữu chung có thể được xác lập theo quy định của pháp luật không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Quyền sở hữu chung được xác lập theo thỏa thuận, theo quy định của pháp luật hoặc theo tập quán.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='37' article="209">
+        <QUESTIONS>
+            <QUESTION>Sở hữu chung theo phần là gì?</QUESTION>
+            <QUESTION>Các chủ sở hữu chung theo phần có quyền và nghĩa vụ như thế nào đối với tài sản chung?</QUESTION>
+            <QUESTION>Phần quyền sở hữu của mỗi chủ sở hữu trong sở hữu chung theo phần được xác định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Sở hữu chung theo phần là sở hữu chung mà trong đó phần quyền sở hữu của mỗi chủ sở hữu được xác định đối với tài sản chung.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='38' article="209">
+        <QUESTIONS>
+            <QUESTION>Mỗi chủ sở hữu chung theo phần có quyền và nghĩa vụ đối với tài sản chung như thế nào?</QUESTION>
+            <QUESTION>Có thể có thỏa thuận khác về quyền và nghĩa vụ của chủ sở hữu chung theo phần không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Mỗi chủ sở hữu chung theo phần có quyền, nghĩa vụ đối với tài sản thuộc sở hữu chung tương ứng với phần quyền sở hữu của mình, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='39' article="210">
+        <QUESTIONS>
+            <QUESTION>Sở hữu chung hợp nhất là gì?</QUESTION>
+            <QUESTION>Sở hữu chung hợp nhất bao gồm những loại nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Sở hữu chung hợp nhất là sở hữu chung mà trong đó, phần quyền sở hữu của mỗi chủ sở hữu chung không được xác định đối với tài sản chung. Sở hữu chung hợp nhất bao gồm sở hữu chung hợp nhất có thể phân chia và sở hữu chung hợp nhất không phân chia.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='40' article="210">
+        <QUESTIONS>
+            <QUESTION>Các chủ sở hữu chung hợp nhất có quyền và nghĩa vụ như thế nào đối với tài sản chung?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Các chủ sở hữu chung hợp nhất có quyền, nghĩa vụ ngang nhau đối với tài sản thuộc sở hữu chung.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='41' article="211">
+        <QUESTIONS>
+            <QUESTION>Sở hữu chung của cộng đồng là gì?</QUESTION>
+            <QUESTION>Sở hữu chung của cộng đồng được hình thành như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Sở hữu chung của cộng đồng là sở hữu của dòng họ, thôn, ấp, bản, làng, buôn, phum, sóc, cộng đồng tôn giáo và cộng đồng dân cư khác đối với tài sản được hình thành theo tập quán, tài sản do các thành viên của cộng đồng cùng nhau đóng góp, quyên góp, được tặng cho chung hoặc từ các nguồn khác phù hợp với quy định của pháp luật nhằm mục đích thỏa mãn lợi ích chung hợp pháp của cộng đồng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='42' article="211">
+        <QUESTIONS>
+            <QUESTION>Các thành viên của cộng đồng quản lý và sử dụng tài sản chung như thế nào?</QUESTION>
+            <QUESTION>Có những điều gì cần lưu ý khi quản lý và sử dụng tài sản chung của cộng đồng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Các thành viên của cộng đồng cùng quản lý, sử dụng, định đoạt tài sản chung theo thỏa thuận hoặc theo tập quán vì lợi ích chung của cộng đồng nhưng không được vi phạm điều cấm của luật, không trái đạo đức xã hội.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='43' article="211">
+        <QUESTIONS>
+            <QUESTION>Tài sản chung của cộng đồng có đặc điểm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Tài sản chung của cộng đồng là tài sản chung hợp nhất không phân chia.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='44' article="212">
+        <QUESTIONS>
+            <QUESTION>Tài sản của các thành viên gia đình cùng sống chung bao gồm những gì?</QUESTION>
+            <QUESTION>Tài sản của gia đình được xác lập quyền sở hữu theo những quy định nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Tài sản của các thành viên gia đình cùng sống chung gồm tài sản do các thành viên đóng góp, cùng nhau tạo lập nên và những tài sản khác được xác lập quyền sở hữu theo quy định của Bộ luật này và luật khác có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='45' article="212">
+        <QUESTIONS>
+            <QUESTION>Việc chiếm hữu, sử dụng, định đoạt tài sản chung của các thành viên gia đình được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Khi nào việc định đoạt tài sản chung của gia đình cần có sự thỏa thuận của tất cả các thành viên?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc chiếm hữu, sử dụng, định đoạt tài sản chung của các thành viên gia đình được thực hiện theo phương thức thỏa thuận. Trường hợp định đoạt tài sản là bất động sản, động sản có đăng ký, tài sản là nguồn thu nhập chủ yếu của gia đình phải có sự thỏa thuận của tất cả các thành viên gia đình là người thành niên có năng lực hành vi dân sự đầy đủ, trừ trường hợp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='46' article="212">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp không có thỏa thuận, việc chiếm hữu, sử dụng, định đoạt tài sản chung của gia đình sẽ như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp không có thỏa thuận thì áp dụng quy định về sở hữu chung theo phần được quy định tại Bộ luật này và luật khác có liên quan, trừ trường hợp quy định tại Điều 213 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='47' article="213">
+        <QUESTIONS>
+            <QUESTION>Sở hữu chung của vợ chồng là gì?</QUESTION>
+            <QUESTION>Sở hữu chung của vợ chồng có thể phân chia hay không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Sở hữu chung của vợ chồng là sở hữu chung hợp nhất có thể phân chia.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='48' article="213">
+        <QUESTIONS>
+            <QUESTION>Vợ chồng có quyền gì đối với tài sản chung?</QUESTION>
+            <QUESTION>Vợ chồng có quyền gì trong việc chiếm hữu, sử dụng và định đoạt tài sản chung?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Vợ chồng cùng nhau tạo lập, phát triển khối tài sản chung; có quyền ngang nhau trong việc chiếm hữu, sử dụng, định đoạt tài sản chung.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='49' article="213">
+        <QUESTIONS>
+            <QUESTION>Vợ chồng có thể thỏa thuận hoặc ủy quyền cho nhau về việc chiếm hữu, sử dụng và định đoạt tài sản chung không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Vợ chồng thỏa thuận hoặc ủy quyền cho nhau chiếm hữu, sử dụng, định đoạt tài sản chung.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='50' article="213">
+        <QUESTIONS>
+            <QUESTION>Tài sản chung của vợ chồng có thể phân chia như thế nào?</QUESTION>
+            <QUESTION>Có thể phân chia tài sản chung của vợ chồng theo quyết định của ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Tài sản chung của vợ chồng có thể phân chia theo thỏa thuận hoặc theo quyết định của Tòa án.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='51' article="213">
+        <QUESTIONS>
+            <QUESTION>Khi vợ chồng lựa chọn chế độ tài sản theo thỏa thuận, tài sản chung của họ sẽ được áp dụng như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Trường hợp vợ chồng lựa chọn chế độ tài sản theo thỏa thuận theo quy định của pháp luật về hôn nhân và gia đình thì tài sản chung của vợ chồng được áp dụng theo chế độ tài sản này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='52' article="214">
+        <QUESTIONS>
+            <QUESTION>Phần diện tích, trang thiết bị và các tài sản khác trong nhà chung cư có thuộc sở hữu chung không?</QUESTION>
+            <QUESTION>Sở hữu chung trong nhà chung cư có thể phân chia không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Phần diện tích, trang thiết bị và các tài sản khác dùng chung trong nhà chung cư theo quy định của Luật nhà ở thuộc sở hữu chung hợp nhất của tất cả chủ sở hữu các căn hộ trong nhà đó và không phân chia, trừ trường hợp luật có quy định khác hoặc tất cả các chủ sở hữu có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='53' article="214">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu các căn hộ trong nhà chung cư có quyền gì đối với tài sản chung trong nhà chung cư?</QUESTION>
+            <QUESTION>Chủ sở hữu các căn hộ trong nhà chung cư có nghĩa vụ gì đối với tài sản chung?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Chủ sở hữu các căn hộ trong nhà chung cư có quyền, nghĩa vụ ngang nhau trong việc quản lý, sử dụng tài sản quy định tại khoản 1 Điều này, trừ trường hợp luật có quy định khác hoặc có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='54' article="214">
+        <QUESTIONS>
+            <QUESTION>Trường hợp nhà chung cư bị tiêu hủy, quyền của chủ sở hữu căn hộ sẽ được thực hiện như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp nhà chung cư bị tiêu hủy thì quyền của chủ sở hữu căn hộ chung cư thực hiện theo quy định của luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='55' article="215">
+        <QUESTIONS>
+            <QUESTION>Sở hữu chung hỗn hợp là gì?</QUESTION>
+            <QUESTION>Ai là các chủ sở hữu trong sở hữu chung hỗn hợp?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Sở hữu chung hỗn hợp là sở hữu đối với tài sản do các chủ sở hữu thuộc các thành phần kinh tế khác nhau góp vốn để sản xuất, kinh doanh thu lợi nhuận.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='56' article="215">
+        <QUESTIONS>
+            <QUESTION>Tài sản nào được coi là thuộc sở hữu chung hỗn hợp?</QUESTION>
+            <QUESTION>Lợi nhuận thu được từ hoạt động sản xuất, kinh doanh có thuộc sở hữu chung hỗn hợp không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Tài sản được hình thành từ nguồn vốn góp của các chủ sở hữu, lợi nhuận hợp pháp thu được từ hoạt động sản xuất, kinh doanh hoặc từ nguồn khác phù hợp với quy định của pháp luật là tài sản thuộc sở hữu chung hỗn hợp.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='57' article="215">
+        <QUESTIONS>
+            <QUESTION>Việc chiếm hữu, sử dụng, định đoạt tài sản trong sở hữu chung hỗn hợp cần tuân theo quy định nào?</QUESTION>
+            <QUESTION>Những quy định pháp luật nào điều chỉnh việc quản lý tài sản trong sở hữu chung hỗn hợp?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu chung hỗn hợp phải tuân theo quy định tại Điều 209 của Bộ luật này và quy định của pháp luật có liên quan đến việc góp vốn, tổ chức, hoạt động sản xuất, kinh doanh, quản lý, điều hành, trách nhiệm về tài sản và phân chia lợi nhuận.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='58' article="216">
+        <QUESTIONS>
+            <QUESTION>Ai là những người quản lý tài sản chung?</QUESTION>
+            <QUESTION>Quản lý tài sản chung phải tuân theo nguyên tắc gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Các chủ sở hữu chung cùng quản lý tài sản chung theo nguyên tắc nhất trí, trừ trường hợp có thỏa thuận khác hoặc pháp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='59' article="217">
+        <QUESTIONS>
+            <QUESTION>Mỗi chủ sở hữu chung theo phần có quyền gì đối với tài sản chung?</QUESTION>
+            <QUESTION>Quyền khai thác công dụng, hưởng hoa lợi của mỗi chủ sở hữu chung theo phần có bị giới hạn không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Mỗi chủ sở hữu chung theo phần có quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản chung tương ứng với phần quyền sở hữu của mình, trừ trường hợp có thỏa thuận khác hoặc pháp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='60' article="217">
+        <QUESTIONS>
+            <QUESTION>Các chủ sở hữu chung hợp nhất có quyền gì đối với tài sản chung?</QUESTION>
+            <QUESTION>Quyền khai thác công dụng, hưởng hoa lợi, lợi tức của các chủ sở hữu chung hợp nhất có bị giới hạn không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Các chủ sở hữu chung hợp nhất có quyền ngang nhau trong việc khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản chung, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='61' article="218">
+        <QUESTIONS>
+            <QUESTION>Mỗi chủ sở hữu chung theo phần có quyền gì đối với phần quyền sở hữu của mình?</QUESTION>
+            <QUESTION>Quyền định đoạt phần quyền sở hữu của chủ sở hữu chung theo phần có bị giới hạn không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Mỗi chủ sở hữu chung theo phần có quyền định đoạt phần quyền sở hữu của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='62' article="218">
+        <QUESTIONS>
+            <QUESTION>Việc định đoạt tài sản chung hợp nhất được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Trong trường hợp nào pháp luật quy định về việc định đoạt tài sản chung hợp nhất?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc định đoạt tài sản chung hợp nhất được thực hiện theo thỏa thuận của các chủ sở hữu chung hoặc theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='63' article="218">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu chung theo phần có quyền ưu tiên mua khi nào?</QUESTION>
+            <QUESTION>Thời hạn quyền ưu tiên mua đối với tài sản chung là bất động sản và động sản được quy định thế nào?</QUESTION>
+            <QUESTION>Điều kiện bán phần quyền sở hữu cho chủ sở hữu chung khác được quy định như thế nào?</QUESTION>
+            <QUESTION>Nếu vi phạm quyền ưu tiên mua tài sản chung, chủ sở hữu chung có thể làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp một chủ sở hữu chung theo phần bán phần quyền sở hữu của mình thì chủ sở hữu chung khác được quyền ưu tiên mua. Trong thời hạn 03 tháng đối với tài sản chung là bất động sản, 01 tháng đối với tài sản chung là động sản, kể từ ngày các chủ sở hữu chung khác nhận được thông báo về việc bán và các điều kiện bán mà không có chủ sở hữu chung nào mua thì chủ sở hữu đó được quyền bán cho người khác. Việc thông báo phải được thể hiện bằng văn bản và các điều kiện bán cho chủ sở hữu chung khác phải giống như điều kiện bán cho người không phải là chủ sở hữu chung. Trường hợp bán phần quyền sở hữu mà có sự vi phạm về quyền ưu tiên mua thì trong thời hạn 03 tháng, kể từ ngày phát hiện có sự vi phạm về quyền ưu tiên mua, chủ sở hữu chung theo phần trong số các chủ sở hữu chung có quyền yêu cầu Tòa án chuyển sang cho mình quyền và nghĩa vụ của người mua; bên có lỗi gây thiệt hại phải bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='64' article="218">
+        <QUESTIONS>
+            <QUESTION>Phần quyền sở hữu của chủ sở hữu chung đối với bất động sản sẽ thuộc về ai nếu chủ sở hữu từ bỏ quyền sở hữu hoặc không có người thừa kế?</QUESTION>
+            <QUESTION>Điều gì xảy ra khi một chủ sở hữu chung bất động sản từ bỏ phần quyền sở hữu của mình hoặc khi người này chết mà không có người thừa kế?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Trường hợp một trong các chủ sở hữu chung đối với bất động sản từ bỏ phần quyền sở hữu của mình hoặc khi người này chết mà không có người thừa kế thì phần quyền sở hữu đó thuộc về Nhà nước, trừ trường hợp sở hữu chung của cộng đồng thì thuộc sở hữu chung của các chủ sở hữu chung còn lại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='65' article="218">
+        <QUESTIONS>
+            <QUESTION>Phần quyền sở hữu của chủ sở hữu chung đối với động sản sẽ thuộc về ai nếu chủ sở hữu từ bỏ quyền sở hữu hoặc không có người thừa kế?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Trường hợp một trong các chủ sở hữu chung đối với động sản từ bỏ phần quyền sở hữu của mình hoặc khi người này chết mà không có người thừa kế thì phần quyền sở hữu đó thuộc sở hữu chung của các chủ sở hữu còn lại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='66' article="218">
+        <QUESTIONS>
+            <QUESTION>Trường hợp tất cả các chủ sở hữu từ bỏ quyền sở hữu tài sản chung thì quyền sở hữu được xác lập như thế nào?</QUESTION>
+            <QUESTION>Điều gì xảy ra nếu tất cả các chủ sở hữu từ bỏ quyền sở hữu đối với tài sản chung?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='6'>Trường hợp tất cả các chủ sở hữu từ bỏ quyền sở hữu của mình đối với tài sản chung thì việc xác lập quyền sở hữu được áp dụng theo quy định tại Điều 228 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='67' article="219">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào chủ sở hữu chung có quyền yêu cầu chia tài sản chung?</QUESTION>
+            <QUESTION>Khi nào chủ sở hữu chung không thể yêu cầu chia tài sản chung ngay lập tức?</QUESTION>
+            <QUESTION>Làm thế nào để giải quyết khi tài sản chung không thể chia được bằng hiện vật?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp sở hữu chung có thể phân chia thì mỗi chủ sở hữu chung đều có quyền yêu cầu chia tài sản chung; nếu tình trạng sở hữu chung phải được duy trì trong một thời hạn theo thỏa thuận của các chủ sở hữu chung hoặc theo quy định của luật thì mỗi chủ sở hữu chung chỉ có quyền yêu cầu chia tài sản chung khi hết thời hạn đó; khi tài sản chung không thể chia được bằng hiện vật thì chủ sở hữu chung có yêu cầu chia có quyền bán phần quyền sở hữu của mình, trừ trường hợp các chủ sở hữu chung có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='68' article="219">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu chung phải làm gì khi có yêu cầu thanh toán nghĩa vụ nhưng không có tài sản riêng hoặc tài sản riêng không đủ để thanh toán?</QUESTION>
+            <QUESTION>Làm thế nào để giải quyết khi việc chia phần quyền sở hữu bằng hiện vật bị phản đối?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp có người yêu cầu một người trong số các chủ sở hữu chung thực hiện nghĩa vụ thanh toán và chủ sở hữu chung đó không có tài sản riêng hoặc tài sản riêng không đủ để thanh toán thì người yêu cầu có quyền yêu cầu chia tài sản chung và tham gia vào việc chia tài sản chung, trừ trường hợp pháp luật có quy định khác. Nếu không thể chia phần quyền sở hữu bằng hiện vật hoặc việc chia này bị các chủ sở hữu chung còn lại phản đối thì người có quyền có quyền yêu cầu người có nghĩa vụ bán phần quyền sở hữu của mình để thực hiện nghĩa vụ thanh toán.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='69' article="220">
+        <QUESTIONS>
+            <QUESTION>Khi nào sở hữu chung được xem là chấm dứt?</QUESTION>
+            <QUESTION>Sở hữu chung có chấm dứt nếu tài sản chung được chia không?</QUESTION>
+            <QUESTION>Sự phân chia tài sản chung ảnh hưởng thế nào đến việc chấm dứt sở hữu chung?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Sở hữu chung chấm dứt khi tài sản chung đã được chia.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='70' article="220">
+        <QUESTIONS>
+            <QUESTION>Trường hợp nào một chủ sở hữu chung có thể hưởng toàn bộ tài sản chung?</QUESTION>
+            <QUESTION>Nếu một chủ sở hữu được nhận toàn bộ tài sản chung, sở hữu chung có chấm dứt không?</QUESTION>
+            <QUESTION>Làm thế nào để xác định quyền hưởng toàn bộ tài sản chung của một chủ sở hữu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Sở hữu chung chấm dứt khi một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='71' article="220">
+        <QUESTIONS>
+            <QUESTION>Sở hữu chung có chấm dứt nếu tài sản chung không còn không?</QUESTION>
+            <QUESTION>Việc tài sản chung không còn có làm chấm dứt sở hữu chung không?</QUESTION>
+            <QUESTION>Trường hợp tài sản chung không còn, các chủ sở hữu sẽ xử lý như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Sở hữu chung chấm dứt khi tài sản chung không còn.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='72' article="220">
+        <QUESTIONS>
+            <QUESTION>Những trường hợp nào khác khiến sở hữu chung chấm dứt?</QUESTION>
+            <QUESTION>Sở hữu chung có chấm dứt nếu có quy định cụ thể từ luật không?</QUESTION>
+            <QUESTION>Các quy định pháp luật khác ảnh hưởng như thế nào đến việc chấm dứt sở hữu chung?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Sở hữu chung chấm dứt trong các trường hợp khác theo quy định của luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='73' article="221">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu được xác lập trong những trường hợp nào?</QUESTION>
+            <QUESTION>Hoạt động lao động, sản xuất hợp pháp có phải là căn cứ xác lập quyền sở hữu không?</QUESTION>
+            <QUESTION>Quyền sở hữu trí tuệ có ảnh hưởng gì đến việc xác lập quyền sở hữu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Quyền sở hữu được xác lập do lao động, do hoạt động sản xuất, kinh doanh hợp pháp, do hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='74' article="221">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu có được xác lập khi chuyển quyền sở hữu theo thỏa thuận không?</QUESTION>
+            <QUESTION>Tòa án hoặc cơ quan nhà nước có thể xác lập quyền sở hữu trong trường hợp nào?</QUESTION>
+            <QUESTION>Vai trò của các bản án, quyết định của cơ quan nhà nước trong việc xác lập quyền sở hữu là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Quyền sở hữu được xác lập khi được chuyển quyền sở hữu theo thỏa thuận hoặc theo bản án, quyết định của Tòa án, cơ quan nhà nước có thẩm quyền khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='75' article="221">
+        <QUESTIONS>
+            <QUESTION>Thu hoa lợi, lợi tức có phải là căn cứ xác lập quyền sở hữu không?</QUESTION>
+            <QUESTION>Hoa lợi, lợi tức được xác lập quyền sở hữu trong hoàn cảnh nào?</QUESTION>
+            <QUESTION>Quyền sở hữu được thiết lập khi thu lợi tức từ tài sản chung có đúng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Quyền sở hữu được xác lập khi thu hoa lợi, lợi tức.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='76' article="221">
+        <QUESTIONS>
+            <QUESTION>Việc tạo thành tài sản mới do sáp nhập hoặc trộn lẫn có xác lập quyền sở hữu không?</QUESTION>
+            <QUESTION>Quyền sở hữu có được xác lập khi tài sản mới được chế biến không?</QUESTION>
+            <QUESTION>Sáp nhập và chế biến tài sản ảnh hưởng thế nào đến quyền sở hữu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Quyền sở hữu được xác lập khi tạo thành tài sản mới do sáp nhập, trộn lẫn, chế biến.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='77' article="221">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu được xác lập thông qua việc thừa kế như thế nào?</QUESTION>
+            <QUESTION>Thừa kế tài sản có phải là một cách xác lập quyền sở hữu không?</QUESTION>
+            <QUESTION>Điều kiện nào áp dụng để xác lập quyền sở hữu khi thừa kế?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Quyền sở hữu được xác lập khi được thừa kế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='78' article="221">
+        <QUESTIONS>
+            <QUESTION>Chiếm hữu tài sản vô chủ có phải là căn cứ xác lập quyền sở hữu không?</QUESTION>
+            <QUESTION>Quyền sở hữu được xác lập khi tìm thấy tài sản bị chôn, giấu hoặc chìm đắm như thế nào?</QUESTION>
+            <QUESTION>Tài sản không xác định được chủ sở hữu có được xác lập quyền sở hữu không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='6'>Quyền sở hữu được xác lập khi chiếm hữu trong các điều kiện do pháp luật quy định đối với tài sản vô chủ, tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản do người khác đánh rơi, bỏ quên; gia súc, gia cầm bị thất lạc, vật nuôi dưới nước di chuyển tự nhiên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='79' article="221">
+        <QUESTIONS>
+            <QUESTION>Chiếm hữu tài sản theo Điều 236 có phải là căn cứ xác lập quyền sở hữu không?</QUESTION>
+            <QUESTION>Những lợi ích từ tài sản chiếm hữu được xử lý như thế nào theo quy định tại Điều 236?</QUESTION>
+            <QUESTION>Quyền sở hữu được xác lập qua lợi ích từ tài sản chiếm hữu đúng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='7'>Quyền sở hữu được xác lập khi chiếm hữu, được lợi về tài sản theo quy định tại Điều 236 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='80' article="221">
+        <QUESTIONS>
+            <QUESTION>Những trường hợp nào khác do luật quy định có thể xác lập quyền sở hữu?</QUESTION>
+            <QUESTION>Luật có thể quy định những điều kiện nào khác để xác lập quyền sở hữu?</QUESTION>
+            <QUESTION>Các quy định pháp luật khác về xác lập quyền sở hữu bao gồm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='8'>Quyền sở hữu được xác lập trong trường hợp khác do luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='81' article="222">
+        <QUESTIONS>
+            <QUESTION>Người lao động có quyền sở hữu tài sản có được từ lao động không?</QUESTION>
+            <QUESTION>Quyền sở hữu đối với tài sản có được từ lao động xác lập từ thời điểm nào?</QUESTION>
+            <QUESTION>Tài sản có được từ lao động, hoạt động sản xuất, kinh doanh hợp pháp có phải là tài sản của người lao động không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người lao động, người tiến hành hoạt động sản xuất, kinh doanh hợp pháp có quyền sở hữu đối với tài sản có được từ lao động, hoạt động sản xuất, kinh doanh hợp pháp, kể từ thời điểm có được tài sản đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='82' article="222">
+        <QUESTIONS>
+            <QUESTION>Người tiến hành hoạt động sáng tạo có quyền sở hữu tài sản do sáng tạo ra không?</QUESTION>
+            <QUESTION>Quyền sở hữu đối với tài sản có được từ hoạt động sáng tạo thuộc về ai?</QUESTION>
+            <QUESTION>Điều luật này quy định quyền sở hữu tài sản sáng tạo như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người tiến hành hoạt động sáng tạo có quyền sở hữu đối với tài sản có được từ hoạt động sáng tạo theo quy định của Luật sở hữu trí tuệ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='83' article="223">
+        <QUESTIONS>
+            <QUESTION>Người được giao tài sản thông qua hợp đồng có quyền sở hữu tài sản đó không?</QUESTION>
+            <QUESTION>Các loại hợp đồng nào có thể xác lập quyền sở hữu tài sản?</QUESTION>
+            <QUESTION>Quyền sở hữu tài sản được xác lập như thế nào theo hợp đồng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người được giao tài sản thông qua hợp đồng mua bán, tặng cho, trao đổi, cho vay hoặc hợp đồng chuyển quyền sở hữu khác theo quy định của pháp luật thì có quyền sở hữu tài sản đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='84' article="224">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu và người sử dụng tài sản có quyền sở hữu đối với hoa lợi, lợi tức không?</QUESTION>
+            <QUESTION>Quyền sở hữu hoa lợi, lợi tức được xác lập như thế nào?</QUESTION>
+            <QUESTION>Thời điểm quyền sở hữu đối với hoa lợi, lợi tức được xác lập là khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu, người sử dụng tài sản có quyền sở hữu đối với hoa lợi, lợi tức theo thỏa thuận hoặc theo quy định của pháp luật, kể từ thời điểm thu được hoa lợi, lợi tức đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='85' article="225">
+        <QUESTIONS>
+            <QUESTION>Khi tài sản của nhiều chủ sở hữu khác nhau được sáp nhập, quyền sở hữu tài sản mới được xác lập như thế nào?</QUESTION>
+            <QUESTION>Khi tài sản sáp nhập là vật chính và vật phụ, ai sẽ là chủ sở hữu của tài sản mới?</QUESTION>
+            <QUESTION>Khi tài sản của nhiều chủ sở hữu được sáp nhập, tài sản mới tạo thành sẽ thuộc về ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp tài sản của nhiều chủ sở hữu khác nhau được sáp nhập với nhau tạo thành vật không chia được và không thể xác định tài sản đem sáp nhập là vật chính hoặc vật phụ thì vật mới được tạo thành là tài sản thuộc sở hữu chung của các chủ sở hữu đó; nếu tài sản đem sáp nhập là vật chính và vật phụ thì vật mới được tạo thành thuộc chủ sở hữu vật chính, kể từ thời điểm vật mới được tạo thành, chủ sở hữu tài sản mới phải thanh toán cho chủ sở hữu vật phụ phần giá trị của vật phụ đó, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='86' article="225">
+        <QUESTIONS>
+            <QUESTION>Quyền của chủ sở hữu tài sản bị sáp nhập khi tài sản động sản bị sáp nhập vào tài sản động sản của mình mà không có sự đồng ý của chủ sở hữu?</QUESTION>
+            <QUESTION>Khi tài sản động sản của người khác bị sáp nhập vào tài sản của mình mà không có sự đồng ý, chủ sở hữu tài sản bị sáp nhập có quyền gì?</QUESTION>
+            <QUESTION>Khi tài sản động sản bị sáp nhập trái phép, chủ sở hữu tài sản bị sáp nhập có quyền yêu cầu gì từ người sáp nhập?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi một người sáp nhập tài sản là động sản của người khác vào tài sản là động sản của mình, mặc dù đã biết hoặc phải biết tài sản đó không phải là của mình và cũng không được sự đồng ý của chủ sở hữu tài sản bị sáp nhập thì chủ sở hữu tài sản bị sáp nhập có một trong các quyền sau đây: a) Yêu cầu người sáp nhập tài sản giao tài sản mới cho mình và thanh toán cho người sáp nhập giá trị tài sản của người đó; b) Yêu cầu người sáp nhập tài sản thanh toán giá trị phần tài sản của mình và bồi thường thiệt hại nếu không nhận tài sản mới; c) Quyền khác theo quy định của luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='87' article="225">
+        <QUESTIONS>
+            <QUESTION>Khi tài sản động sản bị sáp nhập vào tài sản bất động sản của mình mà không có sự đồng ý của chủ sở hữu, chủ sở hữu tài sản bị sáp nhập có quyền gì?</QUESTION>
+            <QUESTION>Khi tài sản động sản bị sáp nhập trái phép vào bất động sản của người khác, quyền của chủ sở hữu tài sản bị sáp nhập là gì?</QUESTION>
+            <QUESTION>Khi tài sản bị sáp nhập trái phép vào bất động sản, chủ sở hữu tài sản bị sáp nhập có thể yêu cầu gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Khi một người sáp nhập tài sản là động sản của người khác vào tài sản là bất động sản của mình, mặc dù đã biết hoặc phải biết tài sản đó không phải là của mình và cũng không được sự đồng ý của chủ sở hữu tài sản bị sáp nhập thì chủ sở hữu tài sản bị sáp nhập có một trong các quyền sau đây: a) Yêu cầu người sáp nhập tài sản thanh toán giá trị phần tài sản của mình và bồi thường thiệt hại; b) Quyền khác theo quy định của luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='88' article="225">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu bất động sản có quyền gì khi tài sản động sản của người khác bị sáp nhập trái phép vào bất động sản của mình?</QUESTION>
+            <QUESTION>Chủ sở hữu bất động sản có thể yêu cầu gì khi tài sản động sản bị sáp nhập vào tài sản của mình mà không có sự đồng ý?</QUESTION>
+            <QUESTION>Khi tài sản động sản bị sáp nhập trái phép vào bất động sản, chủ sở hữu bất động sản có quyền yêu cầu dỡ bỏ tài sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Khi một người sáp nhập tài sản là động sản của mình vào một bất động sản của người khác thì chủ sở hữu bất động sản có quyền yêu cầu người sáp nhập dỡ bỏ tài sản sáp nhập trái phép và bồi thường thiệt hại hoặc giữ lại tài sản và thanh toán cho người sáp nhập giá trị tài sản sáp nhập, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='89' article="226">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp tài sản của nhiều chủ sở hữu khác nhau được trộn lẫn với nhau, tài sản mới sẽ thuộc về ai?</QUESTION>
+            <QUESTION>Quyền sở hữu tài sản mới được xác lập khi tài sản được trộn lẫn là như thế nào?</QUESTION>
+            <QUESTION>Khi tài sản của nhiều chủ sở hữu được trộn lẫn tạo thành vật mới, quyền sở hữu tài sản mới thuộc về ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp tài sản của nhiều chủ sở hữu khác nhau được trộn lẫn với nhau tạo thành vật mới không chia được thì vật mới là tài sản thuộc sở hữu chung của các chủ sở hữu đó, kể từ thời điểm trộn lẫn.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='90' article="226">
+        <QUESTIONS>
+            <QUESTION>Quyền của chủ sở hữu tài sản bị trộn lẫn khi tài sản của mình bị trộn lẫn vào tài sản của người khác là gì?</QUESTION>
+            <QUESTION>Khi tài sản của mình bị trộn lẫn vào tài sản của người khác mà không có sự đồng ý, chủ sở hữu tài sản bị trộn lẫn có quyền gì?</QUESTION>
+            <QUESTION>Khi tài sản bị trộn lẫn trái phép, chủ sở hữu tài sản bị trộn lẫn có thể yêu cầu gì từ người trộn lẫn?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi một người đã trộn lẫn tài sản của người khác vào tài sản của mình, mặc dù đã biết hoặc phải biết tài sản đó không phải của mình và không được sự đồng ý của chủ sở hữu tài sản bị trộn lẫn thì chủ sở hữu tài sản bị trộn lẫn có một trong các quyền sau đây: a) Yêu cầu người đã trộn lẫn tài sản giao tài sản mới cho mình và thanh toán cho người đã trộn lẫn phần giá trị tài sản của người đó; b) Yêu cầu người đã trộn lẫn tài sản thanh toán giá trị phần tài sản của mình và bồi thường thiệt hại nếu không nhận tài sản mới.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='91' article="227">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu của nguyên vật liệu được đem chế biến sẽ có quyền sở hữu như thế nào đối với vật mới?</QUESTION>
+            <QUESTION>Khi nguyên vật liệu được đem chế biến tạo thành vật mới, ai là người sở hữu vật mới?</QUESTION>
+            <QUESTION>Chủ sở hữu nguyên vật liệu có quyền gì đối với vật mới được chế biến từ nguyên vật liệu của mình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Chủ sở hữu của nguyên vật liệu được đem chế biến tạo thành vật mới là chủ sở hữu của vật mới được tạo thành.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='92' article="227">
+        <QUESTIONS>
+            <QUESTION>Người dùng nguyên vật liệu thuộc sở hữu của người khác để chế biến mà ngay tình sẽ có quyền sở hữu gì đối với vật mới?</QUESTION>
+            <QUESTION>Người chế biến nguyên vật liệu của người khác mà không biết là vi phạm có quyền sở hữu đối với vật mới không?</QUESTION>
+            <QUESTION>Trong trường hợp chế biến tài sản của người khác mà ngay tình, người chế biến cần làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người dùng nguyên vật liệu thuộc sở hữu của người khác để chế biến mà ngay tình thì trở thành chủ sở hữu của tài sản mới nhưng phải thanh toán giá trị nguyên vật liệu, bồi thường thiệt hại cho chủ sở hữu nguyên vật liệu đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='93' article="227">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp người chế biến không ngay tình, chủ sở hữu nguyên vật liệu có quyền gì đối với vật mới?</QUESTION>
+            <QUESTION>Khi người chế biến không ngay tình, chủ sở hữu nguyên vật liệu có thể yêu cầu gì từ người chế biến?</QUESTION>
+            <QUESTION>Chủ sở hữu nguyên vật liệu có quyền gì nếu vật mới được chế biến từ tài sản của mình mà không ngay tình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp người chế biến không ngay tình thì chủ sở hữu nguyên vật liệu có quyền yêu cầu giao lại vật mới; nếu có nhiều chủ sở hữu nguyên vật liệu thì những người này là đồng chủ sở hữu theo phần đối với vật mới được tạo thành, tương ứng với giá trị nguyên vật liệu của mỗi người. Chủ sở hữu nguyên vật liệu bị chế biến không ngay tình có quyền yêu cầu người chế biến bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='94' article="228">
+        <QUESTIONS>
+            <QUESTION>Tài sản vô chủ là tài sản như thế nào?</QUESTION>
+            <QUESTION>Người phát hiện tài sản vô chủ sẽ có quyền gì đối với tài sản đó?</QUESTION>
+            <QUESTION>Khi tài sản vô chủ là động sản, ai có quyền sở hữu tài sản đó?</QUESTION>
+            <QUESTION>Khi tài sản vô chủ là bất động sản, ai sẽ là chủ sở hữu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Tài sản vô chủ là tài sản mà chủ sở hữu đã từ bỏ quyền sở hữu đối với tài sản đó. Người đã phát hiện, người đang quản lý tài sản vô chủ là động sản thì có quyền sở hữu tài sản đó, trừ trường hợp luật có quy định khác; nếu tài sản là bất động sản thì thuộc về Nhà nước.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='95' article="228">
+        <QUESTIONS>
+            <QUESTION>Khi phát hiện tài sản không xác định được chủ sở hữu, người phát hiện phải làm gì?</QUESTION>
+            <QUESTION>Khi phát hiện tài sản vô chủ, người phát hiện phải thông báo cho ai?</QUESTION>
+            <QUESTION>Cần phải lập biên bản khi giao nộp tài sản cho Ủy ban nhân dân cấp xã hay công an cấp xã không?</QUESTION>
+            <QUESTION>Trong biên bản giao nộp tài sản, thông tin nào cần ghi rõ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người phát hiện tài sản không xác định được ai là chủ sở hữu phải thông báo hoặc giao nộp cho Ủy ban nhân dân cấp xã hoặc công an cấp xã nơi gần nhất để thông báo công khai cho chủ sở hữu biết mà nhận lại. Việc giao nộp phải được lập biên bản, trong đó ghi rõ họ, tên, địa chỉ của người giao nộp, người nhận, tình trạng, số lượng, khối lượng tài sản giao nộp.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='96' article="228">
+        <QUESTIONS>
+            <QUESTION>Ủy ban nhân dân cấp xã hoặc công an cấp xã sẽ làm gì khi nhận tài sản vô chủ?</QUESTION>
+            <QUESTION>Sau khi giao nộp tài sản, người phát hiện có được thông báo gì không?</QUESTION>
+            <QUESTION>Sau bao lâu, nếu không xác định được chủ sở hữu của tài sản động sản, quyền sở hữu sẽ thuộc về ai?</QUESTION>
+            <QUESTION>Sau bao lâu, nếu không xác định được chủ sở hữu của tài sản bất động sản, tài sản sẽ thuộc về ai?</QUESTION>
+            <QUESTION>Người phát hiện tài sản vô chủ sẽ được thưởng gì nếu không xác định được chủ sở hữu của bất động sản sau 5 năm?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Ủy ban nhân dân cấp xã hoặc công an cấp xã đã nhận tài sản phải thông báo cho người phát hiện về kết quả xác định chủ sở hữu. Sau 01 năm, kể từ ngày thông báo công khai mà không xác định được ai là chủ sở hữu tài sản là động sản thì quyền sở hữu đối với động sản đó thuộc về người phát hiện tài sản. Sau 05 năm, kể từ ngày thông báo công khai mà không xác định được ai là chủ sở hữu tài sản là bất động sản thì bất động sản đó thuộc về Nhà nước; người phát hiện được hưởng một khoản tiền thưởng theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='97' article="229">
+        <QUESTIONS>
+            <QUESTION>Khi phát hiện tài sản bị chôn, giấu, vùi lấp, chìm đắm, người phát hiện phải làm gì?</QUESTION>
+            <QUESTION>Khi không biết chủ sở hữu tài sản bị chôn, giấu, vùi lấp, chìm đắm, người phát hiện phải làm gì?</QUESTION>
+            <QUESTION>Khi không xác định được chủ sở hữu của tài sản bị chôn, giấu, vùi lấp, chìm đắm, người phát hiện cần thông báo cho ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người phát hiện tài sản bị chôn, giấu, bị vùi lấp, chìm đắm phải thông báo hoặc trả lại ngay cho chủ sở hữu; nếu không biết ai là chủ sở hữu thì phải thông báo hoặc giao nộp cho Ủy ban nhân dân cấp xã hoặc công an cấp xã nơi gần nhất hoặc cơ quan nhà nước có thẩm quyền khác theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='98' article="229">
+        <QUESTIONS>
+            <QUESTION>Điều gì xảy ra khi tài sản bị chôn, giấu, vùi lấp, chìm đắm được tìm thấy mà không có chủ sở hữu xác định?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy mà không có hoặc không xác định được ai là chủ sở hữu thì sau khi trừ chi phí tìm kiếm, bảo quản, quyền sở hữu đối với tài sản này được xác định như sau:</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='99' article="229">
+        <QUESTIONS>
+            <QUESTION>Điều gì sẽ xảy ra với tài sản thuộc di tích lịch sử - văn hóa bị chôn, giấu, vùi lấp, chìm đắm khi được tìm thấy?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Tài sản được tìm thấy là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa thì thuộc về Nhà nước; người tìm thấy tài sản đó được hưởng một khoản tiền thưởng theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='100' article="229">
+        <QUESTIONS>
+            <QUESTION>Khi tài sản được tìm thấy không phải là tài sản thuộc di tích lịch sử - văn hóa, nếu giá trị của tài sản nhỏ hơn hoặc bằng mười lần mức lương cơ sở, ai sẽ sở hữu tài sản đó?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Tài sản được tìm thấy không phải là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa mà có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định thì thuộc sở hữu của người tìm thấy.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='101' article="229">
+        <QUESTIONS>
+            <QUESTION>Người tìm thấy tài sản có giá trị vượt mười lần mức lương cơ sở sẽ được hưởng phần giá trị nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Nếu tài sản tìm thấy có giá trị lớn hơn mười lần mức lương cơ sở do Nhà nước quy định thì người tìm thấy được hưởng giá trị bằng mười lần mức lương cơ sở do Nhà nước quy định và 50% giá trị của phần vượt quá mười lần mức lương cơ sở do Nhà nước quy định, phần giá trị còn lại thuộc về Nhà nước.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='102' article="230">
+        <QUESTIONS>
+            <QUESTION>Điều gì xảy ra khi người phát hiện tài sản do người khác đánh rơi, bỏ quên biết được địa chỉ của người đánh rơi hoặc bỏ quên?</QUESTION>
+            <QUESTION>Khi không biết địa chỉ của người đánh rơi hoặc bỏ quên, người phát hiện tài sản phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người phát hiện tài sản do người khác đánh rơi, bỏ quên mà biết được địa chỉ của người đánh rơi hoặc bỏ quên thì phải thông báo hoặc trả lại tài sản cho người đó; nếu không biết địa chỉ của người đánh rơi hoặc bỏ quên thì phải thông báo hoặc giao nộp cho Ủy ban nhân dân cấp xã hoặc công an cấp xã nơi gần nhất để thông báo công khai cho chủ sở hữu biết mà nhận lại.</ANSWER>
+            <ANSWER clause='1'>Ủy ban nhân dân cấp xã hoặc công an cấp xã đã nhận tài sản phải thông báo cho người đã giao nộp về kết quả xác định chủ sở hữu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='103' article="230">
+        <QUESTIONS>
+            <QUESTION>Điều gì sẽ xảy ra nếu tài sản bị đánh rơi, bỏ quên mà không xác định được chủ sở hữu hoặc chủ sở hữu không đến nhận sau 01 năm?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Sau 01 năm, kể từ ngày thông báo công khai về tài sản do người khác đánh rơi, bỏ quên mà không xác định được chủ sở hữu hoặc chủ sở hữu không đến nhận thì quyền sở hữu đối với tài sản này được xác định như sau:</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='104' article="230">
+        <QUESTIONS>
+            <QUESTION>Khi tài sản bị đánh rơi, bỏ quên có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở, ai sẽ sở hữu tài sản đó?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp tài sản bị đánh rơi, bỏ quên có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định thì người nhặt được được xác lập quyền sở hữu đối với tài sản đó theo quy định của Bộ luật này và quy định khác của pháp luật có liên quan;</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='105' article="230">
+        <QUESTIONS>
+            <QUESTION>Khi tài sản bị đánh rơi, bỏ quên có giá trị lớn hơn mười lần mức lương cơ sở, người nhặt được sẽ được hưởng phần giá trị nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp tài sản có giá trị lớn hơn mười lần mức lương cơ sở do Nhà nước quy định thì sau khi trừ chi phí bảo quản, người nhặt được được hưởng giá trị bằng mười lần mức lương cơ sở do Nhà nước quy định và 50% giá trị của phần vượt quá mười lần mức lương cơ sở do Nhà nước quy định, phần giá trị còn lại thuộc về Nhà nước;</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='106' article="230">
+        <QUESTIONS>
+            <QUESTION>Điều gì sẽ xảy ra khi tài sản bị đánh rơi, bỏ quên là tài sản thuộc di tích lịch sử - văn hóa?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp tài sản bị đánh rơi, bị bỏ quên là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa thì tài sản đó thuộc về Nhà nước; người nhặt được tài sản được hưởng một khoản tiền thưởng theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='107' article="231">
+        <QUESTIONS>
+            <QUESTION>Người bắt được gia súc bị thất lạc phải làm gì ngay sau khi bắt được gia súc?</QUESTION>
+            <QUESTION>Quyền sở hữu đối với gia súc bị thất lạc sẽ thuộc về người bắt được gia súc sau bao lâu kể từ ngày thông báo công khai?</QUESTION>
+            <QUESTION>Quy định gì áp dụng đối với gia súc thả rông theo tập quán?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người bắt được gia súc bị thất lạc phải nuôi giữ và báo ngay cho Ủy ban nhân dân cấp xã nơi người đó cư trú để thông báo công khai cho chủ sở hữu biết mà nhận lại.</ANSWER>
+            <ANSWER clause='1'>Sau 06 tháng, kể từ ngày thông báo công khai hoặc sau 01 năm đối với gia súc thả rông theo tập quán thì quyền sở hữu đối với gia súc và số gia súc được sinh ra trong thời gian nuôi giữ thuộc về người bắt được gia súc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='108' article="231">
+        <QUESTIONS>
+            <QUESTION>Khi chủ sở hữu nhận lại gia súc bị thất lạc, họ phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp chủ sở hữu được nhận lại gia súc bị thất lạc thì phải thanh toán tiền công nuôi giữ và các chi phí khác cho người bắt được gia súc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='109' article="231">
+        <QUESTIONS>
+            <QUESTION>Khi gia súc bị thất lạc có sinh con, người bắt được gia súc sẽ được hưởng phần gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trong thời gian nuôi giữ gia súc bị thất lạc, nếu gia súc có sinh con thì người bắt được gia súc được hưởng một nửa số gia súc sinh ra hoặc 50% giá trị số gia súc sinh ra.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='110' article="231">
+        <QUESTIONS>
+            <QUESTION>Người bắt được gia súc bị thất lạc phải làm gì nếu có lỗi cố ý làm chết gia súc?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người bắt được gia súc bị thất lạc phải bồi thường thiệt hại nếu có lỗi cố ý làm chết gia súc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='111' article="232">
+        <QUESTIONS>
+            <QUESTION>Người bắt được gia cầm bị thất lạc phải làm gì sau khi bắt được gia cầm?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp gia cầm của một người bị thất lạc mà người khác bắt được thì người bắt được phải thông báo công khai để chủ sở hữu gia cầm biết mà nhận lại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='112' article="232">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu đối với gia cầm sẽ thuộc về người bắt được gia cầm sau bao lâu kể từ ngày thông báo công khai nếu không có người đến nhận?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Sau 01 tháng, kể từ ngày thông báo công khai mà không có người đến nhận thì quyền sở hữu đối với gia cầm và hoa lợi do gia cầm sinh ra trong thời gian nuôi giữ thuộc về người bắt được gia cầm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='113' article="232">
+        <QUESTIONS>
+            <QUESTION>Khi chủ sở hữu nhận lại gia cầm bị thất lạc, họ phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp chủ sở hữu được nhận lại gia cầm bị thất lạc thì phải thanh toán tiền công nuôi giữ và chi phí khác cho người bắt được gia cầm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='114' article="232">
+        <QUESTIONS>
+            <QUESTION>Người bắt được gia cầm bị thất lạc sẽ được hưởng phần gì nếu gia cầm có sinh ra hoa lợi?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trong thời gian nuôi giữ gia cầm bị thất lạc, người bắt được gia cầm được hưởng hoa lợi do gia cầm sinh ra.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='115' article="232">
+        <QUESTIONS>
+            <QUESTION>Người bắt được gia cầm bị thất lạc phải làm gì nếu có lỗi cố ý làm chết gia cầm?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người bắt được gia cầm bị thất lạc phải bồi thường thiệt hại nếu có lỗi cố ý làm chết gia cầm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='116' article="233">
+        <QUESTIONS>
+            <QUESTION>Vật nuôi dưới nước của một người di chuyển tự nhiên vào ruộng, ao, hồ của người khác sẽ thuộc quyền sở hữu của ai?</QUESTION>
+            <QUESTION>Khi vật nuôi dưới nước di chuyển vào khu vực của người khác, ai là người sở hữu vật nuôi đó?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Khi vật nuôi dưới nước của một người di chuyển tự nhiên vào ruộng, ao, hồ của người khác thì thuộc sở hữu của người có ruộng, ao, hồ đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='117' article="233">
+        <QUESTIONS>
+            <QUESTION>Khi vật nuôi dưới nước có dấu hiệu riêng biệt, người có ruộng, ao, hồ cần làm gì?</QUESTION>
+            <QUESTION>Làm thế nào để xác định vật nuôi dưới nước không thuộc sở hữu của người có ruộng, ao, hồ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp vật nuôi dưới nước có dấu hiệu riêng biệt để có thể xác định vật nuôi không thuộc sở hữu của mình thì người có ruộng, ao, hồ đó phải thông báo công khai để chủ sở hữu biết mà nhận lại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='118' article="233">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp không có người đến nhận vật nuôi dưới nước sau thông báo công khai, quyền sở hữu sẽ thuộc về ai?</QUESTION>
+            <QUESTION>Sau bao lâu quyền sở hữu vật nuôi dưới nước sẽ chuyển sang người có ruộng, ao, hồ nếu không có chủ sở hữu đến nhận?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Sau 01 tháng, kể từ ngày thông báo công khai mà không có người đến nhận thì quyền sở hữu vật nuôi dưới nước đó thuộc về người có ruộng, ao, hồ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='119' article="234">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu đối với tài sản thừa kế được xác lập như thế nào?</QUESTION>
+            <QUESTION>Người thừa kế có quyền sở hữu tài sản thừa kế theo quy định nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người thừa kế được xác lập quyền sở hữu đối với tài sản thừa kế theo quy định tại Phần thứ tư của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='120' article="235">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu có thể được xác lập dựa trên cơ sở nào?</QUESTION>
+            <QUESTION>Cơ sở nào xác lập quyền sở hữu đối với tài sản?</QUESTION>
+            <QUESTION>Bản án, quyết định của cơ quan nào có thể xác lập quyền sở hữu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền sở hữu có thể được xác lập căn cứ vào bản án, quyết định có hiệu lực pháp luật của Tòa án, cơ quan nhà nước có thẩm quyền khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='121' article="236">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu tài sản có thể được xác lập dựa trên những yếu tố nào?</QUESTION>
+            <QUESTION>Ai có thể trở thành chủ sở hữu tài sản theo thời hiệu chiếm hữu?</QUESTION>
+            <QUESTION>Thời gian chiếm hữu tài sản bao lâu thì có thể trở thành chủ sở hữu đối với động sản?</QUESTION>
+            <QUESTION>Thời gian chiếm hữu tài sản bao lâu thì có thể trở thành chủ sở hữu đối với bất động sản?</QUESTION>
+            <QUESTION>Liệu có ngoại lệ nào đối với việc xác lập quyền sở hữu theo thời hiệu chiếm hữu tài sản không có căn cứ pháp luật?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người chiếm hữu, người được lợi về tài sản không có căn cứ pháp luật nhưng ngay tình, liên tục, công khai trong thời hạn 10 năm đối với động sản, 30 năm đối với bất động sản thì trở thành chủ sở hữu tài sản đó, kể từ thời điểm bắt đầu chiếm hữu, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='122' article="237">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu chấm dứt khi nào liên quan đến việc chuyển quyền sở hữu?</QUESTION>
+            <QUESTION>Chủ sở hữu có quyền chuyển nhượng tài sản của mình dẫn đến việc chấm dứt quyền sở hữu không?</QUESTION>
+            <QUESTION>Quyền sở hữu có thể chấm dứt khi tài sản được chuyển nhượng cho người khác không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Quyền sở hữu chấm dứt trong trường hợp chủ sở hữu chuyển quyền sở hữu của mình cho người khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='123' article="237">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu chấm dứt khi chủ sở hữu từ bỏ quyền sở hữu không?</QUESTION>
+            <QUESTION>Chủ sở hữu có thể từ bỏ quyền sở hữu tài sản của mình không?</QUESTION>
+            <QUESTION>Khi chủ sở hữu từ bỏ quyền sở hữu, quyền sở hữu của họ có bị chấm dứt không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Quyền sở hữu chấm dứt trong trường hợp chủ sở hữu từ bỏ quyền sở hữu của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='124' article="237">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu có thể chấm dứt khi tài sản bị tiêu dùng hoặc tiêu hủy không?</QUESTION>
+            <QUESTION>Tài sản bị tiêu dùng có làm mất quyền sở hữu không?</QUESTION>
+            <QUESTION>Quyền sở hữu có bị chấm dứt khi tài sản bị hủy hoại hoặc tiêu tan không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Quyền sở hữu chấm dứt khi tài sản đã được tiêu dùng hoặc bị tiêu hủy.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='125' article="237">
+        <QUESTIONS>
+            <QUESTION>Tài sản có thể bị xử lý để thực hiện nghĩa vụ của chủ sở hữu sẽ khiến quyền sở hữu chấm dứt phải không?</QUESTION>
+            <QUESTION>Khi tài sản bị xử lý để thực hiện nghĩa vụ, quyền sở hữu có bị mất không?</QUESTION>
+            <QUESTION>Quyền sở hữu của tài sản có thể bị chấm dứt khi tài sản bị xử lý theo pháp luật không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Quyền sở hữu chấm dứt khi tài sản bị xử lý để thực hiện nghĩa vụ của chủ sở hữu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='126' article="237">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu chấm dứt khi tài sản bị trưng mua không?</QUESTION>
+            <QUESTION>Tài sản bị trưng mua sẽ không thuộc sở hữu của chủ sở hữu cũ phải không?</QUESTION>
+            <QUESTION>Tài sản bị trưng mua có thể dẫn đến việc mất quyền sở hữu của người trước đó không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Quyền sở hữu chấm dứt khi tài sản bị trưng mua.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='127' article="237">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu có thể bị chấm dứt khi tài sản bị tịch thu không?</QUESTION>
+            <QUESTION>Quyền sở hữu của chủ sở hữu có bị mất khi tài sản bị tịch thu không?</QUESTION>
+            <QUESTION>Tài sản bị tịch thu có làm mất quyền sở hữu của người sở hữu không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='6'>Quyền sở hữu chấm dứt khi tài sản bị tịch thu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='128' article="237">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu có thể bị chấm dứt khi tài sản đã được xác lập quyền sở hữu cho người khác không?</QUESTION>
+            <QUESTION>Quyền sở hữu chấm dứt khi tài sản được chuyển nhượng cho người khác không?</QUESTION>
+            <QUESTION>Tài sản bị chuyển giao quyền sở hữu có thể làm chấm dứt quyền sở hữu của người trước đó không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='7'>Quyền sở hữu chấm dứt khi tài sản đã được xác lập quyền sở hữu cho người khác theo quy định của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='129' article="237">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu có thể bị chấm dứt trong trường hợp nào khác không?</QUESTION>
+            <QUESTION>Có trường hợp đặc biệt nào khác ngoài những trường hợp đã nêu để chấm dứt quyền sở hữu không?</QUESTION>
+            <QUESTION>Luật quy định các trường hợp nào khác có thể chấm dứt quyền sở hữu ngoài các trường hợp đã nêu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='8'>Quyền sở hữu có thể chấm dứt trong các trường hợp khác do luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='130' article="238">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu của chủ sở hữu chấm dứt khi nào trong trường hợp chuyển giao quyền sở hữu?</QUESTION>
+            <QUESTION>Khi chủ sở hữu chuyển quyền sở hữu cho người khác thì quyền sở hữu chấm dứt từ thời điểm nào?</QUESTION>
+            <QUESTION>Quyền sở hữu của chủ sở hữu bị chấm dứt khi chuyển giao quyền sở hữu qua các hợp đồng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền sở hữu của chủ sở hữu chấm dứt kể từ thời điểm phát sinh quyền sở hữu của người được chuyển giao.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='131' article="238">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu có thể chuyển giao quyền sở hữu của mình thông qua các hình thức hợp đồng nào?</QUESTION>
+            <QUESTION>Chủ sở hữu có thể chuyển nhượng quyền sở hữu thông qua hợp đồng mua bán không?</QUESTION>
+            <QUESTION>Chủ sở hữu có thể chuyển nhượng quyền sở hữu qua hợp đồng tặng cho không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu có thể chuyển giao quyền sở hữu thông qua hợp đồng mua bán, trao đổi, tặng cho, cho vay, hợp đồng chuyển quyền sở hữu khác theo quy định của pháp luật hoặc thông qua việc để thừa kế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='132' article="238">
+        <QUESTIONS>
+            <QUESTION>Chuyển giao quyền sở hữu thông qua thừa kế có làm chấm dứt quyền sở hữu của chủ sở hữu không?</QUESTION>
+            <QUESTION>Quyền sở hữu có bị chấm dứt khi tài sản được chuyển giao qua thừa kế không?</QUESTION>
+            <QUESTION>Chủ sở hữu có thể mất quyền sở hữu nếu tài sản được chuyển nhượng qua thừa kế không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền sở hữu của chủ sở hữu chấm dứt khi tài sản được chuyển giao qua thừa kế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='133' article="239">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu có thể từ bỏ quyền sở hữu tài sản của mình bằng cách nào?</QUESTION>
+            <QUESTION>Có phải chủ sở hữu cần tuyên bố công khai để từ bỏ quyền sở hữu không?</QUESTION>
+            <QUESTION>Việc từ bỏ quyền sở hữu có thể được chứng minh bằng hành vi nào không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu có thể tự chấm dứt quyền sở hữu đối với tài sản của mình bằng cách tuyên bố công khai hoặc thực hiện hành vi chứng tỏ việc mình từ bỏ quyền chiếm hữu, sử dụng và định đoạt tài sản đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='134' article="239">
+        <QUESTIONS>
+            <QUESTION>Có những trường hợp nào mà việc từ bỏ tài sản có thể gây hại đến trật tự, an toàn xã hội hoặc ô nhiễm môi trường?</QUESTION>
+            <QUESTION>Khi tài sản từ bỏ có thể gây hại đến môi trường, chủ sở hữu phải làm gì?</QUESTION>
+            <QUESTION>Việc từ bỏ quyền sở hữu tài sản gây hại đến trật tự xã hội có phải tuân theo quy định pháp luật không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Đối với tài sản mà việc từ bỏ tài sản đó có thể gây hại đến trật tự, an toàn xã hội, ô nhiễm môi trường thì việc từ bỏ quyền sở hữu phải tuân theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='135' article="240">
+        <QUESTIONS>
+            <QUESTION>Tài sản không xác định được chủ sở hữu sẽ như thế nào theo Điều 240?</QUESTION>
+            <QUESTION>Điều gì xảy ra với tài sản bị chôn, giấu, vùi lấp, chìm đắm sau khi được tìm thấy?</QUESTION>
+            <QUESTION>Quyền sở hữu của người sở hữu gia súc, gia cầm bị thất lạc có bị chấm dứt không?</QUESTION>
+            <QUESTION>Có phải quyền sở hữu của những người có vật nuôi dưới nước di chuyển tự nhiên sẽ chấm dứt khi tài sản đã được xác lập quyền sở hữu cho người khác không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc; vật nuôi dưới nước di chuyển tự nhiên đã được xác lập quyền sở hữu cho người khác theo quy định tại các điều từ Điều 228 đến Điều 233 của Bộ luật này thì quyền sở hữu của những người có tài sản đó chấm dứt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='136' article="240">
+        <QUESTIONS>
+            <QUESTION>Khi quyền sở hữu của người chiếm hữu tài sản đã được xác lập thì quyền sở hữu của người có tài sản bị chiếm hữu sẽ như thế nào?</QUESTION>
+            <QUESTION>Điều 240 có quy định gì về quyền sở hữu của người bị chiếm hữu tài sản?</QUESTION>
+            <QUESTION>Khi tài sản đã được xác lập quyền sở hữu cho người khác theo Điều 240, quyền sở hữu của người trước đó có bị ảnh hưởng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Khi quyền sở hữu của người chiếm hữu, người được lợi về tài sản đã được xác lập theo quy định tại Điều 236 của Bộ luật này hoặc quy định khác của luật có liên quan thì chấm dứt quyền sở hữu của người có tài sản bị chiếm hữu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='137' article="241">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu đối với tài sản sẽ chấm dứt trong trường hợp nào theo Điều 241?</QUESTION>
+            <QUESTION>Khi tài sản bị xử lý để thực hiện nghĩa vụ của chủ sở hữu theo quyết định của Tòa án, quyền sở hữu sẽ như thế nào?</QUESTION>
+            <QUESTION>Việc xử lý tài sản để thực hiện nghĩa vụ có áp dụng đối với tất cả các loại tài sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Quyền sở hữu đối với một tài sản chấm dứt khi tài sản đó bị xử lý để thực hiện nghĩa vụ của chủ sở hữu theo quyết định của Tòa án hoặc cơ quan nhà nước có thẩm quyền khác, nếu pháp luật không có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='138' article="241">
+        <QUESTIONS>
+            <QUESTION>Điều 241 có quy định gì về tài sản không thuộc diện kê biên khi xử lý nghĩa vụ của chủ sở hữu?</QUESTION>
+            <QUESTION>Việc xử lý tài sản không thuộc diện kê biên có được áp dụng theo Điều 241 không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc xử lý tài sản để thực hiện nghĩa vụ của chủ sở hữu không áp dụng đối với tài sản không thuộc diện kê biên theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='139' article="241">
+        <QUESTIONS>
+            <QUESTION>Khi quyền sở hữu đối với tài sản bị xử lý để thực hiện nghĩa vụ, thời điểm nào quyền sở hữu chấm dứt?</QUESTION>
+            <QUESTION>Quyền sở hữu đối với tài sản bị xử lý sẽ chấm dứt khi nào theo Điều 241?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Quyền sở hữu đối với tài sản bị xử lý để thực hiện nghĩa vụ của chủ sở hữu chấm dứt tại thời điểm phát sinh quyền sở hữu của người nhận tài sản đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='140' article="241">
+        <QUESTIONS>
+            <QUESTION>Có quy định gì về việc xử lý quyền sử dụng đất trong Điều 241 không?</QUESTION>
+            <QUESTION>Việc xử lý quyền sử dụng đất để thực hiện nghĩa vụ của chủ sở hữu sẽ được thực hiện như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Việc xử lý quyền sử dụng đất được thực hiện theo quy định của pháp luật về đất đai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='141' article="242">
+        <QUESTIONS>
+            <QUESTION>Khi tài sản được tiêu dùng hoặc bị tiêu hủy thì quyền sở hữu đối với tài sản đó sẽ như thế nào?</QUESTION>
+            <QUESTION>Điều 242 quy định như thế nào về quyền sở hữu đối với tài sản bị tiêu hủy?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Khi tài sản được tiêu dùng hoặc bị tiêu hủy thì quyền sở hữu đối với tài sản đó chấm dứt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='142' article="243">
+        <QUESTIONS>
+            <QUESTION>Điều gì xảy ra khi Nhà nước trưng mua tài sản theo quy định của luật?</QUESTION>
+            <QUESTION>Khi tài sản bị trưng mua, quyền sở hữu của chủ sở hữu sẽ chấm dứt như thế nào?</QUESTION>
+            <QUESTION>Quyền sở hữu đối với tài sản bị trưng mua chấm dứt từ thời điểm nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp Nhà nước trưng mua tài sản theo quy định của luật thì quyền sở hữu đối với tài sản của chủ sở hữu đó chấm dứt kể từ thời điểm quyết định của cơ quan nhà nước có thẩm quyền có hiệu lực pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='143' article="244">
+        <QUESTIONS>
+            <QUESTION>Điều gì xảy ra khi tài sản của chủ sở hữu bị tịch thu do phạm tội hoặc vi phạm hành chính?</QUESTION>
+            <QUESTION>Khi tài sản bị tịch thu, quyền sở hữu của chủ sở hữu sẽ chấm dứt từ thời điểm nào?</QUESTION>
+            <QUESTION>Quyền sở hữu đối với tài sản bị tịch thu chấm dứt khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Khi tài sản của chủ sở hữu do phạm tội, vi phạm hành chính mà bị tịch thu, sung quỹ nhà nước thì quyền sở hữu đối với tài sản đó chấm dứt kể từ thời điểm bản án, quyết định của Tòa án, cơ quan nhà nước có thẩm quyền khác có hiệu lực pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

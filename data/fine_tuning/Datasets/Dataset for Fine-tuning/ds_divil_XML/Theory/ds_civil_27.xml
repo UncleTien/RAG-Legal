@@ -1,0 +1,390 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>27</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="677">
+    <QUESTIONS>
+        <QUESTION>Cách xác định tài sản là động sản hay bất động sản dựa trên đâu?</QUESTION>
+        <QUESTION>Pháp luật của nước nào sẽ quyết định việc phân loại tài sản là động sản hay bất động sản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Việc phân loại tài sản là động sản, bất động sản được xác định theo pháp luật của nước nơi có tài sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="678">
+    <QUESTIONS>
+        <QUESTION>Cách xác định quyền sở hữu đối với tài sản được thực hiện như thế nào?</QUESTION>
+        <QUESTION>Pháp luật của nước nào được áp dụng để xác định quyền sở hữu đối với tài sản?</QUESTION>
+        <QUESTION>Việc thay đổi quyền sở hữu tài sản có phụ thuộc vào quốc gia nơi tài sản hiện diện không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Việc xác lập, thực hiện, thay đổi, chấm dứt quyền sở hữu và quyền khác đối với tài sản được xác định theo pháp luật của nước nơi có tài sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="678">
+    <QUESTIONS>
+        <QUESTION>Khi tài sản là động sản đang trên đường vận chuyển, quyền sở hữu được xác định như thế nào?</QUESTION>
+        <QUESTION>Pháp luật của quốc gia nào được áp dụng nếu động sản đang được vận chuyển?</QUESTION>
+        <QUESTION>Có phải có thỏa thuận nào giữa các bên khi xác định quyền sở hữu đối với động sản trên đường vận chuyển?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Quyền sở hữu và quyền khác đối với tài sản là động sản trên đường vận chuyển được xác định theo pháp luật của nước nơi động sản được chuyển đến, trừ trường hợp có thỏa thuận khác.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="679">
+    <QUESTIONS>
+        <QUESTION>Quyền sở hữu trí tuệ được xác định như thế nào?</QUESTION>
+        <QUESTION>Pháp luật của quốc gia nào được áp dụng khi xác định quyền sở hữu trí tuệ?</QUESTION>
+        <QUESTION>Đối tượng quyền sở hữu trí tuệ cần được yêu cầu bảo hộ tại quốc gia nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng quyền sở hữu trí tuệ được yêu cầu bảo hộ.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="680">
+    <QUESTIONS>
+        <QUESTION>Thừa kế được xác định theo pháp luật của quốc gia nào?</QUESTION>
+        <QUESTION>Pháp luật của quốc gia nào sẽ xác định quyền thừa kế đối với di sản thừa kế?</QUESTION>
+        <QUESTION>Thừa kế có thể được xác định theo pháp luật của quốc gia nào nếu người để lại di sản có quốc tịch khác?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Thừa kế được xác định theo pháp luật của nước mà người để lại di sản thừa kế có quốc tịch ngay trước khi chết.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="680">
+    <QUESTIONS>
+        <QUESTION>Quyền thừa kế đối với bất động sản được xác định như thế nào?</QUESTION>
+        <QUESTION>Pháp luật của quốc gia nào áp dụng đối với quyền thừa kế bất động sản?</QUESTION>
+        <QUESTION>Thừa kế bất động sản phải tuân theo pháp luật của quốc gia nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Việc thực hiện quyền thừa kế đối với bất động sản được xác định theo pháp luật của nước nơi có bất động sản đó.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="681">
+    <QUESTIONS>
+        <QUESTION>Năng lực lập di chúc, thay đổi hoặc hủy bỏ di chúc được xác định theo pháp luật của quốc gia nào?</QUESTION>
+        <QUESTION>Pháp luật của quốc gia nào sẽ xác định năng lực lập di chúc?</QUESTION>
+        <QUESTION>Pháp luật của quốc gia nào áp dụng khi thay đổi hoặc hủy bỏ di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Năng lực lập di chúc, thay đổi hoặc hủy bỏ di chúc được xác định theo pháp luật của nước mà người lập di chúc có quốc tịch tại thời điểm lập, thay đổi hoặc hủy bỏ di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="681">
+    <QUESTIONS>
+        <QUESTION>Hình thức của di chúc được xác định theo pháp luật của quốc gia nào?</QUESTION>
+        <QUESTION>Di chúc có thể được công nhận tại Việt Nam khi hình thức của nó phù hợp với pháp luật của quốc gia nào?</QUESTION>
+        <QUESTION>Hình thức của di chúc có ảnh hưởng bởi quốc gia nơi người lập di chúc cư trú không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Hình thức của di chúc được xác định theo pháp luật của nước nơi di chúc được lập.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="681">
+    <QUESTIONS>
+        <QUESTION>Pháp luật của quốc gia nào sẽ công nhận hình thức của di chúc tại Việt Nam?</QUESTION>
+        <QUESTION>Các quốc gia nào có thể công nhận hình thức của di chúc theo quy định tại Điều 681?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Hình thức của di chúc cũng được công nhận tại Việt Nam nếu phù hợp với pháp luật của một trong các nước nơi người lập di chúc cư trú tại thời điểm lập di chúc hoặc tại thời điểm người lập di chúc chết.</ANSWER>
+        <ANSWER clause='2'>Hình thức của di chúc cũng được công nhận tại Việt Nam nếu phù hợp với pháp luật của một trong các nước nơi người lập di chúc có quốc tịch tại thời điểm lập di chúc hoặc tại thời điểm người lập di chúc chết.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="681">
+    <QUESTIONS>
+        <QUESTION>Pháp luật của quốc gia nào sẽ công nhận hình thức di chúc nếu di sản là bất động sản?</QUESTION>
+        <QUESTION>Có sự khác biệt về hình thức di chúc đối với tài sản bất động sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Hình thức của di chúc cũng được công nhận tại Việt Nam nếu phù hợp với pháp luật của một trong các nước nơi có bất động sản nếu di sản thừa kế là bất động sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="682">
+    <QUESTIONS>
+        <QUESTION>Giám hộ được xác định theo pháp luật của quốc gia nào?</QUESTION>
+        <QUESTION>Pháp luật của nước nào sẽ xác định giám hộ đối với một cá nhân?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Giám hộ được xác định theo pháp luật của nước nơi người được giám hộ cư trú.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="683">
+    <QUESTIONS>
+        <QUESTION>Các bên trong quan hệ hợp đồng có thể thỏa thuận về gì?</QUESTION>
+        <QUESTION>Trường hợp các bên không thỏa thuận về pháp luật áp dụng, thì pháp luật nào sẽ được áp dụng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Các bên trong quan hệ hợp đồng được thỏa thuận lựa chọn pháp luật áp dụng đối với hợp đồng, trừ trường hợp quy định tại các khoản 4, 5 và 6 Điều này. Trường hợp các bên không có thỏa thuận về pháp luật áp dụng thì pháp luật của nước có mối liên hệ gắn bó nhất với hợp đồng đó được áp dụng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="683">
+    <QUESTIONS>
+        <QUESTION>Pháp luật của nước nào được coi là pháp luật của nước có mối liên hệ gắn bó nhất với hợp đồng mua bán hàng hóa?</QUESTION>
+        <QUESTION>Các yếu tố nào xác định pháp luật áp dụng đối với hợp đồng mua bán hàng hóa?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Pháp luật của nước nơi người bán cư trú nếu là cá nhân hoặc nơi thành lập nếu là pháp nhân đối với hợp đồng mua bán hàng hóa;</ANSWER>
+        <ANSWER clause='2'>Pháp luật áp dụng đối với hợp đồng mua bán hàng hóa được xác định dựa trên nơi cư trú của người bán hoặc nơi thành lập của pháp nhân bán hàng hóa.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="683">
+    <QUESTIONS>
+        <QUESTION>Pháp luật của nước nào áp dụng đối với hợp đồng dịch vụ?</QUESTION>
+        <QUESTION>Pháp luật áp dụng đối với hợp đồng dịch vụ được xác định như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Pháp luật của nước nơi người cung cấp dịch vụ cư trú nếu là cá nhân hoặc nơi thành lập nếu là pháp nhân đối với hợp đồng dịch vụ;</ANSWER>
+        <ANSWER clause='2'>Pháp luật áp dụng đối với hợp đồng dịch vụ được xác định dựa trên nơi cư trú của người cung cấp dịch vụ hoặc nơi thành lập của pháp nhân cung cấp dịch vụ.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="683">
+    <QUESTIONS>
+        <QUESTION>Pháp luật nào áp dụng đối với hợp đồng chuyển nhượng quyền sở hữu trí tuệ?</QUESTION>
+        <QUESTION>Pháp luật của nước nào sẽ được áp dụng đối với hợp đồng lao động?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Pháp luật của nước nơi người nhận quyền cư trú nếu là cá nhân hoặc nơi thành lập nếu là pháp nhân đối với hợp đồng chuyển giao quyền sử dụng hoặc chuyển nhượng quyền sở hữu trí tuệ;</ANSWER>
+        <ANSWER clause='2'>Pháp luật của nước nơi người lao động thường xuyên thực hiện công việc đối với hợp đồng lao động. Nếu người lao động thường xuyên thực hiện công việc tại nhiều nước khác nhau hoặc không xác định được nơi người lao động thường xuyên thực hiện công việc thì pháp luật của nước có mối liên hệ gắn bó nhất với hợp đồng lao động là pháp luật của nước nơi người sử dụng lao động cư trú đối với cá nhân hoặc thành lập đối với pháp nhân;</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="683">
+    <QUESTIONS>
+        <QUESTION>Pháp luật nào áp dụng đối với hợp đồng tiêu dùng?</QUESTION>
+        <QUESTION>Pháp luật của nước nơi người tiêu dùng cư trú áp dụng đối với loại hợp đồng nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Pháp luật của nước nơi người tiêu dùng cư trú đối với hợp đồng tiêu dùng.</ANSWER>
+        <ANSWER clause='2'>Pháp luật của nước nơi người tiêu dùng cư trú sẽ áp dụng đối với hợp đồng tiêu dùng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="683">
+    <QUESTIONS>
+        <QUESTION>Khi nào pháp luật khác có thể được áp dụng cho hợp đồng?</QUESTION>
+        <QUESTION>Pháp luật của nước nào sẽ được áp dụng nếu chứng minh được có mối liên hệ gắn bó hơn với hợp đồng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Trường hợp chứng minh được pháp luật của nước khác với pháp luật được nêu tại khoản 2 Điều này có mối liên hệ gắn bó hơn với hợp đồng thì pháp luật áp dụng là pháp luật của nước đó.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="683">
+    <QUESTIONS>
+        <QUESTION>Pháp luật nào áp dụng đối với hợp đồng có đối tượng là bất động sản?</QUESTION>
+        <QUESTION>Các yếu tố xác định pháp luật áp dụng đối với hợp đồng bất động sản là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='4'>Trường hợp hợp đồng có đối tượng là bất động sản thì pháp luật áp dụng đối với việc chuyển giao quyền sở hữu, quyền khác đối với tài sản là bất động sản, thuê bất động sản hoặc việc sử dụng bất động sản để bảo đảm thực hiện nghĩa vụ là pháp luật của nước nơi có bất động sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="683">
+    <QUESTIONS>
+        <QUESTION>Khi nào pháp luật Việt Nam sẽ được áp dụng đối với hợp đồng lao động, hợp đồng tiêu dùng?</QUESTION>
+        <QUESTION>Điều kiện nào làm cho pháp luật Việt Nam được áp dụng trong hợp đồng lao động và tiêu dùng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='5'>Trường hợp pháp luật do các bên lựa chọn trong hợp đồng lao động, hợp đồng tiêu dùng có ảnh hưởng đến quyền lợi tối thiểu của người lao động, người tiêu dùng theo quy định của pháp luật Việt Nam thì pháp luật Việt Nam được áp dụng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="683">
+    <QUESTIONS>
+        <QUESTION>Các bên trong hợp đồng có thể thỏa thuận thay đổi pháp luật áp dụng không?</QUESTION>
+        <QUESTION>Việc thay đổi pháp luật áp dụng có ảnh hưởng đến quyền lợi của người thứ ba không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='6'>Các bên có thể thỏa thuận thay đổi pháp luật áp dụng đối với hợp đồng nhưng việc thay đổi đó không được ảnh hưởng đến quyền, lợi ích hợp pháp của người thứ ba được hưởng trước khi thay đổi pháp luật áp dụng, trừ trường hợp người thứ ba đồng ý.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="683">
+    <QUESTIONS>
+        <QUESTION>Hình thức của hợp đồng được xác định như thế nào?</QUESTION>
+        <QUESTION>Trường hợp hình thức hợp đồng không phù hợp, sẽ như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='7'>Hình thức của hợp đồng được xác định theo pháp luật áp dụng đối với hợp đồng đó. Trường hợp hình thức của hợp đồng không phù hợp với hình thức hợp đồng theo pháp luật áp dụng đối với hợp đồng đó, nhưng phù hợp với hình thức hợp đồng theo pháp luật của nước nơi giao kết hợp đồng hoặc pháp luật Việt Nam thì hình thức hợp đồng đó được công nhận tại Việt Nam.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="684">
+    <QUESTIONS>
+        <QUESTION>Pháp luật áp dụng đối với hành vi pháp lý đơn phương là gì?</QUESTION>
+        <QUESTION>Pháp luật của nước nào áp dụng đối với hành vi pháp lý đơn phương của cá nhân hoặc pháp nhân?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Pháp luật áp dụng đối với hành vi pháp lý đơn phương là pháp luật của nước nơi cá nhân xác lập hành vi đó cư trú hoặc nơi pháp nhân xác lập hành vi đó được thành lập.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="685">
+    <QUESTIONS>
+        <QUESTION>Nghĩa vụ hoàn trả do chiếm hữu, sử dụng tài sản không có căn cứ pháp luật được xác định theo pháp luật của nước nào?</QUESTION>
+        <QUESTION>Pháp luật của nước nào áp dụng đối với nghĩa vụ hoàn trả do chiếm hữu, sử dụng tài sản không có căn cứ pháp luật?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Nghĩa vụ hoàn trả do chiếm hữu, sử dụng, được lợi về tài sản không có căn cứ pháp luật được xác định theo pháp luật của nước nơi thực hiện việc chiếm hữu, sử dụng tài sản hoặc nơi phát sinh lợi ích được hưởng mà không có căn cứ pháp luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="686">
+    <QUESTIONS>
+        <QUESTION>Các bên có quyền lựa chọn pháp luật áp dụng cho việc thực hiện công việc không có ủy quyền không?</QUESTION>
+        <QUESTION>Các bên có thể thỏa thuận thay đổi pháp luật áp dụng trong trường hợp thực hiện công việc không có ủy quyền không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Các bên được thỏa thuận lựa chọn pháp luật áp dụng cho việc thực hiện công việc không có ủy quyền.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="686">
+    <QUESTIONS>
+        <QUESTION>Pháp luật áp dụng đối với việc thực hiện công việc không có ủy quyền được xác định như thế nào nếu không có thỏa thuận giữa các bên?</QUESTION>
+        <QUESTION>Pháp luật của nước nào sẽ được áp dụng nếu không có sự thỏa thuận giữa các bên về việc lựa chọn pháp luật áp dụng cho công việc không có ủy quyền?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Trường hợp không có thỏa thuận thì pháp luật áp dụng là pháp luật của nước nơi thực hiện công việc không có ủy quyền.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="687">
+    <QUESTIONS>
+        <QUESTION>Các bên có quyền thỏa thuận lựa chọn pháp luật áp dụng cho việc bồi thường thiệt hại ngoài hợp đồng không?</QUESTION>
+        <QUESTION>Có trường hợp nào pháp luật không được các bên thỏa thuận lựa chọn áp dụng cho việc bồi thường thiệt hại ngoài hợp đồng không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Các bên được thỏa thuận lựa chọn pháp luật áp dụng cho việc bồi thường thiệt hại ngoài hợp đồng, trừ trường hợp quy định tại khoản 2 Điều này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="687">
+    <QUESTIONS>
+        <QUESTION>Pháp luật của nước nào sẽ được áp dụng nếu không có thỏa thuận về pháp luật áp dụng trong việc bồi thường thiệt hại ngoài hợp đồng?</QUESTION>
+        <QUESTION>Pháp luật của nước nơi nào được áp dụng đối với việc bồi thường thiệt hại ngoài hợp đồng nếu không có thỏa thuận?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Trường hợp không có thỏa thuận thì pháp luật của nước nơi phát sinh hậu quả của sự kiện gây thiệt hại được áp dụng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="687">
+    <QUESTIONS>
+        <QUESTION>Pháp luật của nước nào sẽ được áp dụng nếu bên gây thiệt hại và bên bị thiệt hại có nơi cư trú hoặc nơi thành lập ở cùng một nước?</QUESTION>
+        <QUESTION>Trong trường hợp bên gây thiệt hại và bên bị thiệt hại ở cùng một nước, pháp luật của nước đó có được áp dụng không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp bên gây thiệt hại và bên bị thiệt hại có nơi cư trú, đối với cá nhân hoặc nơi thành lập, đối với pháp nhân tại cùng một nước thì pháp luật của nước đó được áp dụng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="688">
+    <QUESTIONS>
+        <QUESTION>Pháp luật áp dụng đối với giao dịch dân sự chưa được thực hiện và có nội dung, hình thức khác với Bộ luật dân sự mới được quy định như thế nào?</QUESTION>
+        <QUESTION>Trong trường hợp các bên thỏa thuận sửa đổi giao dịch dân sự để phù hợp với Bộ luật dân sự mới, pháp luật áp dụng sẽ như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Giao dịch dân sự chưa được thực hiện mà có nội dung, hình thức khác với quy định của Bộ luật này thì chủ thể giao dịch tiếp tục thực hiện theo quy định của Bộ luật dân sự số 33/2005/QH11 và các văn bản quy phạm pháp luật quy định chi tiết Bộ luật dân sự số 33/2005/QH11, trừ trường hợp các bên của giao dịch dân sự có thỏa thuận về việc sửa đổi, bổ sung nội dung, hình thức của giao dịch để phù hợp với Bộ luật này và để áp dụng quy định của Bộ luật này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="688">
+    <QUESTIONS>
+        <QUESTION>Pháp luật áp dụng đối với giao dịch dân sự đang thực hiện nhưng có nội dung và hình thức khác với Bộ luật dân sự mới là gì?</QUESTION>
+        <QUESTION>Trong trường hợp giao dịch dân sự đang thực hiện mà không phù hợp với Bộ luật dân sự mới, quy định nào được áp dụng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Giao dịch dân sự đang được thực hiện mà có nội dung, hình thức khác với quy định của Bộ luật này thì áp dụng quy định của Bộ luật dân sự số 33/2005/QH11 và các văn bản quy phạm pháp luật quy định chi tiết Bộ luật dân sự số 33/2005/QH11.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='31' article="688">
+    <QUESTIONS>
+        <QUESTION>Pháp luật áp dụng đối với giao dịch dân sự có nội dung và hình thức phù hợp với quy định của Bộ luật này là gì?</QUESTION>
+        <QUESTION>Giao dịch dân sự chưa được thực hiện hoặc đang thực hiện và có nội dung và hình thức phù hợp với Bộ luật này sẽ áp dụng pháp luật nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Giao dịch dân sự chưa được thực hiện hoặc đang được thực hiện mà có nội dung và hình thức phù hợp với quy định của Bộ luật này thì áp dụng quy định của Bộ luật này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='32' article="688">
+    <QUESTIONS>
+        <QUESTION>Giao dịch dân sự đã được thực hiện xong trước ngày Bộ luật này có hiệu lực mà có tranh chấp thì pháp luật nào được áp dụng để giải quyết?</QUESTION>
+        <QUESTION>Trong trường hợp có tranh chấp liên quan đến giao dịch dân sự đã thực hiện xong, quy định nào được áp dụng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Giao dịch dân sự được thực hiện xong trước ngày Bộ luật này có hiệu lực mà có tranh chấp thì áp dụng quy định của Bộ luật dân sự số 33/2005/QH11 và các văn bản quy phạm pháp luật quy định chi tiết Bộ luật dân sự số 33/2005/QH11 để giải quyết.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='33' article="688">
+    <QUESTIONS>
+        <QUESTION>Thời hiệu được áp dụng theo quy định của Bộ luật nào?</QUESTION>
+        <QUESTION>Thời hiệu sẽ áp dụng theo Bộ luật dân sự mới hay cũ?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Thời hiệu được áp dụng theo quy định của Bộ luật này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='34' article="688">
+    <QUESTIONS>
+        <QUESTION>Bộ luật này có được áp dụng để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm đối với các vụ việc đã giải quyết trước khi có hiệu lực không?</QUESTION>
+        <QUESTION>Trong trường hợp vụ việc đã được giải quyết theo quy định của pháp luật trước ngày Bộ luật này có hiệu lực, có được áp dụng Bộ luật này để kháng nghị không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Không áp dụng Bộ luật này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm đối với vụ việc mà Tòa án đã giải quyết theo quy định của pháp luật về dân sự trước ngày Bộ luật này có hiệu lực.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='35' article="689">
+    <QUESTIONS>
+        <QUESTION>Bộ luật này có hiệu lực thi hành từ khi nào?</QUESTION>
+        <QUESTION>Ngày nào Bộ luật này chính thức có hiệu lực thi hành?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='36' article="689">
+    <QUESTIONS>
+        <QUESTION>Kể từ ngày Bộ luật này có hiệu lực, Bộ luật nào hết hiệu lực?</QUESTION>
+        <QUESTION>Bộ luật nào không còn hiệu lực sau khi Bộ luật này có hiệu lực?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Bộ luật dân sự số 33/2005/QH11 hết hiệu lực kể từ ngày Bộ luật này có hiệu lực.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='37' article="689">
+    <QUESTIONS>
+        <QUESTION>Bộ luật này được thông qua vào ngày nào và bởi cơ quan nào?</QUESTION>
+        <QUESTION>Bộ luật này đã được Quốc hội nào thông qua và vào kỳ họp nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Bộ luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 24 tháng 11 năm 2015.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

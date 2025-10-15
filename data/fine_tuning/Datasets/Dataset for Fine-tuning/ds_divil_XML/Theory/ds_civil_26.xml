@@ -1,0 +1,136 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>26</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="672">
+    <QUESTIONS>
+        <QUESTION>Khi cá nhân không có quốc tịch, pháp luật của quốc gia nào sẽ được áp dụng đối với quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Nếu cá nhân là người không quốc tịch và pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch, thì pháp luật áp dụng là pháp luật của nước nơi người đó cư trú vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài. Nếu không xác định được nơi cư trú, thì pháp luật áp dụng là pháp luật của nước nơi người đó có mối liên hệ gắn bó nhất.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="672">
+    <QUESTIONS>
+        <QUESTION>Khi cá nhân có nhiều quốc tịch, pháp luật của quốc gia nào sẽ được áp dụng đối với quan hệ dân sự có yếu tố nước ngoài?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Khi cá nhân có nhiều quốc tịch, pháp luật áp dụng là pháp luật của nước nơi người đó có quốc tịch và cư trú vào thời điểm phát sinh quan hệ dân sự có yếu tố nước ngoài. Nếu có nhiều nơi cư trú hoặc không xác định được nơi cư trú, pháp luật áp dụng là pháp luật của nước mà người đó có quốc tịch và có mối liên hệ gắn bó nhất.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="672">
+    <QUESTIONS>
+        <QUESTION>Pháp luật Việt Nam có được áp dụng trong trường hợp cá nhân có nhiều quốc tịch, trong đó có quốc tịch Việt Nam không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Nếu cá nhân có quốc tịch Việt Nam và nhiều quốc tịch khác, pháp luật Việt Nam sẽ được áp dụng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="673">
+    <QUESTIONS>
+        <QUESTION>Cách xác định năng lực pháp luật dân sự của cá nhân như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="673">
+    <QUESTIONS>
+        <QUESTION>Người nước ngoài tại Việt Nam có năng lực pháp luật dân sự như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Người nước ngoài tại Việt Nam có năng lực pháp luật dân sự như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam có quy định khác.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="674">
+    <QUESTIONS>
+        <QUESTION>Cách xác định năng lực hành vi dân sự của cá nhân được quy định như thế nào?</QUESTION>
+        <QUESTION>Năng lực hành vi dân sự của cá nhân có bị ảnh hưởng bởi quốc tịch không?</QUESTION>
+        <QUESTION>Quy định về năng lực hành vi dân sự có thay đổi tùy theo quốc gia không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, trừ trường hợp quy định tại khoản 2 Điều này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="674">
+    <QUESTIONS>
+        <QUESTION>Người nước ngoài tại Việt Nam có năng lực hành vi dân sự như thế nào?</QUESTION>
+        <QUESTION>Pháp luật Việt Nam có quy định khác về năng lực hành vi dân sự của người nước ngoài không?</QUESTION>
+        <QUESTION>Vì sao người nước ngoài tại Việt Nam lại có năng lực hành vi dân sự như công dân Việt Nam?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp người nước ngoài xác lập, thực hiện các giao dịch dân sự tại Việt Nam, năng lực hành vi dân sự của người nước ngoài đó được xác định theo pháp luật Việt Nam.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="674">
+    <QUESTIONS>
+        <QUESTION>Cách xác định một cá nhân có bị mất năng lực hành vi dân sự ở Việt Nam không?</QUESTION>
+        <QUESTION>Pháp luật Việt Nam có quy định như thế nào về việc mất năng lực hành vi dân sự?</QUESTION>
+        <QUESTION>Khi nào một cá nhân bị coi là có khó khăn trong nhận thức và làm chủ hành vi?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Việc xác định cá nhân bị mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi hoặc bị hạn chế năng lực hành vi dân sự tại Việt Nam theo pháp luật Việt Nam.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="675">
+    <QUESTIONS>
+        <QUESTION>Cách xác định một cá nhân mất tích hoặc chết được quy định như thế nào?</QUESTION>
+        <QUESTION>Pháp luật của nước nào sẽ được áp dụng để xác định cá nhân mất tích hoặc chết?</QUESTION>
+        <QUESTION>Có sự khác biệt nào trong việc xác định cá nhân mất tích hoặc chết tại Việt Nam không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch vào thời điểm trước khi có tin tức cuối cùng về người đó, trừ trường hợp quy định tại khoản 2 Điều này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="675">
+    <QUESTIONS>
+        <QUESTION>Việc xác định một cá nhân mất tích hoặc chết tại Việt Nam được thực hiện như thế nào?</QUESTION>
+        <QUESTION>Pháp luật Việt Nam có quy định riêng về việc xác định cá nhân mất tích hoặc chết không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Việc xác định tại Việt Nam một cá nhân mất tích hoặc chết theo pháp luật Việt Nam.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="676">
+    <QUESTIONS>
+        <QUESTION>Quốc tịch của pháp nhân được xác định như thế nào?</QUESTION>
+        <QUESTION>Pháp luật của nước nào sẽ được áp dụng để xác định quốc tịch của pháp nhân?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="676">
+    <QUESTIONS>
+        <QUESTION>Những yếu tố nào liên quan đến pháp nhân được xác định theo pháp luật của nước có quốc tịch của pháp nhân?</QUESTION>
+        <QUESTION>Pháp luật Việt Nam có ảnh hưởng như thế nào đến các quan hệ pháp lý của pháp nhân nước ngoài khi giao dịch tại Việt Nam?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Năng lực pháp luật dân sự của pháp nhân; tên gọi của pháp nhân; đại diện theo pháp luật của pháp nhân; việc tổ chức, tổ chức lại, giải thể pháp nhân; quan hệ giữa pháp nhân với thành viên của pháp nhân; trách nhiệm của pháp nhân và thành viên của pháp nhân đối với các nghĩa vụ của pháp nhân được xác định theo pháp luật của nước mà pháp nhân có quốc tịch, trừ trường hợp quy định tại khoản 3 Điều này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="676">
+    <QUESTIONS>
+        <QUESTION>Pháp nhân nước ngoài có thể thực hiện giao dịch dân sự tại Việt Nam không? Nếu có, pháp luật Việt Nam sẽ áp dụng như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam thì năng lực pháp luật dân sự của pháp nhân nước ngoài đó được xác định theo pháp luật Việt Nam.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

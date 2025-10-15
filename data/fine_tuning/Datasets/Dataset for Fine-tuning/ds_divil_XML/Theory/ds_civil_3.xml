@@ -1,0 +1,2014 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>3</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+        
+    <CONVERSATION id='1' article="16">
+        <QUESTIONS>
+            <QUESTION>Năng lực pháp luật dân sự của cá nhân là gì?</QUESTION>
+            <QUESTION>Khái niệm về năng lực pháp luật dân sự của cá nhân được quy định thế nào?</QUESTION>
+            <QUESTION>Cá nhân có khả năng nào trong việc thực hiện quyền và nghĩa vụ dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Năng lực pháp luật dân sự của cá nhân là khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="16">
+        <QUESTIONS>
+            <QUESTION>Mọi cá nhân có năng lực pháp luật dân sự như nhau không?</QUESTION>
+            <QUESTION>Luật quy định như thế nào về sự bình đẳng trong năng lực pháp luật dân sự của cá nhân?</QUESTION>
+            <QUESTION>Các cá nhân có quyền dân sự như nhau không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Mọi cá nhân đều có năng lực pháp luật dân sự như nhau.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="16">
+        <QUESTIONS>
+            <QUESTION>Năng lực pháp luật dân sự của cá nhân bắt đầu từ khi nào?</QUESTION>
+            <QUESTION>Thời điểm bắt đầu và chấm dứt năng lực pháp luật dân sự của cá nhân là khi nào?</QUESTION>
+            <QUESTION>Khi nào năng lực pháp luật dân sự của cá nhân chấm dứt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Năng lực pháp luật dân sự của cá nhân có từ khi người đó sinh ra và chấm dứt khi người đó chết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="17">
+        <QUESTIONS>
+            <QUESTION>Nội dung năng lực pháp luật dân sự của cá nhân bao gồm những quyền nào?</QUESTION>
+            <QUESTION>Quyền nhân thân của cá nhân trong năng lực pháp luật dân sự được quy định thế nào?</QUESTION>
+            <QUESTION>Cá nhân có quyền nhân thân gì trong năng lực pháp luật dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Quyền nhân thân không gắn với tài sản và quyền nhân thân gắn với tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="17">
+        <QUESTIONS>
+            <QUESTION>Quyền tài sản của cá nhân trong năng lực pháp luật dân sự là gì?</QUESTION>
+            <QUESTION>Cá nhân có quyền sở hữu và thừa kế tài sản trong năng lực pháp luật dân sự không?</QUESTION>
+            <QUESTION>Quyền khác đối với tài sản trong năng lực pháp luật dân sự được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Quyền sở hữu, quyền thừa kế và quyền khác đối với tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="17">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền tham gia quan hệ dân sự không?</QUESTION>
+            <QUESTION>Quan hệ dân sự của cá nhân bao gồm những quyền và nghĩa vụ nào?</QUESTION>
+            <QUESTION>Quyền và nghĩa vụ phát sinh từ quan hệ dân sự của cá nhân được quy định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Quyền tham gia quan hệ dân sự và có nghĩa vụ phát sinh từ quan hệ đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="18">
+        <QUESTIONS>
+            <QUESTION>Năng lực pháp luật dân sự của cá nhân có bị hạn chế không?</QUESTION>
+            <QUESTION>Trường hợp nào năng lực pháp luật dân sự của cá nhân bị hạn chế?</QUESTION>
+            <QUESTION>Bộ luật này quy định ra sao về việc hạn chế năng lực pháp luật dân sự của cá nhân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Năng lực pháp luật dân sự của cá nhân không bị hạn chế, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="19">
+        <QUESTIONS>
+            <QUESTION>Năng lực hành vi dân sự của cá nhân là gì?</QUESTION>
+            <QUESTION>Khái niệm năng lực hành vi dân sự của cá nhân được định nghĩa thế nào?</QUESTION>
+            <QUESTION>Khả năng xác lập, thực hiện quyền và nghĩa vụ dân sự của cá nhân được gọi là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Năng lực hành vi dân sự của cá nhân là khả năng của cá nhân bằng hành vi của mình xác lập, thực hiện quyền, nghĩa vụ dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="20">
+        <QUESTIONS>
+            <QUESTION>Người thành niên là ai?</QUESTION>
+            <QUESTION>Người thành niên được định nghĩa như thế nào?</QUESTION>
+            <QUESTION>Độ tuổi nào được coi là người thành niên?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người thành niên là người từ đủ mười tám tuổi trở lên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="20">
+        <QUESTIONS>
+            <QUESTION>Người thành niên có năng lực hành vi dân sự như thế nào?</QUESTION>
+            <QUESTION>Trường hợp nào người thành niên không có năng lực hành vi dân sự đầy đủ?</QUESTION>
+            <QUESTION>Quy định về năng lực hành vi dân sự của người thành niên là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người thành niên có năng lực hành vi dân sự đầy đủ, trừ trường hợp quy định tại các điều 22, 23 và 24 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="21">
+        <QUESTIONS>
+            <QUESTION>Người chưa thành niên được định nghĩa là ai?</QUESTION>
+            <QUESTION>Người chưa đủ mười tám tuổi được gọi là gì theo Bộ luật Dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người chưa thành niên là người chưa đủ mười tám tuổi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="21">
+        <QUESTIONS>
+            <QUESTION>Người chưa đủ sáu tuổi có thể tự mình thực hiện giao dịch dân sự không?</QUESTION>
+            <QUESTION>Giao dịch dân sự của người chưa đủ sáu tuổi được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Ai thực hiện giao dịch dân sự thay cho người chưa đủ sáu tuổi?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Giao dịch dân sự của người chưa đủ sáu tuổi do người đại diện theo pháp luật của người đó xác lập, thực hiện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="21">
+        <QUESTIONS>
+            <QUESTION>Người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi có thể tự thực hiện giao dịch dân sự không?</QUESTION>
+            <QUESTION>Giao dịch dân sự phục vụ nhu cầu sinh hoạt hàng ngày của người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi có cần sự đồng ý của người đại diện không?</QUESTION>
+            <QUESTION>Điều kiện để người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi thực hiện giao dịch dân sự là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi khi xác lập, thực hiện giao dịch dân sự phải được người đại diện theo pháp luật đồng ý, trừ giao dịch dân sự phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="21">
+        <QUESTIONS>
+            <QUESTION>Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có quyền tự thực hiện giao dịch dân sự không?</QUESTION>
+            <QUESTION>Những giao dịch dân sự nào người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi không được tự thực hiện?</QUESTION>
+            <QUESTION>Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi cần điều kiện gì khi thực hiện giao dịch dân sự liên quan đến bất động sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi tự mình xác lập, thực hiện giao dịch dân sự, trừ giao dịch dân sự liên quan đến bất động sản, động sản phải đăng ký và giao dịch dân sự khác theo quy định của luật phải được người đại diện theo pháp luật đồng ý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="22">
+        <QUESTIONS>
+            <QUESTION>Khi nào một người bị tuyên bố mất năng lực hành vi dân sự?</QUESTION>
+            <QUESTION>Điều kiện để Tòa án tuyên bố một người mất năng lực hành vi dân sự là gì?</QUESTION>
+            <QUESTION>Quy trình để tuyên bố một người mất năng lực hành vi dân sự bao gồm những gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi một người do bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức, làm chủ được hành vi thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết định tuyên bố người này là người mất năng lực hành vi dân sự trên cơ sở kết luận giám định pháp y tâm thần.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="22">
+        <QUESTIONS>
+            <QUESTION>Khi nào Tòa án hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự?</QUESTION>
+            <QUESTION>Quy định về việc hủy bỏ quyết định mất năng lực hành vi dân sự là gì?</QUESTION>
+            <QUESTION>Ai có quyền yêu cầu hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi không còn căn cứ tuyên bố một người mất năng lực hành vi dân sự thì theo yêu cầu của chính người đó hoặc của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="22">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự của người mất năng lực hành vi dân sự được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Ai là người xác lập, thực hiện giao dịch dân sự cho người mất năng lực hành vi dân sự?</QUESTION>
+            <QUESTION>Người đại diện theo pháp luật có vai trò gì trong giao dịch dân sự của người mất năng lực hành vi dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Giao dịch dân sự của người mất năng lực hành vi dân sự phải do người đại diện theo pháp luật xác lập, thực hiện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="23">
+        <QUESTIONS>
+            <QUESTION>Người có khó khăn trong nhận thức, làm chủ hành vi được định nghĩa như thế nào?</QUESTION>
+            <QUESTION>Khi nào một người được tuyên bố là có khó khăn trong nhận thức, làm chủ hành vi?</QUESTION>
+            <QUESTION>Điều kiện để Tòa án tuyên bố một người có khó khăn trong nhận thức, làm chủ hành vi là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người thành niên do tình trạng thể chất hoặc tinh thần mà không đủ khả năng nhận thức, làm chủ hành vi nhưng chưa đến mức mất năng lực hành vi dân sự thì theo yêu cầu của người này, người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, trên cơ sở kết luận giám định pháp y tâm thần, Tòa án ra quyết định tuyên bố người này là người có khó khăn trong nhận thức, làm chủ hành vi và chỉ định người giám hộ, xác định quyền, nghĩa vụ của người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="23">
+        <QUESTIONS>
+            <QUESTION>Khi nào Tòa án hủy bỏ quyết định tuyên bố một người có khó khăn trong nhận thức, làm chủ hành vi?</QUESTION>
+            <QUESTION>Điều kiện để hủy bỏ quyết định tuyên bố người có khó khăn trong nhận thức, làm chủ hành vi là gì?</QUESTION>
+            <QUESTION>Ai có quyền yêu cầu hủy bỏ quyết định tuyên bố người có khó khăn trong nhận thức, làm chủ hành vi?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi không còn căn cứ tuyên bố một người có khó khăn trong nhận thức, làm chủ hành vi thì theo yêu cầu của chính người đó hoặc của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố người có khó khăn trong nhận thức, làm chủ hành vi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="24">
+        <QUESTIONS>
+            <QUESTION>Người nào bị tuyên bố hạn chế năng lực hành vi dân sự?</QUESTION>
+            <QUESTION>Điều kiện để Tòa án tuyên bố một người bị hạn chế năng lực hành vi dân sự là gì?</QUESTION>
+            <QUESTION>Vai trò của Tòa án trong việc quyết định người bị hạn chế năng lực hành vi dân sự là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người nghiện ma túy, nghiện các chất kích thích khác dẫn đến phá tán tài sản của gia đình thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án có thể ra quyết định tuyên bố người này là người bị hạn chế năng lực hành vi dân sự. Tòa án quyết định người đại diện theo pháp luật của người bị hạn chế năng lực hành vi dân sự và phạm vi đại diện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="24">
+        <QUESTIONS>
+            <QUESTION>Việc xác lập, thực hiện giao dịch dân sự của người bị hạn chế năng lực hành vi dân sự cần điều kiện gì?</QUESTION>
+            <QUESTION>Giao dịch dân sự nào của người bị hạn chế năng lực hành vi dân sự không cần sự đồng ý của người đại diện?</QUESTION>
+            <QUESTION>Người đại diện theo pháp luật đóng vai trò gì trong các giao dịch dân sự của người bị hạn chế năng lực hành vi dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc xác lập, thực hiện giao dịch dân sự liên quan đến tài sản của người bị Tòa án tuyên bố hạn chế năng lực hành vi dân sự phải có sự đồng ý của người đại diện theo pháp luật, trừ giao dịch nhằm phục vụ nhu cầu sinh hoạt hàng ngày hoặc luật liên quan có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="24">
+        <QUESTIONS>
+            <QUESTION>Khi nào Tòa án hủy bỏ quyết định tuyên bố hạn chế năng lực hành vi dân sự?</QUESTION>
+            <QUESTION>Ai có quyền yêu cầu hủy bỏ quyết định tuyên bố hạn chế năng lực hành vi dân sự?</QUESTION>
+            <QUESTION>Quy trình để hủy bỏ quyết định tuyên bố hạn chế năng lực hành vi dân sự là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Khi không còn căn cứ tuyên bố một người bị hạn chế năng lực hành vi dân sự thì theo yêu cầu của chính người đó hoặc của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố hạn chế năng lực hành vi dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="25">
+        <QUESTIONS>
+            <QUESTION>Quyền nhân thân là gì?</QUESTION>
+            <QUESTION>Quyền nhân thân có thể chuyển giao cho người khác không?</QUESTION>
+            <QUESTION>Khi nào quyền nhân thân có thể chuyển giao cho người khác?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Quyền nhân thân được quy định trong Bộ luật này là quyền dân sự gắn liền với mỗi cá nhân, không thể chuyển giao cho người khác, trừ trường hợp luật khác có liên quan quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="25">
+        <QUESTIONS>
+            <QUESTION>Việc xác lập quan hệ dân sự liên quan đến quyền nhân thân của người chưa thành niên cần điều kiện gì?</QUESTION>
+            <QUESTION>Ai có quyền đồng ý việc xác lập quan hệ dân sự liên quan đến quyền nhân thân của người mất năng lực hành vi dân sự?</QUESTION>
+            <QUESTION>Người đại diện theo pháp luật đóng vai trò gì trong việc thực hiện quyền nhân thân của người có khó khăn trong nhận thức?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi phải được người đại diện theo pháp luật của người này đồng ý theo quy định của Bộ luật này, luật khác có liên quan hoặc theo quyết định của Tòa án.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="25">
+        <QUESTIONS>
+            <QUESTION>Việc xác lập quyền nhân thân của người bị tuyên bố mất tích cần ai đồng ý?</QUESTION>
+            <QUESTION>Người đại diện nào được phép thực hiện quyền nhân thân cho người đã chết?</QUESTION>
+            <QUESTION>Khi nào việc xác lập quyền nhân thân cho người mất tích không cần sự đồng ý của thân nhân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên của người đó; trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="26">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền gì liên quan đến họ, tên?</QUESTION>
+            <QUESTION>Họ, tên của cá nhân được xác định như thế nào?</QUESTION>
+            <QUESTION>Họ, tên khai sinh có ảnh hưởng đến quyền có họ, tên của cá nhân không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có quyền có họ, tên (bao gồm cả chữ đệm, nếu có). Họ, tên của một người được xác định theo họ, tên khai sinh của người đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="26">
+        <QUESTIONS>
+            <QUESTION>Họ của cá nhân được xác định như thế nào?</QUESTION>
+            <QUESTION>Trường hợp cha mẹ không thỏa thuận thì họ của con sẽ được xác định như thế nào?</QUESTION>
+            <QUESTION>Trường hợp cha đẻ không xác định được thì họ của con được xác định theo ai?</QUESTION>
+            <QUESTION>Họ của trẻ em bị bỏ rơi được xác định như thế nào nếu chưa xác định được cha mẹ đẻ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Họ của cá nhân được xác định là họ của cha đẻ hoặc họ của mẹ đẻ theo thỏa thuận của cha mẹ; nếu không có thỏa thuận thì họ của con được xác định theo tập quán. Trường hợp chưa xác định được cha đẻ thì họ của con được xác định theo họ của mẹ đẻ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="26">
+        <QUESTIONS>
+            <QUESTION>Trẻ em bị bỏ rơi và chưa xác định được cha đẻ, mẹ đẻ và được nhận làm con nuôi thì họ của trẻ em được xác định như thế nào?</QUESTION>
+            <QUESTION>Trường hợp trẻ em bị bỏ rơi, chưa xác định được cha mẹ đẻ nhưng không được nhận làm con nuôi thì họ của trẻ em được xác định ra sao?</QUESTION>
+            <QUESTION>Trẻ em bị bỏ rơi có thể xác định họ của mình như thế nào nếu chưa có cha mẹ đẻ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và được nhận làm con nuôi thì họ của trẻ em được xác định theo họ của cha nuôi hoặc họ của mẹ nuôi theo thỏa thuận của cha mẹ nuôi. Trường hợp chỉ có cha nuôi hoặc mẹ nuôi thì họ của trẻ em được xác định theo họ của người đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="26">
+        <QUESTIONS>
+            <QUESTION>Trẻ em bị bỏ rơi và chưa xác định được cha mẹ đẻ có thể xác định họ như thế nào?</QUESTION>
+            <QUESTION>Trẻ em đang được tạm thời nuôi dưỡng có thể xác định họ như thế nào nếu cha mẹ đẻ chưa xác định được?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và chưa được nhận làm con nuôi thì họ của trẻ em được xác định theo đề nghị của người đứng đầu cơ sở nuôi dưỡng trẻ em đó hoặc theo đề nghị của người có yêu cầu đăng ký khai sinh cho trẻ em, nếu trẻ em đang được người đó tạm thời nuôi dưỡng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="26">
+        <QUESTIONS>
+            <QUESTION>Cha đẻ, mẹ đẻ được xác định như thế nào theo Bộ luật này?</QUESTION>
+            <QUESTION>Định nghĩa về cha mẹ đẻ trong Bộ luật này có bao gồm những người nhờ mang thai hộ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Cha đẻ, mẹ đẻ được quy định trong Bộ luật này là cha, mẹ được xác định dựa trên sự kiện sinh đẻ; người nhờ mang thai hộ với người được sinh ra từ việc mang thai hộ theo quy định của Luật hôn nhân và gia đình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='31' article="26">
+        <QUESTIONS>
+            <QUESTION>Việc đặt tên bị hạn chế trong những trường hợp nào?</QUESTION>
+            <QUESTION>Đặt tên có thể vi phạm quyền, lợi ích hợp pháp của người khác không?</QUESTION>
+            <QUESTION>Đặt tên có ảnh hưởng đến nguyên tắc cơ bản của pháp luật dân sự không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc đặt tên bị hạn chế trong trường hợp xâm phạm đến quyền, lợi ích hợp pháp của người khác hoặc trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='32' article="26">
+        <QUESTIONS>
+            <QUESTION>Tên của công dân Việt Nam phải như thế nào?</QUESTION>
+            <QUESTION>Đặt tên bằng ký tự không phải là chữ có được phép không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Tên của công dân Việt Nam phải bằng tiếng Việt hoặc tiếng dân tộc khác của Việt Nam; không đặt tên bằng số, bằng một ký tự mà không phải là chữ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='33' article="26">
+        <QUESTIONS>
+            <QUESTION>Cá nhân thực hiện quyền, nghĩa vụ dân sự như thế nào theo họ, tên của mình?</QUESTION>
+            <QUESTION>Quyền dân sự có thể xác lập theo họ, tên của mình không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Cá nhân xác lập, thực hiện quyền, nghĩa vụ dân sự theo họ, tên của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='34' article="26">
+        <QUESTIONS>
+            <QUESTION>Việc sử dụng bí danh có bị hạn chế không?</QUESTION>
+            <QUESTION>Việc sử dụng bút danh có thể gây thiệt hại đến quyền lợi của người khác không?</QUESTION>
+            <QUESTION>Điều gì xảy ra nếu sử dụng bí danh, bút danh gây thiệt hại đến quyền lợi hợp pháp của người khác?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Việc sử dụng bí danh, bút danh không được gây thiệt hại đến quyền, lợi ích hợp pháp của người khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='35' article="27">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền yêu cầu thay đổi họ trong trường hợp nào?</QUESTION>
+            <QUESTION>Trong trường hợp thay đổi họ cho con đẻ, cha mẹ có thể yêu cầu thay đổi họ cho con theo cách nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi họ trong các trường hợp như thay đổi họ cho con đẻ, con nuôi, hoặc khi người con nuôi thôi làm con nuôi và các trường hợp khác theo pháp luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='36' article="27">
+        <QUESTIONS>
+            <QUESTION>Có thể thay đổi họ cho con nuôi trong trường hợp nào?</QUESTION>
+            <QUESTION>Cha mẹ nuôi có thể yêu cầu thay đổi họ cho con nuôi không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thay đổi họ cho con nuôi từ họ của cha đẻ hoặc mẹ đẻ sang họ của cha nuôi hoặc họ của mẹ nuôi theo yêu cầu của cha nuôi, mẹ nuôi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='37' article="27">
+        <QUESTIONS>
+            <QUESTION>Con nuôi có quyền yêu cầu thay đổi họ sau khi thôi làm con nuôi không?</QUESTION>
+            <QUESTION>Cha mẹ đẻ có thể yêu cầu thay đổi họ cho con nuôi sau khi thôi làm con nuôi không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại họ cho người đó theo họ của cha đẻ hoặc mẹ đẻ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='38' article="27">
+        <QUESTIONS>
+            <QUESTION>Thay đổi họ cho con có thể yêu cầu theo cách nào?</QUESTION>
+            <QUESTION>Cha mẹ có thể thay đổi họ cho con khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thay đổi họ cho con theo yêu cầu của cha đẻ, mẹ đẻ hoặc của con khi xác định cha, mẹ cho con.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='39' article="27">
+        <QUESTIONS>
+            <QUESTION>Thay đổi họ có thể thực hiện cho người bị lưu lạc trong trường hợp nào?</QUESTION>
+            <QUESTION>Người bị lưu lạc có thể thay đổi họ khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thay đổi họ của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='40' article="27">
+        <QUESTIONS>
+            <QUESTION>Việc thay đổi họ cho người trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài có những điều kiện gì?</QUESTION>
+            <QUESTION>Thay đổi họ có thể theo họ của vợ, chồng trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thay đổi họ theo họ của vợ, họ của chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại họ trước khi thay đổi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='41' article="27">
+        <QUESTIONS>
+            <QUESTION>Cha mẹ có thể thay đổi họ cho con trong trường hợp nào?</QUESTION>
+            <QUESTION>Trẻ em có thể thay đổi họ khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thay đổi họ của con khi cha, mẹ thay đổi họ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='42' article="27">
+        <QUESTIONS>
+            <QUESTION>Pháp luật có quy định những trường hợp khác nào cho việc thay đổi họ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp khác do pháp luật về hộ tịch quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='43' article="27">
+        <QUESTIONS>
+            <QUESTION>Việc thay đổi họ có yêu cầu gì đối với người từ đủ chín tuổi trở lên không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc thay đổi họ cho người từ đủ chín tuổi trở lên phải có sự đồng ý của người đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='44' article="27">
+        <QUESTIONS>
+            <QUESTION>Việc thay đổi họ có ảnh hưởng đến quyền, nghĩa vụ dân sự không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc thay đổi họ của cá nhân không làm thay đổi, chấm dứt quyền, nghĩa vụ dân sự được xác lập theo họ cũ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='45' article="28">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền yêu cầu thay đổi tên trong những trường hợp nào?</QUESTION>
+            <QUESTION>Cá nhân có quyền yêu cầu thay đổi tên nếu tên gây nhầm lẫn không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có quyền yêu cầu thay đổi tên trong các trường hợp như tên gây nhầm lẫn, ảnh hưởng đến tình cảm gia đình, danh dự, quyền và lợi ích hợp pháp, hoặc khi xác định cha, mẹ cho con, thay đổi tên cho con nuôi, người bị lưu lạc tìm lại nguồn gốc huyết thống, và các trường hợp khác theo pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='46' article="28">
+        <QUESTIONS>
+            <QUESTION>Cha mẹ nuôi có quyền yêu cầu thay đổi tên cho con nuôi không?</QUESTION>
+            <QUESTION>Con nuôi có thể yêu cầu thay đổi tên khi thôi làm con nuôi không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cha nuôi, mẹ nuôi có quyền yêu cầu thay đổi tên cho con nuôi hoặc khi con nuôi thôi làm con nuôi và yêu cầu lấy lại tên đã đặt bởi cha đẻ hoặc mẹ đẻ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='47' article="28">
+        <QUESTIONS>
+            <QUESTION>Cha mẹ có thể yêu cầu thay đổi tên cho con khi nào?</QUESTION>
+            <QUESTION>Con có thể yêu cầu thay đổi tên khi xác định cha mẹ cho con không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cha đẻ, mẹ đẻ hoặc con có thể yêu cầu thay đổi tên khi xác định cha, mẹ cho con.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='48' article="28">
+        <QUESTIONS>
+            <QUESTION>Việc thay đổi tên có thể thực hiện cho người bị lưu lạc trong trường hợp nào?</QUESTION>
+            <QUESTION>Người bị lưu lạc có thể thay đổi tên khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thay đổi tên của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='49' article="28">
+        <QUESTIONS>
+            <QUESTION>Thay đổi tên có thể thực hiện cho người trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài không?</QUESTION>
+            <QUESTION>Vợ, chồng có thể thay đổi tên trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thay đổi tên của vợ, chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại tên trước khi thay đổi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='50' article="28">
+        <QUESTIONS>
+            <QUESTION>Việc thay đổi tên có thể thực hiện cho người đã chuyển đổi giới tính không?</QUESTION>
+            <QUESTION>Người đã xác định lại giới tính có thể thay đổi tên không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thay đổi tên của người đã xác định lại giới tính, người đã chuyển đổi giới tính.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='51' article="28">
+        <QUESTIONS>
+            <QUESTION>Pháp luật có quy định những trường hợp nào khác cho việc thay đổi tên không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp khác do pháp luật về hộ tịch quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='52' article="28">
+        <QUESTIONS>
+            <QUESTION>Việc thay đổi tên có yêu cầu sự đồng ý của người từ đủ chín tuổi trở lên không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc thay đổi tên cho người từ đủ chín tuổi trở lên phải có sự đồng ý của người đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='53' article="28">
+        <QUESTIONS>
+            <QUESTION>Việc thay đổi tên có ảnh hưởng đến quyền, nghĩa vụ dân sự không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc thay đổi tên của cá nhân không làm thay đổi, chấm dứt quyền, nghĩa vụ dân sự được xác lập theo tên cũ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='54' article="29">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền xác định, xác định lại dân tộc của mình không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có quyền xác định, xác định lại dân tộc của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='55' article="29">
+        <QUESTIONS>
+            <QUESTION>Cá nhân khi sinh ra được xác định dân tộc như thế nào?</QUESTION>
+            <QUESTION>Dân tộc của con sẽ được xác định theo ai nếu cha mẹ thuộc hai dân tộc khác nhau?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Cá nhân khi sinh ra được xác định dân tộc theo dân tộc của cha đẻ, mẹ đẻ. Nếu cha mẹ thuộc hai dân tộc khác nhau, dân tộc của con được xác định theo thỏa thuận của cha mẹ hoặc theo tập quán nếu không có thỏa thuận.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='56' article="29">
+        <QUESTIONS>
+            <QUESTION>Trường hợp trẻ em bị bỏ rơi và chưa xác định được cha mẹ đẻ sẽ được xác định dân tộc như thế nào?</QUESTION>
+            <QUESTION>Trẻ em bị bỏ rơi có thể được xác định dân tộc theo ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trẻ em bị bỏ rơi, chưa xác định được cha mẹ đẻ và được nhận làm con nuôi sẽ được xác định dân tộc theo thỏa thuận của cha nuôi, mẹ nuôi hoặc theo dân tộc của cha mẹ nuôi nếu chỉ có một người nuôi. Nếu chưa được nhận làm con nuôi, dân tộc của trẻ sẽ được xác định theo đề nghị của người đứng đầu cơ sở nuôi dưỡng hoặc người tạm thời nuôi dưỡng trẻ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='57' article="29">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền yêu cầu cơ quan nhà nước xác định lại dân tộc trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Cá nhân có quyền yêu cầu xác định lại dân tộc trong trường hợp cha mẹ đẻ thuộc hai dân tộc khác nhau hoặc khi con nuôi xác định được cha mẹ đẻ của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='58' article="29">
+        <QUESTIONS>
+            <QUESTION>Cá nhân từ đủ mười lăm tuổi đến dưới mười tám tuổi có quyền thay đổi dân tộc không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Việc xác định lại dân tộc cho người từ đủ mười lăm tuổi đến dưới mười tám tuổi phải có sự đồng ý của người đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='59' article="29">
+        <QUESTIONS>
+            <QUESTION>Có cấm lợi dụng việc xác định lại dân tộc không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Cấm lợi dụng việc xác định lại dân tộc nhằm mục đích trục lợi hoặc gây chia rẽ, phương hại đến sự đoàn kết của các dân tộc Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='60' article="30">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền được khai sinh khi nào?</QUESTION>
+            <QUESTION>Cá nhân từ khi sinh ra có quyền gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân từ khi sinh ra có quyền được khai sinh.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='61' article="30">
+        <QUESTIONS>
+            <QUESTION>Cá nhân chết phải làm gì?</QUESTION>
+            <QUESTION>Có phải mọi trường hợp cá nhân chết đều phải khai tử không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Cá nhân chết phải được khai tử.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='62' article="30">
+        <QUESTIONS>
+            <QUESTION>Trẻ em sinh ra mà sống dưới bao lâu thì không phải khai sinh và khai tử?</QUESTION>
+            <QUESTION>Trẻ em sinh ra mà sống dưới 24 giờ có phải khai sinh và khai tử không?</QUESTION>
+            <QUESTION>Trường hợp nào trẻ em sinh ra mà sống dưới 24 giờ vẫn phải khai sinh và khai tử?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trẻ em sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='63' article="30">
+        <QUESTIONS>
+            <QUESTION>Việc khai sinh, khai tử do ai quy định?</QUESTION>
+            <QUESTION>Pháp luật nào quy định việc khai sinh, khai tử?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Việc khai sinh, khai tử do pháp luật về hộ tịch quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='64' article="31">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền gì liên quan đến quốc tịch?</QUESTION>
+            <QUESTION>Cá nhân có quyền có quốc tịch hay không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có quyền có quốc tịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='65' article="31">
+        <QUESTIONS>
+            <QUESTION>Việc xác định, thay đổi quốc tịch Việt Nam được quy định bởi ai?</QUESTION>
+            <QUESTION>Việc thay đổi quốc tịch Việt Nam theo quy định của pháp luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc xác định, thay đổi, nhập, thôi, trở lại quốc tịch Việt Nam do Luật quốc tịch Việt Nam quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='66' article="31">
+        <QUESTIONS>
+            <QUESTION>Quyền của người không quốc tịch ở Việt Nam được bảo đảm như thế nào?</QUESTION>
+            <QUESTION>Quyền của người không quốc tịch cư trú ở Việt Nam được bảo vệ theo luật nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Quyền của người không quốc tịch cư trú, sinh sống trên lãnh thổ Việt Nam được bảo đảm theo luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='67' article="32">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền gì đối với hình ảnh của mình?</QUESTION>
+            <QUESTION>Cá nhân có quyền đối với hình ảnh của mình như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có quyền đối với hình ảnh của mình. Việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='68' article="32">
+        <QUESTIONS>
+            <QUESTION>Việc sử dụng hình ảnh của cá nhân vì mục đích thương mại có cần trả thù lao không?</QUESTION>
+            <QUESTION>Khi sử dụng hình ảnh của người khác vì mục đích thương mại, cần phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Việc sử dụng hình ảnh của người khác vì mục đích thương mại thì phải trả thù lao cho người có hình ảnh, trừ trường hợp các bên có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='69' article="32">
+        <QUESTIONS>
+            <QUESTION>Trong những trường hợp nào việc sử dụng hình ảnh không cần sự đồng ý của người có hình ảnh?</QUESTION>
+            <QUESTION>Có những trường hợp nào việc sử dụng hình ảnh không cần sự đồng ý của người có hình ảnh hoặc người đại diện?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc sử dụng hình ảnh trong các trường hợp sau không cần sự đồng ý của người có hình ảnh hoặc người đại diện theo pháp luật của họ: a) Vì lợi ích quốc gia, dân tộc, lợi ích công cộng; b) Hình ảnh được sử dụng từ các hoạt động công cộng mà không làm tổn hại đến danh dự, nhân phẩm, uy tín của người có hình ảnh.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='70' article="32">
+        <QUESTIONS>
+            <QUESTION>Người có hình ảnh có quyền gì khi việc sử dụng hình ảnh vi phạm quy định?</QUESTION>
+            <QUESTION>Điều gì xảy ra nếu việc sử dụng hình ảnh vi phạm quy định của pháp luật?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người có hình ảnh có quyền yêu cầu Tòa án ra quyết định buộc người vi phạm thu hồi, tiêu hủy, chấm dứt việc sử dụng hình ảnh, bồi thường thiệt hại và áp dụng các biện pháp xử lý khác theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='71' article="33">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền gì theo Điều 33?</QUESTION>
+            <QUESTION>Cá nhân có quyền gì về tính mạng, thân thể, và sức khỏe?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có quyền sống, quyền bất khả xâm phạm về tính mạng, thân thể, quyền được pháp luật bảo hộ về sức khỏe. Không ai bị tước đoạt tính mạng trái luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='72' article="33">
+        <QUESTIONS>
+            <QUESTION>Khi phát hiện người bị tai nạn hoặc bệnh tật, người phát hiện có trách nhiệm gì?</QUESTION>
+            <QUESTION>Người phát hiện người bị tai nạn hoặc bệnh tật có trách nhiệm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi phát hiện người bị tai nạn, bệnh tật mà tính mạng bị đe dọa, người phát hiện có trách nhiệm yêu cầu cá nhân, cơ quan, tổ chức khác có điều kiện cần thiết đưa ngay đến cơ sở khám bệnh, chữa bệnh nơi gần nhất.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='73' article="33">
+        <QUESTIONS>
+            <QUESTION>Khi nào việc thử nghiệm y học, dược học, khoa học trên cơ thể người phải được sự đồng ý?</QUESTION>
+            <QUESTION>Các kỹ thuật thử nghiệm trên cơ thể người yêu cầu gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc thử nghiệm y học, dược học, khoa học trên cơ thể người phải được sự đồng ý của người đó và phải được tổ chức có thẩm quyền thực hiện. Trường hợp người được thử nghiệm là người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi hoặc là bệnh nhân bất tỉnh thì phải có sự đồng ý của người giám hộ hoặc người thân. Nếu có nguy cơ đe dọa đến tính mạng của bệnh nhân thì phải có quyết định của người có thẩm quyền của cơ sở khám bệnh, chữa bệnh.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='74' article="33">
+        <QUESTIONS>
+            <QUESTION>Khi nào việc khám nghiệm tử thi được thực hiện?</QUESTION>
+            <QUESTION>Trong trường hợp nào khám nghiệm tử thi có thể được thực hiện?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Việc khám nghiệm tử thi được thực hiện khi có sự đồng ý của người đó trước khi chết, hoặc sự đồng ý của cha, mẹ, vợ, chồng, con thành niên hoặc người giám hộ nếu không có ý kiến của người đó trước khi chết, hoặc theo quyết định của người đứng đầu cơ sở khám bệnh, chữa bệnh hoặc của cơ quan nhà nước có thẩm quyền trong trường hợp luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='75' article="34">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền gì về danh dự, nhân phẩm, uy tín theo Điều 34?</QUESTION>
+            <QUESTION>Cá nhân có quyền gì đối với danh dự, nhân phẩm, uy tín của mình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Danh dự, nhân phẩm, uy tín của cá nhân là bất khả xâm phạm và được pháp luật bảo vệ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='76' article="34">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền gì khi thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của mình?</QUESTION>
+            <QUESTION>Cá nhân có quyền yêu cầu gì khi thông tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của mình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Cá nhân có quyền yêu cầu Tòa án bác bỏ thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='77' article="34">
+        <QUESTIONS>
+            <QUESTION>Việc bảo vệ danh dự, nhân phẩm, uy tín có thể được thực hiện sau khi cá nhân chết không?</QUESTION>
+            <QUESTION>Có thể bảo vệ danh dự, nhân phẩm, uy tín của cá nhân sau khi họ chết không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc bảo vệ danh dự, nhân phẩm, uy tín có thể được thực hiện sau khi cá nhân chết theo yêu cầu của vợ, chồng hoặc con thành niên, hoặc cha, mẹ của người đã chết nếu không có vợ, chồng hoặc con thành niên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='78' article="34">
+        <QUESTIONS>
+            <QUESTION>Thông tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của cá nhân cần được xử lý như thế nào?</QUESTION>
+            <QUESTION>Thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của cá nhân phải được xử lý ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Thông tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của cá nhân được đăng tải trên phương tiện thông tin đại chúng phải được gỡ bỏ và cải chính bằng chính phương tiện thông tin đại chúng đó. Nếu thông tin này được cơ quan, tổ chức, cá nhân cất giữ thì phải được hủy bỏ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='79' article="34">
+        <QUESTIONS>
+            <QUESTION>Khi không xác định được người đưa thông tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của cá nhân, cá nhân bị ảnh hưởng có quyền gì?</QUESTION>
+            <QUESTION>Trong trường hợp không xác định được người đưa thông tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín, cá nhân bị ảnh hưởng có quyền gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Khi không xác định được người đã đưa thông tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của mình, người bị đưa tin có quyền yêu cầu Tòa án tuyên bố thông tin đó là không đúng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='80' article="34">
+        <QUESTIONS>
+            <QUESTION>Cá nhân bị thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín có quyền yêu cầu gì?</QUESTION>
+            <QUESTION>Cá nhân có quyền gì khi bị thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Cá nhân bị thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín có quyền yêu cầu người đưa ra thông tin xin lỗi, cải chính công khai và bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='81' article="35">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền gì về việc hiến mô, bộ phận cơ thể của mình?</QUESTION>
+            <QUESTION>Cá nhân có quyền gì đối với việc hiến mô, bộ phận cơ thể của mình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có quyền hiến mô, bộ phận cơ thể của mình khi còn sống hoặc hiến mô, bộ phận cơ thể, hiến xác của mình sau khi chết vì mục đích chữa bệnh cho người khác hoặc nghiên cứu y học, dược học và các nghiên cứu khoa học khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='82' article="35">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền nhận mô, bộ phận cơ thể của người khác không?</QUESTION>
+            <QUESTION>Cá nhân có quyền gì về việc nhận mô, bộ phận cơ thể của người khác?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Cá nhân có quyền nhận mô, bộ phận cơ thể của người khác để chữa bệnh cho mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='83' article="35">
+        <QUESTIONS>
+            <QUESTION>Cơ sở khám bệnh, chữa bệnh có quyền gì liên quan đến việc nhận mô, bộ phận cơ thể người?</QUESTION>
+            <QUESTION>Cơ sở khám bệnh, chữa bệnh có quyền nhận bộ phận cơ thể người để làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Cơ sở khám bệnh, chữa bệnh, pháp nhân có thẩm quyền về nghiên cứu khoa học có quyền nhận bộ phận cơ thể người, lấy xác để chữa bệnh, thử nghiệm y học, dược học và các nghiên cứu khoa học khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='84' article="35">
+        <QUESTIONS>
+            <QUESTION>Việc hiến, lấy mô, bộ phận cơ thể người, hiến, lấy xác phải tuân thủ theo điều kiện gì?</QUESTION>
+            <QUESTION>Việc hiến, lấy mô, bộ phận cơ thể người và hiến, lấy xác phải tuân thủ quy định nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc hiến, lấy mô, bộ phận cơ thể người, hiến, lấy xác phải tuân thủ theo các điều kiện và được thực hiện theo quy định của Bộ luật này, Luật hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác và luật khác có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='85' article="36">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền gì về việc xác định lại giới tính?</QUESTION>
+            <QUESTION>Cá nhân có quyền xác định lại giới tính trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có quyền xác định lại giới tính. Việc xác định lại giới tính được thực hiện khi giới tính của người đó bị khuyết tật bẩm sinh hoặc chưa định hình chính xác và cần có sự can thiệp của y học.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='86' article="36">
+        <QUESTIONS>
+            <QUESTION>Việc xác định lại giới tính được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Việc xác định lại giới tính phải tuân theo quy định gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc xác định lại giới tính được thực hiện theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='87' article="36">
+        <QUESTIONS>
+            <QUESTION>Cá nhân đã xác định lại giới tính có quyền gì?</QUESTION>
+            <QUESTION>Cá nhân đã thực hiện việc xác định lại giới tính có quyền thay đổi gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Cá nhân đã thực hiện việc xác định lại giới tính có quyền đăng ký thay đổi hộ tịch và có quyền nhân thân phù hợp với giới tính đã được xác định lại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='88' article="37">
+        <QUESTIONS>
+            <QUESTION>Việc chuyển đổi giới tính được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Việc chuyển đổi giới tính phải tuân theo quy định gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Việc chuyển đổi giới tính được thực hiện theo quy định của luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='89' article="37">
+        <QUESTIONS>
+            <QUESTION>Cá nhân đã chuyển đổi giới tính có quyền gì?</QUESTION>
+            <QUESTION>Cá nhân đã chuyển đổi giới tính có quyền thay đổi gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Cá nhân đã chuyển đổi giới tính có quyền đăng ký thay đổi hộ tịch và có quyền nhân thân phù hợp với giới tính đã được chuyển đổi theo quy định của Bộ luật này và luật khác có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='90' article="38">
+        <QUESTIONS>
+            <QUESTION>Quyền về đời sống riêng tư, bí mật cá nhân, bí mật gia đình được quy định như thế nào?</QUESTION>
+            <QUESTION>Ai có quyền bảo vệ đời sống riêng tư, bí mật cá nhân, bí mật gia đình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Đời sống riêng tư, bí mật cá nhân, bí mật gia đình là bất khả xâm phạm và được pháp luật bảo vệ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='91' article="38">
+        <QUESTIONS>
+            <QUESTION>Thông tin liên quan đến đời sống riêng tư, bí mật cá nhân có được thu thập và sử dụng không?</QUESTION>
+            <QUESTION>Việc thu thập và sử dụng thông tin liên quan đến đời sống riêng tư, bí mật cá nhân phải tuân thủ quy định nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc thu thập, lưu giữ, sử dụng, công khai thông tin liên quan đến đời sống riêng tư, bí mật cá nhân phải được người đó đồng ý, việc thu thập, lưu giữ, sử dụng, công khai thông tin liên quan đến bí mật gia đình phải được các thành viên gia đình đồng ý, trừ trường hợp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='92' article="38">
+        <QUESTIONS>
+            <QUESTION>Có thể kiểm soát thông tin cá nhân của người khác không?</QUESTION>
+            <QUESTION>Thông tin như thư tín, điện thoại có được bảo vệ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Thư tín, điện thoại, điện tín, cơ sở dữ liệu điện tử và các hình thức trao đổi thông tin riêng tư khác của cá nhân được bảo đảm an toàn và bí mật. Việc bóc mở, kiểm soát, thu giữ thông tin riêng tư của người khác chỉ được thực hiện trong trường hợp luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='93' article="38">
+        <QUESTIONS>
+            <QUESTION>Các bên trong hợp đồng có được tiết lộ thông tin riêng tư của nhau không?</QUESTION>
+            <QUESTION>Thông tin về đời sống riêng tư trong hợp đồng có được tiết lộ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Các bên trong hợp đồng không được tiết lộ thông tin về đời sống riêng tư, bí mật cá nhân, bí mật gia đình của nhau mà mình đã biết được trong quá trình xác lập, thực hiện hợp đồng, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='94' article="39">
+        <QUESTIONS>
+            <QUESTION>Cá nhân có quyền gì trong hôn nhân và gia đình?</QUESTION>
+            <QUESTION>Cá nhân có quyền kết hôn, ly hôn, và quyền gì trong quan hệ hôn nhân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có quyền kết hôn, ly hôn, quyền bình đẳng của vợ chồng, quyền xác định cha, mẹ, con, quyền được nhận làm con nuôi, quyền nuôi con nuôi và các quyền nhân thân khác trong quan hệ hôn nhân, quan hệ cha mẹ và con và quan hệ giữa các thành viên gia đình. Con sinh ra không phụ thuộc vào tình trạng hôn nhân của cha, mẹ đều có quyền và nghĩa vụ như nhau đối với cha, mẹ của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='95' article="39">
+        <QUESTIONS>
+            <QUESTION>Cá nhân thực hiện quyền nhân thân trong hôn nhân và gia đình theo quy định nào?</QUESTION>
+            <QUESTION>Quyền nhân thân trong hôn nhân và gia đình phải tuân thủ quy định gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Cá nhân thực hiện quyền nhân thân trong hôn nhân và gia đình theo quy định của Bộ luật này, Luật hôn nhân và gia đình và luật khác có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='96' article="40">
+        <QUESTIONS>
+            <QUESTION>Nơi cư trú của cá nhân được xác định như thế nào?</QUESTION>
+            <QUESTION>Cá nhân có nơi cư trú ở đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Nơi cư trú của cá nhân là nơi người đó thường xuyên sinh sống.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='97' article="40">
+        <QUESTIONS>
+            <QUESTION>Khi không xác định được nơi cư trú của cá nhân, thì nơi cư trú của cá nhân được xác định như thế nào?</QUESTION>
+            <QUESTION>Nếu không xác định được nơi cư trú của cá nhân, nơi cư trú sẽ là đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp không xác định được nơi cư trú của cá nhân theo quy định tại khoản 1 Điều này thì nơi cư trú của cá nhân là nơi người đó đang sinh sống.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='98' article="40">
+        <QUESTIONS>
+            <QUESTION>Khi thay đổi nơi cư trú, bên trong quan hệ dân sự có phải thông báo cho bên kia không?</QUESTION>
+            <QUESTION>Điều gì xảy ra khi một bên trong quan hệ dân sự thay đổi nơi cư trú?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp một bên trong quan hệ dân sự thay đổi nơi cư trú gắn với việc thực hiện quyền, nghĩa vụ thì phải thông báo cho bên kia biết về nơi cư trú mới.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='99' article="41">
+        <QUESTIONS>
+            <QUESTION>Nơi cư trú của người chưa thành niên được xác định như thế nào?</QUESTION>
+            <QUESTION>Nơi cư trú của người chưa thành niên phụ thuộc vào đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Nơi cư trú của người chưa thành niên là nơi cư trú của cha, mẹ; nếu cha, mẹ có nơi cư trú khác nhau thì nơi cư trú của người chưa thành niên là nơi cư trú của cha hoặc mẹ mà người chưa thành niên thường xuyên chung sống.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='100' article="41">
+        <QUESTIONS>
+            <QUESTION>Có thể xác định nơi cư trú khác cho người chưa thành niên không?</QUESTION>
+            <QUESTION>Người chưa thành niên có thể có nơi cư trú khác với cha mẹ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người chưa thành niên có thể có nơi cư trú khác với nơi cư trú của cha, mẹ nếu được cha, mẹ đồng ý hoặc pháp luật có quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='101' article="42">
+        <QUESTIONS>
+            <QUESTION>Nơi cư trú của người được giám hộ được xác định như thế nào?</QUESTION>
+            <QUESTION>Nơi cư trú của người được giám hộ phụ thuộc vào đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Nơi cư trú của người được giám hộ là nơi cư trú của người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='102' article="42">
+        <QUESTIONS>
+            <QUESTION>Có thể xác định nơi cư trú khác cho người được giám hộ không?</QUESTION>
+            <QUESTION>Người được giám hộ có thể có nơi cư trú khác với người giám hộ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người được giám hộ có thể có nơi cư trú khác với nơi cư trú của người giám hộ nếu được người giám hộ đồng ý hoặc pháp luật có quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='103' article="43">
+        <QUESTIONS>
+            <QUESTION>Nơi cư trú của vợ, chồng được xác định như thế nào?</QUESTION>
+            <QUESTION>Nơi cư trú của vợ, chồng là nơi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Nơi cư trú của vợ, chồng là nơi vợ, chồng thường xuyên chung sống.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='104' article="43">
+        <QUESTIONS>
+            <QUESTION>Vợ, chồng có thể có nơi cư trú khác nhau không?</QUESTION>
+            <QUESTION>Vợ, chồng có thể sống ở nơi cư trú khác nhau nếu như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Vợ, chồng có thể có nơi cư trú khác nhau nếu có thỏa thuận.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='105' article="44">
+        <QUESTIONS>
+            <QUESTION>Nơi cư trú của quân nhân đang thực hiện nghĩa vụ quân sự là nơi nào?</QUESTION>
+            <QUESTION>Quân nhân thực hiện nghĩa vụ quân sự có nơi cư trú ở đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Nơi cư trú của quân nhân đang thực hiện nghĩa vụ quân sự là nơi đơn vị của quân nhân đó đóng quân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='106' article="44">
+        <QUESTIONS>
+            <QUESTION>Nơi cư trú của sĩ quan quân đội, quân nhân chuyên nghiệp là nơi nào?</QUESTION>
+            <QUESTION>Vậy nơi cư trú của sĩ quan quân đội, quân nhân chuyên nghiệp, công nhân, viên chức quốc phòng được xác định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Nơi cư trú của sĩ quan quân đội, quân nhân chuyên nghiệp, công nhân, viên chức quốc phòng là nơi đơn vị của người đó đóng quân, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 Ðiều 40 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='107' article="45">
+        <QUESTIONS>
+            <QUESTION>Nơi cư trú của người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác là nơi nào?</QUESTION>
+            <QUESTION>Người làm nghề lưu động có nơi cư trú tại đâu khi trên tàu, thuyền, phương tiện hành nghề lưu động khác?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nơi cư trú của người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác là nơi đăng ký tàu, thuyền, phương tiện đó, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 Ðiều 40 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='108' article="46">
+        <QUESTIONS>
+            <QUESTION>Giám hộ là gì?</QUESTION>
+            <QUESTION>Giám hộ được thực hiện như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Giám hộ là việc cá nhân, pháp nhân được luật quy định, được Ủy ban nhân dân cấp xã cử, được Tòa án chỉ định hoặc được quy định tại khoản 2 Điều 48 của Bộ luật này để thực hiện việc chăm sóc, bảo vệ quyền, lợi ích hợp pháp của người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='109' article="46">
+        <QUESTIONS>
+            <QUESTION>Khi giám hộ cho người có khó khăn trong nhận thức, làm chủ hành vi, cần yêu cầu gì?</QUESTION>
+            <QUESTION>Giám hộ cho người có khó khăn trong nhận thức, làm chủ hành vi có yêu cầu gì về sự đồng ý?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp giám hộ cho người có khó khăn trong nhận thức, làm chủ hành vi thì phải được sự đồng ý của người đó nếu họ có năng lực thể hiện ý chí của mình tại thời điểm yêu cầu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='110' article="46">
+        <QUESTIONS>
+            <QUESTION>Việc giám hộ phải thực hiện như thế nào?</QUESTION>
+            <QUESTION>Giám hộ có cần đăng ký không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc giám hộ phải được đăng ký tại cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về hộ tịch. Người giám hộ đương nhiên mà không đăng ký việc giám hộ thì vẫn phải thực hiện nghĩa vụ của người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='111' article="47">
+        <QUESTIONS>
+            <QUESTION>Người được giám hộ bao gồm những ai?</QUESTION>
+            <QUESTION>Các trường hợp nào được coi là người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người được giám hộ bao gồm:
+    a) Người chưa thành niên không còn cha, mẹ hoặc không xác định được cha, mẹ;
+    b) Người chưa thành niên có cha, mẹ nhưng cha, mẹ đều mất năng lực hành vi dân sự; cha, mẹ đều có khó khăn trong nhận thức, làm chủ hành vi; cha, mẹ đều bị hạn chế năng lực hành vi dân sự; cha, mẹ đều bị Tòa án tuyên bố hạn chế quyền đối với con; cha, mẹ đều không có điều kiện chăm sóc, giáo dục con và có yêu cầu người giám hộ;
+    c) Người mất năng lực hành vi dân sự;
+    d) Người có khó khăn trong nhận thức, làm chủ hành vi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='112' article="47">
+        <QUESTIONS>
+            <QUESTION>Có bao nhiêu người có thể làm giám hộ cho một người?</QUESTION>
+            <QUESTION>Người được giám hộ có thể có bao nhiêu người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Một người chỉ có thể được một người giám hộ, trừ trường hợp cha, mẹ cùng giám hộ cho con hoặc ông, bà cùng giám hộ cho cháu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='113' article="48">
+        <QUESTIONS>
+            <QUESTION>Cá nhân, pháp nhân nào có thể làm người giám hộ?</QUESTION>
+            <QUESTION>Điều kiện nào để cá nhân, pháp nhân có thể làm người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân, pháp nhân có đủ điều kiện quy định tại Bộ luật này được làm người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='114' article="48">
+        <QUESTIONS>
+            <QUESTION>Trường hợp nào người có năng lực hành vi dân sự đầy đủ được lựa chọn người giám hộ cho mình?</QUESTION>
+            <QUESTION>Việc lựa chọn người giám hộ có phải làm thủ tục gì không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp người có năng lực hành vi dân sự đầy đủ lựa chọn người giám hộ cho mình thì khi họ ở tình trạng cần được giám hộ, cá nhân, pháp nhân được lựa chọn là người giám hộ nếu người này đồng ý. Việc lựa chọn người giám hộ phải được lập thành văn bản có công chứng hoặc chứng thực.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='115' article="48">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có thể giám hộ cho bao nhiêu người?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Một cá nhân, pháp nhân có thể giám hộ cho nhiều người.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='116' article="49">
+        <QUESTIONS>
+            <QUESTION>Cá nhân nào có thể làm người giám hộ?</QUESTION>
+            <QUESTION>Điều kiện của cá nhân làm người giám hộ là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân có năng lực hành vi dân sự đầy đủ có thể làm người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='117' article="49">
+        <QUESTIONS>
+            <QUESTION>Cá nhân làm người giám hộ phải có tư cách đạo đức như thế nào?</QUESTION>
+            <QUESTION>Cá nhân làm người giám hộ cần có các điều kiện gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Cá nhân làm người giám hộ phải có tư cách đạo đức tốt và các điều kiện cần thiết để thực hiện quyền, nghĩa vụ của người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='118' article="49">
+        <QUESTIONS>
+            <QUESTION>Người nào không được làm người giám hộ?</QUESTION>
+            <QUESTION>Cá nhân nào không đủ điều kiện làm người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người đang bị truy cứu trách nhiệm hình sự hoặc người bị kết án nhưng chưa được xoá án tích về một trong các tội cố ý xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản của người khác không được làm người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='119' article="49">
+        <QUESTIONS>
+            <QUESTION>Ai không được làm người giám hộ đối với con chưa thành niên?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Người bị Tòa án tuyên bố hạn chế quyền đối với con chưa thành niên không được làm người giám hộ đối với con chưa thành niên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='120' article="50">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có thể làm người giám hộ khi nào?</QUESTION>
+            <QUESTION>Điều kiện của pháp nhân làm người giám hộ là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân có năng lực pháp luật dân sự phù hợp với việc giám hộ có thể làm người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='121' article="50">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân làm người giám hộ cần có điều kiện gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Pháp nhân làm người giám hộ cần có điều kiện cần thiết để thực hiện quyền, nghĩa vụ của người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='122' article="51">
+        <QUESTIONS>
+            <QUESTION>Ai có quyền giám sát việc giám hộ?</QUESTION>
+            <QUESTION>Thế nào là người thân thích của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người thân thích của người được giám hộ có thể cử người giám sát việc giám hộ trong số những người thân thích hoặc chọn cá nhân, pháp nhân khác làm người giám sát. Việc cử, chọn người giám sát phải được sự đồng ý của người đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='123' article="51">
+        <QUESTIONS>
+            <QUESTION>Ủy ban nhân dân cấp xã có trách nhiệm gì về giám sát việc giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Ủy ban nhân dân cấp xã nơi cư trú của người giám hộ có trách nhiệm cử cá nhân hoặc pháp nhân giám sát việc giám hộ khi không có người thân thích hoặc không thể cử được người giám sát.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='124' article="51">
+        <QUESTIONS>
+            <QUESTION>Điều kiện để làm người giám sát việc giám hộ là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người giám sát việc giám hộ phải có năng lực hành vi dân sự đầy đủ nếu là cá nhân, có năng lực pháp luật dân sự phù hợp nếu là pháp nhân và có điều kiện cần thiết để thực hiện việc giám sát.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='125' article="51">
+        <QUESTIONS>
+            <QUESTION>Người giám sát việc giám hộ có quyền và nghĩa vụ gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Người giám sát việc giám hộ có quyền và nghĩa vụ theo dõi, kiểm tra người giám hộ trong việc thực hiện giám hộ, xem xét và có ý kiến về giao dịch dân sự, và yêu cầu cơ quan có thẩm quyền xem xét thay đổi hoặc chấm dứt giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='126' article="52">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ đương nhiên của người chưa thành niên được xác định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ đương nhiên của người chưa thành niên được xác định theo thứ tự, bắt đầu từ anh ruột là anh cả hoặc chị ruột là chị cả, nếu không đủ điều kiện thì anh hoặc chị ruột tiếp theo sẽ là người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='127' article="52">
+        <QUESTIONS>
+            <QUESTION>Trường hợp không có người giám hộ quy định tại khoản 1 thì ai sẽ làm người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp không có người giám hộ quy định tại khoản 1, ông nội, bà nội, ông ngoại, bà ngoại sẽ làm người giám hộ, hoặc những người này có thể thỏa thuận cử một hoặc một số người trong số họ làm người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='128' article="52">
+        <QUESTIONS>
+            <QUESTION>Trường hợp không có người giám hộ theo khoản 1 và khoản 2 thì ai sẽ làm người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp không có người giám hộ quy định tại khoản 1 và khoản 2, bác ruột, chú ruột, cậu ruột, cô ruột hoặc dì ruột sẽ làm người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='129' article="53">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ đương nhiên của người mất năng lực hành vi dân sự được xác định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp vợ là người mất năng lực hành vi dân sự thì chồng là người giám hộ; nếu chồng là người mất năng lực hành vi dân sự thì vợ là người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='130' article="53">
+        <QUESTIONS>
+            <QUESTION>Trường hợp cha mẹ đều mất năng lực hành vi dân sự hoặc một người mất năng lực hành vi dân sự thì ai sẽ là người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp cha mẹ đều mất năng lực hành vi dân sự hoặc một người mất năng lực hành vi dân sự, còn người kia không đủ điều kiện làm người giám hộ thì người con cả là người giám hộ. Nếu người con cả không có đủ điều kiện thì người con tiếp theo có đủ điều kiện làm người giám hộ sẽ làm người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='131' article="53">
+        <QUESTIONS>
+            <QUESTION>Trường hợp người thành niên mất năng lực hành vi dân sự chưa có vợ, chồng, con thì ai là người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp người thành niên mất năng lực hành vi dân sự chưa có vợ, chồng, con hoặc có mà vợ, chồng, con đều không đủ điều kiện làm người giám hộ thì cha mẹ là người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='132' article="54">
+        <QUESTIONS>
+            <QUESTION>Trường hợp người chưa thành niên, người mất năng lực hành vi dân sự không có người giám hộ đương nhiên thì ai sẽ có trách nhiệm cử người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp người chưa thành niên, người mất năng lực hành vi dân sự không có người giám hộ đương nhiên, Ủy ban nhân dân cấp xã nơi cư trú của người được giám hộ có trách nhiệm cử người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='133' article="54">
+        <QUESTIONS>
+            <QUESTION>Trường hợp có tranh chấp về người giám hộ thì ai sẽ quyết định người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp có tranh chấp về người giám hộ, Tòa án sẽ chỉ định người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='134' article="54">
+        <QUESTIONS>
+            <QUESTION>Khi cử người giám hộ cho người chưa thành niên từ đủ sáu tuổi trở lên, cần xem xét điều gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi cử người giám hộ cho người chưa thành niên từ đủ sáu tuổi trở lên, phải xem xét nguyện vọng của người này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='135' article="54">
+        <QUESTIONS>
+            <QUESTION>Việc cử người giám hộ phải thực hiện như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc cử người giám hộ phải được sự đồng ý của người được cử làm người giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='136' article="54">
+        <QUESTIONS>
+            <QUESTION>Việc cử người giám hộ phải được ghi nhận như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc cử người giám hộ phải được lập thành văn bản, trong đó ghi rõ lý do cử người giám hộ, quyền, nghĩa vụ cụ thể của người giám hộ, tình trạng tài sản của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='137' article="54">
+        <QUESTIONS>
+            <QUESTION>Trường hợp người giám hộ cho người có khó khăn trong nhận thức, làm chủ hành vi được chỉ định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Trường hợp người giám hộ cho người có khó khăn trong nhận thức, làm chủ hành vi do Tòa án chỉ định trong số những người giám hộ quy định tại Điều 53 của Bộ luật này. Nếu không có người giám hộ, Tòa án sẽ chỉ định người giám hộ hoặc đề nghị một pháp nhân thực hiện việc giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='138' article="55">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có nghĩa vụ gì đối với người được giám hộ chưa đủ mười lăm tuổi?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ có nghĩa vụ chăm sóc, giáo dục người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='139' article="55">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có thể đại diện cho người được giám hộ trong các giao dịch dân sự không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người giám hộ có thể đại diện cho người được giám hộ trong các giao dịch dân sự, trừ trường hợp pháp luật quy định người chưa đủ mười lăm tuổi có thể tự mình xác lập, thực hiện giao dịch dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='140' article="55">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có nghĩa vụ gì liên quan đến tài sản của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người giám hộ có nghĩa vụ quản lý tài sản của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='141' article="55">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ cần bảo vệ quyền gì của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Người giám hộ cần bảo vệ quyền, lợi ích hợp pháp của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='142' article="56">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có thể đại diện cho người được giám hộ trong các giao dịch dân sự không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ có thể đại diện cho người được giám hộ trong các giao dịch dân sự, trừ trường hợp pháp luật quy định người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể tự mình xác lập, thực hiện giao dịch dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='143' article="56">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có nghĩa vụ gì liên quan đến tài sản của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người giám hộ có nghĩa vụ quản lý tài sản của người được giám hộ, trừ trường hợp pháp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='144' article="56">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ cần bảo vệ quyền gì của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người giám hộ cần bảo vệ quyền, lợi ích hợp pháp của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='145' article="57">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ của người mất năng lực hành vi dân sự có nghĩa vụ gì liên quan đến chăm sóc và điều trị?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ của người mất năng lực hành vi dân sự có nghĩa vụ chăm sóc, bảo đảm việc điều trị bệnh cho người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='146' article="57">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ của người mất năng lực hành vi dân sự có nghĩa vụ gì trong giao dịch dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ của người mất năng lực hành vi dân sự có nghĩa vụ đại diện cho người được giám hộ trong các giao dịch dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='147' article="57">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có nghĩa vụ gì trong việc quản lý tài sản của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ có nghĩa vụ quản lý tài sản của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='148' article="57">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có nghĩa vụ gì trong việc bảo vệ quyền lợi hợp pháp của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ có nghĩa vụ bảo vệ quyền, lợi ích hợp pháp của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='149' article="57">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi có nghĩa vụ gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi có nghĩa vụ theo quyết định của Tòa án trong số các nghĩa vụ quy định tại khoản 1 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='150' article="58">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ của người chưa thành niên có quyền gì liên quan đến tài sản của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ của người chưa thành niên có quyền sử dụng tài sản của người được giám hộ để chăm sóc, chi dùng cho những nhu cầu thiết yếu của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='151' article="58">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có quyền gì liên quan đến chi phí quản lý tài sản của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ có quyền được thanh toán các chi phí hợp lý cho việc quản lý tài sản của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='152' article="58">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có quyền gì trong việc thực hiện giao dịch dân sự cho người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ có quyền đại diện cho người được giám hộ trong việc xác lập, thực hiện giao dịch dân sự và thực hiện các quyền khác theo quy định của pháp luật nhằm bảo vệ quyền, lợi ích hợp pháp của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='153' article="58">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi có quyền gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi có quyền theo quyết định của Tòa án trong số các quyền quy định tại khoản 1 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='154' article="59">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có trách nhiệm gì trong việc quản lý tài sản của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ của người chưa thành niên, người mất năng lực hành vi dân sự có trách nhiệm quản lý tài sản của người được giám hộ như tài sản của chính mình; được thực hiện giao dịch dân sự liên quan đến tài sản của người được giám hộ vì lợi ích của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='155' article="59">
+        <QUESTIONS>
+            <QUESTION>Điều kiện nào cần thiết để người giám hộ thực hiện giao dịch dân sự đối với tài sản của người được giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Việc bán, trao đổi, cho thuê, cho mượn, cho vay, cầm cố, thế chấp, đặt cọc và giao dịch dân sự khác đối với tài sản có giá trị lớn của người được giám hộ phải được sự đồng ý của người giám sát việc giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='156' article="59">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có thể tặng tài sản của người được giám hộ cho người khác không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ không được đem tài sản của người được giám hộ tặng cho người khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='157' article="59">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự giữa người giám hộ và người được giám hộ liên quan đến tài sản của người được giám hộ có hợp pháp không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Các giao dịch dân sự giữa người giám hộ với người được giám hộ có liên quan đến tài sản của người được giám hộ đều vô hiệu, trừ trường hợp giao dịch được thực hiện vì lợi ích của người được giám hộ và có sự đồng ý của người giám sát việc giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='158' article="59">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi có quyền quản lý tài sản của người được giám hộ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi được quản lý tài sản của người được giám hộ theo quyết định của Tòa án trong phạm vi được quy định tại khoản 1 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='159' article="60">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào người giám hộ có thể được thay đổi?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người giám hộ được thay đổi trong các trường hợp sau: 
+                a) Người giám hộ không còn đủ các điều kiện quy định tại Điều 49, Điều 50 của Bộ luật này; 
+                b) Người giám hộ là cá nhân chết hoặc bị Tòa án tuyên bố hạn chế năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, mất năng lực hành vi dân sự, mất tích; pháp nhân làm giám hộ chấm dứt tồn tại; 
+                c) Người giám hộ vi phạm nghiêm trọng nghĩa vụ giám hộ; 
+                d) Người giám hộ đề nghị được thay đổi và có người khác nhận làm giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='160' article="60">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào sẽ áp dụng người giám hộ đương nhiên khi thay đổi người giám hộ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp thay đổi người giám hộ đương nhiên thì những người được quy định tại Điều 52 và Điều 53 của Bộ luật này là người giám hộ đương nhiên; nếu không có người giám hộ đương nhiên thì việc cử, chỉ định người giám hộ được thực hiện theo quy định tại Điều 54 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='161' article="60">
+        <QUESTIONS>
+            <QUESTION>Thủ tục thay đổi người giám hộ được thực hiện theo quy định nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Thủ tục thay đổi người giám hộ được thực hiện theo quy định của pháp luật về hộ tịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='162' article="61">
+        <QUESTIONS>
+            <QUESTION>Khi thay đổi người giám hộ, thời hạn chuyển giao giám hộ là bao lâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi thay đổi người giám hộ, trong thời hạn 15 ngày, kể từ ngày có người giám hộ mới, người đã thực hiện việc giám hộ phải chuyển giao giám hộ cho người thay thế mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='163' article="61">
+        <QUESTIONS>
+            <QUESTION>Việc chuyển giao giám hộ phải được lập như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc chuyển giao giám hộ phải được lập thành văn bản, trong đó ghi rõ lý do chuyển giao và tình trạng tài sản, vấn đề khác có liên quan của người được giám hộ tại thời điểm chuyển giao. Cơ quan cử, chỉ định người giám hộ, người giám sát việc giám hộ chứng kiến việc chuyển giao giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='164' article="61">
+        <QUESTIONS>
+            <QUESTION>Trường hợp thay đổi người giám hộ, cơ quan nào sẽ lập biên bản chuyển giao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp thay đổi người giám hộ quy định tại khoản 1 Điều 60 của Bộ luật này, cơ quan cử, chỉ định người giám hộ lập biên bản, ghi rõ tình trạng tài sản, vấn đề khác có liên quan của người được giám hộ, quyền, nghĩa vụ phát sinh trong quá trình thực hiện việc giám hộ để chuyển giao cho người giám hộ mới với sự chứng kiến của người giám sát việc giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='165' article="62">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào việc giám hộ sẽ chấm dứt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Việc giám hộ chấm dứt trong các trường hợp sau:
+                a) Người được giám hộ đã có năng lực hành vi dân sự đầy đủ;
+                b) Người được giám hộ chết;
+                c) Cha, mẹ của người được giám hộ là người chưa thành niên đã có đủ điều kiện để thực hiện quyền, nghĩa vụ của mình;
+                d) Người được giám hộ được nhận làm con nuôi.
+            </ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='166' article="62">
+        <QUESTIONS>
+            <QUESTION>Thủ tục chấm dứt việc giám hộ được thực hiện như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thủ tục chấm dứt việc giám hộ thực hiện theo quy định của pháp luật về hộ tịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='167' article="63">
+        <QUESTIONS>
+            <QUESTION>Hậu quả khi người được giám hộ có năng lực hành vi dân sự đầy đủ là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi người được giám hộ có năng lực hành vi dân sự đầy đủ, trong thời hạn 15 ngày, kể từ ngày chấm dứt việc giám hộ, người giám hộ phải thanh toán tài sản với người được giám hộ và chuyển giao quyền, nghĩa vụ phát sinh từ giao dịch dân sự vì lợi ích của người được giám hộ cho người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='168' article="63">
+        <QUESTIONS>
+            <QUESTION>Hậu quả khi người được giám hộ chết là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi người được giám hộ chết, trong thời hạn 03 tháng, kể từ ngày chấm dứt việc giám hộ, người giám hộ phải thanh toán tài sản với người thừa kế hoặc giao tài sản cho người quản lý di sản của người được giám hộ, chuyển giao quyền, nghĩa vụ phát sinh từ giao dịch dân sự vì lợi ích của người được giám hộ cho người thừa kế của người được giám hộ. Nếu hết thời hạn mà chưa xác định được người thừa kế, người giám hộ tiếp tục quản lý tài sản cho đến khi tài sản được giải quyết theo quy định của pháp luật về thừa kế và thông báo cho Ủy ban nhân dân cấp xã nơi cư trú của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='169' article="63">
+        <QUESTIONS>
+            <QUESTION>Hậu quả khi chấm dứt giám hộ đối với người chưa thành niên hoặc người mất năng lực hành vi dân sự là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Khi chấm dứt giám hộ đối với người chưa thành niên hoặc người mất năng lực hành vi dân sự theo điểm c và d khoản 1 Điều 62, trong thời hạn 15 ngày, người giám hộ phải thanh toán tài sản và chuyển giao quyền, nghĩa vụ phát sinh từ giao dịch dân sự vì lợi ích của người được giám hộ cho cha, mẹ của người được giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='170' article="63">
+        <QUESTIONS>
+            <QUESTION>Việc thanh toán tài sản và chuyển giao quyền, nghĩa vụ được thực hiện như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Việc thanh toán tài sản và chuyển giao quyền, nghĩa vụ phải được lập thành văn bản với sự giám sát của người giám sát việc giám hộ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='171' article="64">
+        <QUESTIONS>
+            <QUESTION>Khi một người biệt tích 06 tháng liền trở lên, ai có quyền yêu cầu thông báo tìm kiếm người vắng mặt tại nơi cư trú?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Khi một người biệt tích 06 tháng liền trở lên, những người có quyền, lợi ích liên quan có quyền yêu cầu Tòa án thông báo tìm kiếm người vắng mặt tại nơi cư trú theo quy định của pháp luật về tố tụng dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='172' article="64">
+        <QUESTIONS>
+            <QUESTION>Có thể yêu cầu Tòa án áp dụng biện pháp gì khi một người biệt tích 06 tháng liền trở lên?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Khi một người biệt tích 06 tháng liền trở lên, người có quyền lợi, nghĩa vụ liên quan có thể yêu cầu Tòa án áp dụng biện pháp quản lý tài sản của người vắng mặt tại nơi cư trú theo quy định tại Điều 65 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='173' article="65">
+        <QUESTIONS>
+            <QUESTION>Ai có quyền yêu cầu Tòa án giao tài sản của người vắng mặt tại nơi cư trú cho người khác quản lý?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Theo yêu cầu của người có quyền, lợi ích liên quan, Tòa án giao tài sản của người vắng mặt tại nơi cư trú cho người quản lý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='174' article="65">
+        <QUESTIONS>
+            <QUESTION>Khi tài sản của người vắng mặt cần quản lý, ai sẽ tiếp tục quản lý nếu tài sản đã được ủy quyền?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Đối với tài sản đã được người vắng mặt ủy quyền quản lý thì người được ủy quyền tiếp tục quản lý tài sản đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='175' article="65">
+        <QUESTIONS>
+            <QUESTION>Ai sẽ quản lý tài sản chung của người vắng mặt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Đối với tài sản chung thì do chủ sở hữu chung còn lại quản lý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='176' article="65">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp vợ hoặc chồng của người vắng mặt đang quản lý tài sản, ai sẽ tiếp tục quản lý tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Đối với tài sản do vợ hoặc chồng đang quản lý thì vợ hoặc chồng tiếp tục quản lý. Nếu vợ hoặc chồng chết hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, bị hạn chế năng lực hành vi dân sự thì con thành niên hoặc cha, mẹ của người vắng mặt quản lý tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='177' article="65">
+        <QUESTIONS>
+            <QUESTION>Khi không có người quản lý tài sản theo quy định tại khoản 1 Điều 65, Tòa án sẽ làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp không có những người được quy định tại khoản 1 Điều này thì Tòa án chỉ định một người trong số những người thân thích của người vắng mặt tại nơi cư trú quản lý tài sản; nếu không có người thân thích thì Tòa án chỉ định người khác quản lý tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='178' article="66">
+        <QUESTIONS>
+            <QUESTION>Người quản lý tài sản của người vắng mặt có nghĩa vụ gì đối với tài sản của người đó?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người quản lý tài sản của người vắng mặt có nghĩa vụ giữ gìn, bảo quản tài sản của người vắng mặt như tài sản của chính mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='179' article="66">
+        <QUESTIONS>
+            <QUESTION>Người quản lý tài sản của người vắng mặt có thể làm gì đối với tài sản là hoa màu, sản phẩm có nguy cơ bị hư hỏng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người quản lý tài sản của người vắng mặt có thể bán ngay tài sản là hoa màu, sản phẩm khác có nguy cơ bị hư hỏng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='180' article="66">
+        <QUESTIONS>
+            <QUESTION>Người quản lý tài sản của người vắng mặt có nghĩa vụ gì liên quan đến các nghĩa vụ tài chính của người vắng mặt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người quản lý tài sản của người vắng mặt có nghĩa vụ thực hiện nghĩa vụ cấp dưỡng, thanh toán nợ đến hạn, nghĩa vụ tài chính khác của người vắng mặt bằng tài sản của người đó theo quyết định của Tòa án.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='181' article="66">
+        <QUESTIONS>
+            <QUESTION>Người quản lý tài sản của người vắng mặt có trách nhiệm gì khi người vắng mặt trở về?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Người quản lý tài sản của người vắng mặt có trách nhiệm giao lại tài sản cho người vắng mặt khi người này trở về và phải thông báo cho Tòa án biết; nếu có lỗi trong việc quản lý tài sản mà gây thiệt hại thì phải bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='182' article="67">
+        <QUESTIONS>
+            <QUESTION>Người quản lý tài sản của người vắng mặt có quyền gì?</QUESTION>
+            <QUESTION>Người quản lý tài sản của người vắng mặt có thể làm gì với tài sản của người vắng mặt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người quản lý tài sản của người vắng mặt có quyền quản lý tài sản của người vắng mặt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='183' article="67">
+        <QUESTIONS>
+            <QUESTION>Người quản lý tài sản của người vắng mặt có quyền gì đối với nghĩa vụ cấp dưỡng và các nghĩa vụ tài chính khác của người vắng mặt?</QUESTION>
+            <QUESTION>Người quản lý tài sản của người vắng mặt có thể trích tài sản của người vắng mặt để làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người quản lý tài sản của người vắng mặt có quyền trích một phần tài sản của người vắng mặt để thực hiện nghĩa vụ cấp dưỡng, nghĩa vụ thanh toán nợ đến hạn, nghĩa vụ tài chính khác của người vắng mặt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='184' article="67">
+        <QUESTIONS>
+            <QUESTION>Người quản lý tài sản của người vắng mặt có quyền yêu cầu gì khi thực hiện việc quản lý tài sản của người vắng mặt?</QUESTION>
+            <QUESTION>Người quản lý tài sản của người vắng mặt có thể yêu cầu thanh toán gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người quản lý tài sản của người vắng mặt có quyền được thanh toán các chi phí cần thiết trong việc quản lý tài sản của người vắng mặt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='185' article="68">
+        <QUESTIONS>
+            <QUESTION>Khi nào một người có thể bị tuyên bố mất tích?</QUESTION>
+            <QUESTION>Thời gian bao lâu sau khi biệt tích mà Tòa án có thể tuyên bố người đó mất tích?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi một người biệt tích 02 năm liền trở lên, mặc dù đã áp dụng đầy đủ các biện pháp thông báo, tìm kiếm theo quy định của pháp luật về tố tụng dân sự nhưng vẫn không có tin tức xác thực về việc người đó còn sống hay đã chết, thì Tòa án có thể tuyên bố người đó mất tích.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='186' article="68">
+        <QUESTIONS>
+            <QUESTION>Thời hạn 02 năm được tính từ khi nào đối với người bị tuyên bố mất tích?</QUESTION>
+            <QUESTION>Thời gian 02 năm được tính từ ngày nào nếu không xác định được ngày có tin tức cuối cùng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hạn 02 năm được tính từ ngày biết được tin tức cuối cùng về người đó. Nếu không xác định được ngày có tin tức cuối cùng, thời hạn này được tính từ ngày đầu tiên của tháng tiếp theo tháng có tin tức cuối cùng, hoặc nếu không xác định được ngày, tháng thì tính từ ngày đầu tiên của năm tiếp theo năm có tin tức cuối cùng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='187' article="68">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp vợ hoặc chồng của người bị tuyên bố mất tích xin ly hôn thì Tòa án giải quyết thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp vợ hoặc chồng của người bị tuyên bố mất tích xin ly hôn, Tòa án giải quyết cho ly hôn theo quy định của pháp luật về hôn nhân và gia đình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='188' article="68">
+        <QUESTIONS>
+            <QUESTION>Quyết định tuyên bố một người mất tích được gửi đi đâu để ghi chú?</QUESTION>
+            <QUESTION>Ai là người nhận quyết định tuyên bố người mất tích để ghi chú?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Quyết định của Tòa án tuyên bố một người mất tích phải được gửi cho Ủy ban nhân dân cấp xã nơi cư trú cuối cùng của người bị tuyên bố mất tích để ghi chú theo quy định của pháp luật về hộ tịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='189' article="69">
+        <QUESTIONS>
+            <QUESTION>Khi một người bị tuyên bố mất tích, ai sẽ tiếp tục quản lý tài sản của người đó?</QUESTION>
+            <QUESTION>Quyền và nghĩa vụ của người quản lý tài sản của người bị tuyên bố mất tích có gì khác biệt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người đang quản lý tài sản của người vắng mặt tại nơi cư trú quy định tại Điều 65 tiếp tục quản lý tài sản của người đó khi người đó bị Tòa án tuyên bố mất tích và có các quyền, nghĩa vụ quy định tại Điều 66 và Điều 67 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='190' article="69">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp Tòa án giải quyết cho vợ hoặc chồng của người bị tuyên bố mất tích ly hôn, ai sẽ quản lý tài sản của người mất tích?</QUESTION>
+            <QUESTION>Trường hợp không có con thành niên hoặc cha, mẹ của người mất tích thì ai sẽ quản lý tài sản của người đó?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Khi Tòa án giải quyết cho vợ hoặc chồng của người bị tuyên bố mất tích ly hôn, tài sản của người mất tích được giao cho con thành niên hoặc cha, mẹ của người mất tích quản lý. Nếu không có những người này, tài sản sẽ được giao cho người thân thích của người mất tích quản lý. Nếu không có người thân thích thì Tòa án chỉ định người khác quản lý tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='191' article="70">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp người bị tuyên bố mất tích trở về, ai có quyền yêu cầu Tòa án hủy bỏ quyết định tuyên bố mất tích?</QUESTION>
+            <QUESTION>Quyết định tuyên bố mất tích có thể bị hủy bỏ nếu có tin tức xác thực người đó còn sống không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi người bị tuyên bố mất tích trở về hoặc có tin tức xác thực là người đó còn sống thì theo yêu cầu của người đó hoặc của người có quyền, lợi ích liên quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố mất tích đối với người đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='192' article="70">
+        <QUESTIONS>
+            <QUESTION>Người bị tuyên bố mất tích trở về có quyền gì đối với tài sản đã bị quản lý trong thời gian người đó vắng mặt?</QUESTION>
+            <QUESTION>Với trường hợp ly hôn, quyết định cho ly hôn có bị ảnh hưởng nếu người bị tuyên bố mất tích trở về?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người bị tuyên bố mất tích trở về được nhận lại tài sản do người quản lý tài sản chuyển giao sau khi đã thanh toán chi phí quản lý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='193' article="70">
+        <QUESTIONS>
+            <QUESTION>Quyết định của Tòa án hủy bỏ quyết định tuyên bố mất tích sẽ được gửi đi đâu để ghi chú?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp vợ hoặc chồng của người bị tuyên bố mất tích đã được ly hôn, dù người bị tuyên bố mất tích trở về hoặc có tin tức xác thực là người đó còn sống, quyết định cho ly hôn vẫn có hiệu lực pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='194' article="70">
+        <QUESTIONS>
+            <QUESTION>Quyết định của Tòa án hủy bỏ quyết định tuyên bố mất tích sẽ được gửi đi đâu để ghi chú?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Quyết định của Tòa án hủy bỏ quyết định tuyên bố một người mất tích phải được gửi cho Ủy ban nhân dân cấp xã nơi cư trú của người bị tuyên bố mất tích để ghi chú theo quy định của pháp luật về hộ tịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='195' article="71">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào, người có quyền, lợi ích liên quan có thể yêu cầu Tòa án tuyên bố một người đã chết?</QUESTION>
+            <QUESTION>Thời gian nào sau khi tuyên bố mất tích mà vẫn không có tin tức xác thực về người đó sẽ dẫn đến yêu cầu tuyên bố chết?</QUESTION>
+            <QUESTION>Biệt tích trong chiến tranh có điều kiện nào để yêu cầu tuyên bố chết không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người có quyền, lợi ích liên quan có thể yêu cầu Tòa án ra quyết định tuyên bố một người là đã chết trong các trường hợp:
+                a) Sau 03 năm, kể từ ngày quyết định tuyên bố mất tích của Tòa án có hiệu lực pháp luật mà vẫn không có tin tức xác thực là còn sống;
+                b) Biệt tích trong chiến tranh sau 05 năm, kể từ ngày chiến tranh kết thúc mà vẫn không có tin tức xác thực là còn sống;
+                c) Bị tai nạn hoặc thảm họa, thiên tai mà sau 02 năm, kể từ ngày tai nạn hoặc thảm hoạ, thiên tai đó chấm dứt vẫn không có tin tức xác thực là còn sống;
+                d) Biệt tích 05 năm liền trở lên và không có tin tức xác thực là còn sống.
+            </ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='196' article="71">
+        <QUESTIONS>
+            <QUESTION>Tòa án sẽ xác định ngày chết của người bị tuyên bố chết như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Căn cứ vào các trường hợp quy định tại khoản 1 Điều này, Tòa án xác định ngày chết của người bị tuyên bố là đã chết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='197' article="71">
+        <QUESTIONS>
+            <QUESTION>Quyết định của Tòa án tuyên bố một người là đã chết phải được gửi đi đâu để ghi chú?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Quyết định của Tòa án tuyên bố một người là đã chết phải được gửi cho Ủy ban nhân dân cấp xã nơi cư trú của người bị tuyên bố là đã chết để ghi chú theo quy định của pháp luật về hộ tịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='198' article="72">
+        <QUESTIONS>
+            <QUESTION>Khi quyết định của Tòa án tuyên bố một người là đã chết có hiệu lực pháp luật, quan hệ về hôn nhân, gia đình và các quan hệ nhân thân khác của người đó sẽ được giải quyết như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi quyết định của Tòa án tuyên bố một người là đã chết có hiệu lực pháp luật thì quan hệ về hôn nhân, gia đình và các quan hệ nhân thân khác của người đó được giải quyết như đối với người đã chết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='199' article="72">
+        <QUESTIONS>
+            <QUESTION>Quan hệ tài sản của người bị Tòa án tuyên bố là đã chết sẽ được giải quyết như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Quan hệ tài sản của người bị Tòa án tuyên bố là đã chết được giải quyết như đối với người đã chết; tài sản của người đó được giải quyết theo quy định của pháp luật về thừa kế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='200' article="73">
+        <QUESTIONS>
+            <QUESTION>Khi một người bị tuyên bố là đã chết trở về hoặc có tin tức xác thực là người đó còn sống, Tòa án sẽ làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi một người bị tuyên bố là đã chết trở về hoặc có tin tức xác thực là người đó còn sống thì theo yêu cầu của người đó hoặc của người có quyền, lợi ích liên quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố người đó là đã chết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='201' article="73">
+        <QUESTIONS>
+            <QUESTION>Quan hệ nhân thân của người bị tuyên bố là đã chết sẽ được giải quyết như thế nào khi Tòa án hủy bỏ quyết định tuyên bố người đó là đã chết?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Quan hệ nhân thân của người bị tuyên bố là đã chết được khôi phục khi Tòa án ra quyết định hủy bỏ quyết định tuyên bố người đó là đã chết, trừ trường hợp vợ hoặc chồng của người bị tuyên bố là đã chết đã được Tòa án cho ly hôn hoặc đã kết hôn với người khác, thì những quyết định này vẫn có hiệu lực pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='202' article="73">
+        <QUESTIONS>
+            <QUESTION>Người bị tuyên bố là đã chết mà còn sống có quyền gì đối với tài sản thừa kế?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người bị tuyên bố là đã chết mà còn sống có quyền yêu cầu những người đã nhận tài sản thừa kế trả lại tài sản, giá trị tài sản hiện còn. Nếu người thừa kế cố tình giấu giếm, họ phải hoàn trả toàn bộ tài sản đã nhận và bồi thường thiệt hại nếu có.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='203' article="73">
+        <QUESTIONS>
+            <QUESTION>Quan hệ tài sản giữa vợ và chồng của người bị tuyên bố là đã chết được giải quyết như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Quan hệ tài sản giữa vợ và chồng được giải quyết theo quy định của Bộ luật này và Luật hôn nhân và gia đình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='204' article="73">
+        <QUESTIONS>
+            <QUESTION>Quyết định của Tòa án hủy bỏ quyết định tuyên bố một người là đã chết phải được gửi đi đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Quyết định của Tòa án hủy bỏ quyết định tuyên bố một người là đã chết phải được gửi cho Ủy ban nhân dân cấp xã nơi cư trú của người bị tuyên bố là đã chết để ghi chú theo quy định của pháp luật về hộ tịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

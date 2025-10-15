@@ -1,0 +1,16 @@
+langchain>=0.2.0
+langchain-community
+langchain-huggingface
+langchain-chroma
+chromadb
+faiss-cpu
+sentence-transformers
+tiktoken
+fastapi
+uvicorn
+streamlit
+pydantic-settings
+python-dotenv
+loguru
+requests
+python-docx

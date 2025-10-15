@@ -1,0 +1,526 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>8</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="116">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự được hiểu như thế nào?</QUESTION>
+            <QUESTION>Giao dịch dân sự bao gồm những loại nào?</QUESTION>
+            <QUESTION>Những yếu tố nào làm phát sinh giao dịch dân sự?</QUESTION>
+            <QUESTION>Giao dịch dân sự có thể thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự trong trường hợp nào?</QUESTION>
+            <QUESTION>Làm thế nào để phân biệt hợp đồng và hành vi pháp lý đơn phương?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Giao dịch dân sự là hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="117">
+        <QUESTIONS>
+            <QUESTION>Điều kiện để giao dịch dân sự có hiệu lực là gì?</QUESTION>
+            <QUESTION>Những yếu tố nào quyết định hiệu lực của giao dịch dân sự?</QUESTION>
+            <QUESTION>Làm thế nào để xác định năng lực pháp luật và hành vi dân sự của chủ thể?</QUESTION>
+            <QUESTION>Tại sao mục đích và nội dung của giao dịch dân sự phải không vi phạm điều cấm của luật?</QUESTION>
+            <QUESTION>Thế nào là sự tự nguyện của các chủ thể trong giao dịch dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Giao dịch dân sự có hiệu lực khi có đủ các điều kiện sau đây:
+                a) Chủ thể có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập;
+                b) Chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện;
+                c) Mục đích và nội dung của giao dịch dân sự không vi phạm điều cấm của luật, không trái đạo đức xã hội.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="117">
+        <QUESTIONS>
+            <QUESTION>Hình thức của giao dịch dân sự có vai trò gì đối với hiệu lực của giao dịch?</QUESTION>
+            <QUESTION>Trong trường hợp nào hình thức của giao dịch dân sự được coi là điều kiện bắt buộc?</QUESTION>
+            <QUESTION>Luật quy định thế nào về hình thức giao dịch dân sự?</QUESTION>
+            <QUESTION>Tại sao hình thức lại là một điều kiện quan trọng đối với hiệu lực của giao dịch dân sự?</QUESTION>
+            <QUESTION>Những trường hợp cụ thể nào yêu cầu hình thức của giao dịch dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Hình thức của giao dịch dân sự là điều kiện có hiệu lực của giao dịch dân sự trong trường hợp luật có quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="118">
+        <QUESTIONS>
+            <QUESTION>Mục đích của giao dịch dân sự là gì?</QUESTION>
+            <QUESTION>Lợi ích mà chủ thể mong muốn đạt được trong giao dịch dân sự được gọi là gì?</QUESTION>
+            <QUESTION>Chủ thể xác lập giao dịch dân sự với mục đích gì?</QUESTION>
+            <QUESTION>Mục đích của giao dịch dân sự có ảnh hưởng như thế nào đến hiệu lực của giao dịch?</QUESTION>
+            <QUESTION>Tại sao mục đích của giao dịch dân sự lại quan trọng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Mục đích của giao dịch dân sự là lợi ích mà chủ thể mong muốn đạt được khi xác lập giao dịch đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="119">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự có thể được thể hiện bằng hình thức nào?</QUESTION>
+            <QUESTION>Giao dịch dân sự có thể được thể hiện bằng lời nói không?</QUESTION>
+            <QUESTION>Giao dịch dân sự có thể được thể hiện bằng hành vi cụ thể không?</QUESTION>
+            <QUESTION>Giao dịch dân sự có thể được thể hiện bằng văn bản không?</QUESTION>
+            <QUESTION>Giao dịch dân sự qua phương tiện điện tử được coi là giao dịch bằng văn bản không?</QUESTION>
+            <QUESTION>Thông điệp dữ liệu có phải là hình thức giao dịch dân sự bằng văn bản không?</QUESTION>
+            <QUESTION>Pháp luật về giao dịch điện tử có ảnh hưởng gì đến hình thức giao dịch dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Giao dịch dân sự được thể hiện bằng lời nói, bằng văn bản hoặc bằng hành vi cụ thể.
+    Giao dịch dân sự thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử được coi là giao dịch bằng văn bản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="119">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự cần có công chứng, chứng thực hoặc đăng ký trong trường hợp nào?</QUESTION>
+            <QUESTION>Pháp luật quy định giao dịch dân sự phải có công chứng, chứng thực khi nào?</QUESTION>
+            <QUESTION>Có những loại giao dịch dân sự nào yêu cầu công chứng, chứng thực hoặc đăng ký?</QUESTION>
+            <QUESTION>Tại sao giao dịch dân sự có thể yêu cầu công chứng, chứng thực hoặc đăng ký?</QUESTION>
+            <QUESTION>Việc yêu cầu công chứng, chứng thực hoặc đăng ký có ảnh hưởng như thế nào đến giao dịch dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp luật quy định giao dịch dân sự phải được thể hiện bằng văn bản có công chứng, chứng thực, đăng ký thì phải tuân theo quy định đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="120">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự có điều kiện là gì?</QUESTION>
+            <QUESTION>Khi điều kiện phát sinh, giao dịch dân sự sẽ như thế nào?</QUESTION>
+            <QUESTION>Điều kiện hủy bỏ giao dịch dân sự có ảnh hưởng gì đến hiệu lực của giao dịch?</QUESTION>
+            <QUESTION>Điều kiện phát sinh hoặc hủy bỏ giao dịch dân sự cần có sự thỏa thuận của các bên không?</QUESTION>
+            <QUESTION>Khi điều kiện xảy ra, giao dịch dân sự sẽ phát sinh như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp các bên có thỏa thuận về điều kiện phát sinh hoặc hủy bỏ giao dịch dân sự thì khi điều kiện đó xảy ra, giao dịch dân sự phát sinh hoặc hủy bỏ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="120">
+        <QUESTIONS>
+            <QUESTION>Khi điều kiện không thể xảy ra do hành vi cản trở của một bên, điều gì sẽ xảy ra với giao dịch dân sự?</QUESTION>
+            <QUESTION>Hành vi cản trở của một bên có ảnh hưởng gì đến điều kiện của giao dịch dân sự?</QUESTION>
+            <QUESTION>Khi một bên cố ý cản trở điều kiện, điều đó có tác động như thế nào đến giao dịch dân sự?</QUESTION>
+            <QUESTION>Trường hợp có tác động của một bên thúc đẩy điều kiện xảy ra, điều đó ảnh hưởng gì đến giao dịch dân sự?</QUESTION>
+            <QUESTION>Điều kiện không xảy ra khi có sự tác động của một bên như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp điều kiện làm phát sinh hoặc hủy bỏ giao dịch dân sự không thể xảy ra được do hành vi cố ý cản trở trực tiếp hoặc gián tiếp của một bên thì coi như điều kiện đó đã xảy ra; trường hợp có sự tác động trực tiếp hoặc gián tiếp của một bên cố ý thúc đẩy cho điều kiện xảy ra thì coi như điều kiện đó không xảy ra.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="121">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự có nội dung không rõ ràng cần được giải thích như thế nào?</QUESTION>
+            <QUESTION>Khi giao dịch dân sự có nhiều nghĩa khác nhau, giải thích được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Thứ tự giải thích giao dịch dân sự trong trường hợp không rõ ràng là gì?</QUESTION>
+            <QUESTION>Ý chí đích thực của các bên có vai trò gì trong việc giải thích giao dịch dân sự?</QUESTION>
+            <QUESTION>Mục đích của giao dịch có ảnh hưởng như thế nào đến việc giải thích giao dịch dân sự?</QUESTION>
+            <QUESTION>Tập quán nơi giao dịch được xác lập có ảnh hưởng gì đến việc giải thích giao dịch dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Giao dịch dân sự có nội dung không rõ ràng, khó hiểu, được hiểu theo nhiều nghĩa khác nhau và không thuộc quy định tại khoản 2 Điều này thì việc giải thích giao dịch dân sự đó được thực hiện theo thứ tự sau đây:
+                a) Theo ý chí đích thực của các bên khi xác lập giao dịch;
+                b) Theo nghĩa phù hợp với mục đích của giao dịch;
+                c) Theo tập quán nơi giao dịch được xác lập.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="121">
+        <QUESTIONS>
+            <QUESTION>Việc giải thích hợp đồng được thực hiện theo quy định tại điều nào của Bộ luật Dân sự?</QUESTION>
+            <QUESTION>Di chúc có được giải thích theo cách nào khác không?</QUESTION>
+            <QUESTION>Có sự khác biệt gì giữa việc giải thích hợp đồng và di chúc?</QUESTION>
+            <QUESTION>Điều 404 của Bộ luật Dân sự quy định gì về việc giải thích hợp đồng?</QUESTION>
+            <QUESTION>Điều 648 của Bộ luật Dân sự quy định gì về việc giải thích di chúc?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc giải thích hợp đồng được thực hiện theo quy định tại Điều 404 của Bộ luật này; việc giải thích nội dung di chúc được thực hiện theo quy định tại Điều 648 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="122">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự vô hiệu là gì?</QUESTION>
+            <QUESTION>Điều kiện nào khiến giao dịch dân sự bị vô hiệu?</QUESTION>
+            <QUESTION>Giao dịch dân sự không có điều kiện quy định tại Điều 117 sẽ bị vô hiệu như thế nào?</QUESTION>
+            <QUESTION>Giao dịch dân sự vô hiệu có phải luôn luôn do không đáp ứng Điều 117 không?</QUESTION>
+            <QUESTION>Có trường hợp nào khác khiến giao dịch dân sự vô hiệu không theo Điều 117 không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Giao dịch dân sự không có một trong các điều kiện được quy định tại Điều 117 của Bộ luật này thì vô hiệu, trừ trường hợp Bộ luật này có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="123">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự vô hiệu do lý do nào?</QUESTION>
+            <QUESTION>Giao dịch dân sự có mục đích hoặc nội dung vi phạm điều cấm của luật sẽ bị ảnh hưởng như thế nào?</QUESTION>
+            <QUESTION>Điều cấm của luật là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Giao dịch dân sự có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì vô hiệu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="123">
+        <QUESTIONS>
+            <QUESTION>Điều cấm của luật có nghĩa là gì?</QUESTION>
+            <QUESTION>Những hành vi nào bị coi là vi phạm điều cấm của luật?</QUESTION>
+            <QUESTION>Có quy định nào về hành vi không được phép thực hiện trong giao dịch dân sự không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Điều cấm của luật là những quy định của luật không cho phép chủ thể thực hiện những hành vi nhất định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="123">
+        <QUESTIONS>
+            <QUESTION>Đạo đức xã hội là gì?</QUESTION>
+            <QUESTION>Đạo đức xã hội có ảnh hưởng như thế nào đến giao dịch dân sự?</QUESTION>
+            <QUESTION>Những chuẩn mực ứng xử trong đạo đức xã hội được công nhận như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Đạo đức xã hội là những chuẩn mực ứng xử chung trong đời sống xã hội, được cộng đồng thừa nhận và tôn trọng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="124">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự giả tạo là gì?</QUESTION>
+            <QUESTION>Khi các bên xác lập giao dịch dân sự giả tạo, điều gì sẽ xảy ra với giao dịch đó?</QUESTION>
+            <QUESTION>Khi giao dịch dân sự bị che giấu, nó sẽ như thế nào?</QUESTION>
+            <QUESTION>Giao dịch dân sự bị che giấu vẫn có hiệu lực trong trường hợp nào?</QUESTION>
+            <QUESTION>Có trường hợp nào giao dịch bị che giấu cũng bị vô hiệu không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi các bên xác lập giao dịch dân sự một cách giả tạo nhằm che giấu một giao dịch dân sự khác thì giao dịch dân sự giả tạo vô hiệu, còn giao dịch dân sự bị che giấu vẫn có hiệu lực, trừ trường hợp giao dịch đó cũng vô hiệu theo quy định của Bộ luật này hoặc luật khác có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="124">
+        <QUESTIONS>
+            <QUESTION>Khi giao dịch dân sự giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba, giao dịch đó sẽ bị ảnh hưởng như thế nào?</QUESTION>
+            <QUESTION>Giao dịch dân sự giả tạo có thể bị vô hiệu trong trường hợp nào?</QUESTION>
+            <QUESTION>Việc xác lập giao dịch dân sự giả tạo có mục đích trốn tránh nghĩa vụ có tác động gì đến hiệu lực của giao dịch?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp xác lập giao dịch dân sự giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì giao dịch dân sự đó vô hiệu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="125">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự vô hiệu khi do ai thực hiện?</QUESTION>
+            <QUESTION>Giao dịch dân sự sẽ bị vô hiệu khi do người chưa thành niên hoặc người mất năng lực hành vi dân sự thực hiện trong trường hợp nào?</QUESTION>
+            <QUESTION>Giao dịch dân sự của người có khó khăn trong nhận thức có bị vô hiệu không?</QUESTION>
+            <QUESTION>Ai có quyền yêu cầu tuyên bố giao dịch dân sự vô hiệu trong trường hợp này?</QUESTION>
+            <QUESTION>Điều kiện để giao dịch dân sự của người chưa thành niên hoặc người mất năng lực hành vi dân sự không bị vô hiệu là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi giao dịch dân sự do người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi hoặc người bị hạn chế năng lực hành vi dân sự xác lập, thực hiện thì theo yêu cầu của người đại diện của người đó, Tòa án tuyên bố giao dịch đó vô hiệu nếu theo quy định của pháp luật giao dịch này phải do người đại diện của họ xác lập, thực hiện hoặc đồng ý, trừ trường hợp quy định tại khoản 2 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="125">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự của người chưa thành niên, người mất năng lực hành vi dân sự sẽ không bị vô hiệu trong trường hợp nào?</QUESTION>
+            <QUESTION>Có trường hợp nào giao dịch dân sự của người chưa đủ sáu tuổi không bị vô hiệu không?</QUESTION>
+            <QUESTION>Giao dịch dân sự có làm phát sinh quyền cho người chưa thành niên có bị vô hiệu không?</QUESTION>
+            <QUESTION>Giao dịch dân sự của người có khó khăn trong nhận thức sẽ bị vô hiệu trong trường hợp nào?</QUESTION>
+            <QUESTION>Điều kiện để giao dịch dân sự của người chưa thành niên, người mất năng lực hành vi dân sự có hiệu lực là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Giao dịch dân sự của người quy định tại khoản 1 Điều này không bị vô hiệu trong trường hợp sau đây:
+                a) Giao dịch dân sự của người chưa đủ sáu tuổi, người mất năng lực hành vi dân sự nhằm đáp ứng nhu cầu thiết yếu hàng ngày của người đó;
+                b) Giao dịch dân sự chỉ làm phát sinh quyền hoặc chỉ miễn trừ nghĩa vụ cho người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự với người đã xác lập, thực hiện giao dịch với họ;
+                c) Giao dịch dân sự được người xác lập giao dịch thừa nhận hiệu lực sau khi đã thành niên hoặc sau khi khôi phục năng lực hành vi dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="126">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự bị nhầm lẫn sẽ bị vô hiệu trong trường hợp nào?</QUESTION>
+            <QUESTION>Trong trường hợp giao dịch dân sự có sự nhầm lẫn, bên bị nhầm lẫn có quyền làm gì?</QUESTION>
+            <QUESTION>Khi nào giao dịch dân sự bị nhầm lẫn không bị tuyên bố vô hiệu?</QUESTION>
+            <QUESTION>Giao dịch dân sự bị nhầm lẫn có thể được khắc phục như thế nào để không bị vô hiệu?</QUESTION>
+            <QUESTION>Điều kiện để giao dịch dân sự bị nhầm lẫn không bị vô hiệu là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp giao dịch dân sự được xác lập có sự nhầm lẫn làm cho một bên hoặc các bên không đạt được mục đích của việc xác lập giao dịch thì bên bị nhầm lẫn có quyền yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu, trừ trường hợp quy định tại khoản 2 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="126">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự có sự nhầm lẫn không vô hiệu trong trường hợp nào?</QUESTION>
+            <QUESTION>Khi mục đích của giao dịch dân sự đã đạt được, giao dịch có bị vô hiệu không?</QUESTION>
+            <QUESTION>Giao dịch dân sự có thể khắc phục được sự nhầm lẫn không? Và làm thế nào để khắc phục?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Giao dịch dân sự được xác lập có sự nhầm lẫn không vô hiệu trong trường hợp mục đích xác lập giao dịch dân sự của các bên đã đạt được hoặc các bên có thể khắc phục ngay được sự nhầm lẫn làm cho mục đích của việc xác lập giao dịch dân sự vẫn đạt được.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="127">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự bị lừa dối, đe dọa hoặc cưỡng ép sẽ bị vô hiệu như thế nào?</QUESTION>
+            <QUESTION>Khi một bên tham gia giao dịch dân sự bị lừa dối hoặc đe dọa, cưỡng ép, họ có quyền gì?</QUESTION>
+            <QUESTION>Lừa dối trong giao dịch dân sự được định nghĩa như thế nào?</QUESTION>
+            <QUESTION>Đe dọa và cưỡng ép trong giao dịch dân sự là gì?</QUESTION>
+            <QUESTION>Trong giao dịch dân sự, lừa dối có thể đến từ ai và như thế nào?</QUESTION>
+            <QUESTION>Đe dọa, cưỡng ép trong giao dịch dân sự có ảnh hưởng gì đến bên tham gia giao dịch?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Khi một bên tham gia giao dịch dân sự do bị lừa dối hoặc bị đe dọa, cưỡng ép thì có quyền yêu cầu Tòa án tuyên bố giao dịch dân sự đó là vô hiệu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="127">
+        <QUESTIONS>
+            <QUESTION>Lừa dối trong giao dịch dân sự có thể đến từ ai và mục đích của hành vi này là gì?</QUESTION>
+            <QUESTION>Đe dọa, cưỡng ép trong giao dịch dân sự có thể xuất phát từ ai và nhằm mục đích gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Lừa dối trong giao dịch dân sự là hành vi cố ý của một bên hoặc của người thứ ba nhằm làm cho bên kia hiểu sai lệch về chủ thể, tính chất của đối tượng hoặc nội dung của giao dịch dân sự nên đã xác lập giao dịch đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="127">
+        <QUESTIONS>
+            <QUESTION>Hành vi đe dọa, cưỡng ép trong giao dịch dân sự ảnh hưởng như thế nào đến bên bị tác động?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Đe dọa, cưỡng ép trong giao dịch dân sự là hành vi cố ý của một bên hoặc người thứ ba làm cho bên kia buộc phải thực hiện giao dịch dân sự nhằm tránh thiệt hại về tính mạng, sức khỏe, danh dự, uy tín, nhân phẩm, tài sản của mình hoặc của người thân thích của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="128">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự sẽ bị vô hiệu khi nào do người xác lập không nhận thức và làm chủ được hành vi của mình?</QUESTION>
+            <QUESTION>Người có năng lực hành vi dân sự nhưng không nhận thức và làm chủ được hành vi của mình có quyền gì đối với giao dịch dân sự đã xác lập?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người có năng lực hành vi dân sự nhưng đã xác lập giao dịch vào đúng thời điểm không nhận thức và làm chủ được hành vi của mình thì có quyền yêu cầu Tòa án tuyên bố giao dịch dân sự đó là vô hiệu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="129">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự vi phạm quy định về hình thức có bị vô hiệu không?</QUESTION>
+            <QUESTION>Trường hợp nào giao dịch dân sự vi phạm quy định về hình thức nhưng không bị vô hiệu?</QUESTION>
+            <QUESTION>Khi giao dịch dân sự vi phạm quy định về hình thức, nhưng một bên hoặc các bên đã thực hiện ít nhất hai phần ba nghĩa vụ trong giao dịch, Tòa án sẽ làm gì?</QUESTION>
+            <QUESTION>Khi giao dịch dân sự không thực hiện công chứng hoặc chứng thực nhưng đã thực hiện ít nhất hai phần ba nghĩa vụ, Tòa án sẽ quyết định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Giao dịch dân sự vi phạm quy định điều kiện có hiệu lực về hình thức thì vô hiệu, trừ trường hợp quy định tại khoản 1 và 2 của Điều 129.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="129">
+        <QUESTIONS>
+            <QUESTION>Điều 1 trong Điều 129 quy định gì về giao dịch dân sự vi phạm hình thức?</QUESTION>
+            <QUESTION>Khi giao dịch dân sự không tuân thủ quy định về văn bản, nhưng các bên đã thực hiện ít nhất hai phần ba nghĩa vụ, Tòa án có công nhận giao dịch đó có hiệu lực không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Giao dịch dân sự đã được xác lập theo quy định phải bằng văn bản nhưng văn bản không đúng quy định của luật mà một bên hoặc các bên đã thực hiện ít nhất hai phần ba nghĩa vụ trong giao dịch thì theo yêu cầu của một bên hoặc các bên, Tòa án ra quyết định công nhận hiệu lực của giao dịch đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="129">
+        <QUESTIONS>
+            <QUESTION>Điều 2 trong Điều 129 quy định gì về giao dịch dân sự vi phạm hình thức công chứng hoặc chứng thực?</QUESTION>
+            <QUESTION>Khi giao dịch dân sự không tuân thủ quy định về công chứng hoặc chứng thực, nhưng các bên đã thực hiện ít nhất hai phần ba nghĩa vụ, Tòa án sẽ làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Giao dịch dân sự đã được xác lập bằng văn bản nhưng vi phạm quy định bắt buộc về công chứng, chứng thực mà một bên hoặc các bên đã thực hiện ít nhất hai phần ba nghĩa vụ trong giao dịch thì theo yêu cầu của một bên hoặc các bên, Tòa án ra quyết định công nhận hiệu lực của giao dịch đó. Trong trường hợp này, các bên không phải thực hiện việc công chứng, chứng thực.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="130">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự vô hiệu từng phần là gì?</QUESTION>
+            <QUESTION>Khi một phần nội dung của giao dịch dân sự vô hiệu, giao dịch đó có ảnh hưởng đến phần còn lại không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Giao dịch dân sự vô hiệu từng phần khi một phần nội dung của giao dịch dân sự vô hiệu nhưng không ảnh hưởng đến hiệu lực của phần còn lại của giao dịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="131">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự vô hiệu có làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên không?</QUESTION>
+            <QUESTION>Khi giao dịch dân sự vô hiệu, quyền và nghĩa vụ của các bên có bị thay đổi từ thời điểm giao dịch được xác lập không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="131">
+        <QUESTIONS>
+            <QUESTION>Khi giao dịch dân sự vô hiệu, các bên có nghĩa vụ gì đối với nhau?</QUESTION>
+            <QUESTION>Các bên phải làm gì khi giao dịch dân sự vô hiệu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi giao dịch dân sự vô hiệu thì các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận. Trường hợp không thể hoàn trả được bằng hiện vật thì trị giá thành tiền để hoàn trả.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='31' article="131">
+        <QUESTIONS>
+            <QUESTION>Bên ngay tình trong việc thu hoa lợi, lợi tức có phải hoàn trả lại hoa lợi, lợi tức không?</QUESTION>
+            <QUESTION>Hoa lợi, lợi tức thu được từ giao dịch dân sự vô hiệu có cần phải hoàn trả không nếu bên thu là ngay tình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Bên ngay tình trong việc thu hoa lợi, lợi tức không phải hoàn trả lại hoa lợi, lợi tức đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='32' article="131">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự vô hiệu có ảnh hưởng gì đến bên có lỗi gây thiệt hại không?</QUESTION>
+            <QUESTION>Bên có lỗi gây thiệt hại trong giao dịch dân sự vô hiệu có phải bồi thường không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Bên có lỗi gây thiệt hại thì phải bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='33' article="131">
+        <QUESTIONS>
+            <QUESTION>Việc giải quyết hậu quả của giao dịch dân sự vô hiệu liên quan đến quyền nhân thân được quy định như thế nào?</QUESTION>
+            <QUESTION>Giao dịch dân sự vô hiệu có ảnh hưởng gì đến quyền nhân thân không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Việc giải quyết hậu quả của giao dịch dân sự vô hiệu liên quan đến quyền nhân thân do Bộ luật này, luật khác có liên quan quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='34' article="132">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu là bao lâu?</QUESTION>
+            <QUESTION>Thời gian yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu theo các Điều 125, 126, 127, 128, 129 là bao nhiêu năm?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu quy định tại các Điều 125, 126, 127, 128 và 129 của Bộ luật này là 02 năm</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='35' article="132">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu bắt đầu từ khi nào đối với người đại diện của người chưa thành niên hoặc người mất năng lực hành vi dân sự?</QUESTION>
+            <QUESTION>Khi nào thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu bắt đầu đối với người đại diện của người chưa thành niên hoặc người mất năng lực hành vi dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu bắt đầu từ khi người đại diện của người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự biết hoặc phải biết người được đại diện tự mình xác lập, thực hiện giao dịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='36' article="132">
+        <QUESTIONS>
+            <QUESTION>Khi nào thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu bắt đầu đối với người bị nhầm lẫn hoặc bị lừa dối?</QUESTION>
+            <QUESTION>Người bị nhầm lẫn hoặc bị lừa dối có thời gian yêu cầu tuyên bố giao dịch dân sự vô hiệu trong bao lâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu bắt đầu từ khi người bị nhầm lẫn, bị lừa dối biết hoặc phải biết giao dịch được xác lập do bị nhầm lẫn, do bị lừa dối.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='37' article="132">
+        <QUESTIONS>
+            <QUESTION>Người có hành vi đe dọa, cưỡng ép có thời gian yêu cầu tuyên bố giao dịch dân sự vô hiệu trong bao lâu?</QUESTION>
+            <QUESTION>Khi nào thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu bắt đầu đối với người có hành vi đe dọa, cưỡng ép?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu bắt đầu từ khi người có hành vi đe dọa, cưỡng ép chấm dứt hành vi đe dọa, cưỡng ép.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='38' article="132">
+        <QUESTIONS>
+            <QUESTION>Người không nhận thức và làm chủ được hành vi của mình có thời gian yêu cầu tuyên bố giao dịch dân sự vô hiệu trong bao lâu?</QUESTION>
+            <QUESTION>Khi nào thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu bắt đầu đối với người không nhận thức và làm chủ được hành vi của mình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu bắt đầu từ khi người không nhận thức và làm chủ được hành vi của mình xác lập giao dịch.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='39' article="132">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu có ảnh hưởng gì nếu giao dịch không tuân thủ quy định về hình thức?</QUESTION>
+            <QUESTION>Khi giao dịch dân sự không tuân thủ quy định về hình thức, thời hiệu yêu cầu tuyên bố giao dịch vô hiệu là bao lâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu bắt đầu từ khi giao dịch dân sự được xác lập trong trường hợp giao dịch dân sự không tuân thủ quy định về hình thức.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='40' article="132">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự có hiệu lực nếu hết thời hiệu yêu cầu tuyên bố vô hiệu không?</QUESTION>
+            <QUESTION>Khi hết thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu mà không có yêu cầu, giao dịch đó có hiệu lực không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Hết thời hiệu quy định tại khoản 1 Điều này mà không có yêu cầu tuyên bố giao dịch dân sự vô hiệu thì giao dịch dân sự có hiệu lực.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='41' article="132">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu đối với giao dịch dân sự quy định tại Điều 123 và Điều 124 có bị hạn chế không?</QUESTION>
+            <QUESTION>Thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu đối với giao dịch dân sự vi phạm Điều 123 và Điều 124 có khác không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Đối với giao dịch dân sự quy định tại Điều 123 và Điều 124 của Bộ luật này thì thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu không bị hạn chế.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='42' article="133">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự vô hiệu nhưng tài sản không phải đăng ký đã được chuyển giao cho người thứ ba ngay tình, giao dịch với người thứ ba còn có hiệu lực không?</QUESTION>
+            <QUESTION>Trường hợp giao dịch dân sự vô hiệu nhưng tài sản không phải đăng ký đã được chuyển giao cho người thứ ba ngay tình thì giao dịch với người thứ ba có hiệu lực không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp giao dịch dân sự vô hiệu nhưng đối tượng của giao dịch là tài sản không phải đăng ký đã được chuyển giao cho người thứ ba ngay tình thì giao dịch được xác lập, thực hiện với người thứ ba vẫn có hiệu lực, trừ trường hợp quy định tại Điều 167 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='43' article="133">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự vô hiệu nhưng tài sản đã được đăng ký tại cơ quan nhà nước có thẩm quyền, sau đó chuyển giao cho người thứ ba ngay tình, giao dịch có bị vô hiệu không?</QUESTION>
+            <QUESTION>Khi tài sản đã đăng ký tại cơ quan nhà nước có thẩm quyền được chuyển giao cho người thứ ba ngay tình, giao dịch này có hiệu lực không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp giao dịch dân sự vô hiệu nhưng tài sản đã được đăng ký tại cơ quan nhà nước có thẩm quyền, sau đó được chuyển giao bằng một giao dịch dân sự khác cho người thứ ba ngay tình và người này căn cứ vào việc đăng ký đó mà xác lập, thực hiện giao dịch thì giao dịch đó không bị vô hiệu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='44' article="133">
+        <QUESTIONS>
+            <QUESTION>Giao dịch dân sự với người thứ ba có hiệu lực nếu tài sản chưa đăng ký tại cơ quan nhà nước có thẩm quyền?</QUESTION>
+            <QUESTION>Giao dịch dân sự với người thứ ba sẽ bị vô hiệu nếu tài sản chưa đăng ký tại cơ quan nhà nước có thẩm quyền, ngoại trừ trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp tài sản phải đăng ký mà chưa được đăng ký tại cơ quan nhà nước có thẩm quyền thì giao dịch dân sự với người thứ ba bị vô hiệu, trừ trường hợp người thứ ba ngay tình nhận được tài sản này thông qua bán đấu giá tại tổ chức có thẩm quyền hoặc giao dịch với người mà theo bản án, quyết định của cơ quan nhà nước có thẩm quyền là chủ sở hữu tài sản nhưng sau đó chủ thể này không phải là chủ sở hữu tài sản do bản án, quyết định bị hủy, sửa.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='45' article="133">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu có quyền đòi lại tài sản từ người thứ ba ngay tình nếu giao dịch dân sự không bị vô hiệu không?</QUESTION>
+            <QUESTION>Chủ sở hữu có quyền đòi lại tài sản từ người thứ ba ngay tình khi giao dịch dân sự với người này không bị vô hiệu không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Chủ sở hữu không có quyền đòi lại tài sản từ người thứ ba ngay tình, nếu giao dịch dân sự với người này không bị vô hiệu theo quy định tại khoản 2 Điều này nhưng có quyền khởi kiện, yêu cầu chủ thể có lỗi dẫn đến việc giao dịch được xác lập với người thứ ba phải hoàn trả những chi phí hợp lý và bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>    
+</CIVIL-CODE>

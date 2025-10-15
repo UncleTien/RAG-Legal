@@ -1,0 +1,697 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>20</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="584">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào người gây thiệt hại phải bồi thường?</QUESTION>
+            <QUESTION>Ai là người chịu trách nhiệm bồi thường thiệt hại nếu có hành vi xâm phạm tài sản của người khác?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người nào có hành vi xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, uy tín, tài sản, quyền, lợi ích hợp pháp khác của người khác mà gây thiệt hại thì phải bồi thường, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="584">
+        <QUESTIONS>
+            <QUESTION>Trường hợp nào người gây thiệt hại không phải chịu trách nhiệm bồi thường?</QUESTION>
+            <QUESTION>Liệu có trường hợp nào ngoại lệ mà người gây thiệt hại không cần bồi thường?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người gây thiệt hại không phải chịu trách nhiệm bồi thường thiệt hại trong trường hợp thiệt hại phát sinh là do sự kiện bất khả kháng hoặc hoàn toàn do lỗi của bên bị thiệt hại, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="584">
+        <QUESTIONS>
+            <QUESTION>Ai là người phải chịu trách nhiệm bồi thường thiệt hại khi tài sản gây thiệt hại?</QUESTION>
+            <QUESTION>Trường hợp thiệt hại do tài sản gây ra, người nào phải bồi thường thiệt hại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp tài sản gây thiệt hại thì chủ sở hữu, người chiếm hữu tài sản phải chịu trách nhiệm bồi thường thiệt hại, trừ trường hợp thiệt hại phát sinh theo quy định tại khoản 2 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="585">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại thực tế cần được bồi thường như thế nào?</QUESTION>
+            <QUESTION>Các hình thức bồi thường thiệt hại có thể là gì?</QUESTION>
+            <QUESTION>Người gây thiệt hại có thể thỏa thuận về mức bồi thường không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thiệt hại thực tế phải được bồi thường toàn bộ và kịp thời. Các bên có thể thỏa thuận về mức bồi thường, hình thức bồi thường bằng tiền, bằng hiện vật hoặc thực hiện một công việc, phương thức bồi thường một lần hoặc nhiều lần, trừ trường hợp pháp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="585">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào mức bồi thường có thể được giảm?</QUESTION>
+            <QUESTION>Người chịu trách nhiệm bồi thường thiệt hại có thể giảm mức bồi thường trong tình huống nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người chịu trách nhiệm bồi thường thiệt hại có thể được giảm mức bồi thường nếu không có lỗi hoặc có lỗi vô ý và thiệt hại quá lớn so với khả năng kinh tế của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="585">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp mức bồi thường không phù hợp, ai có quyền yêu cầu thay đổi?</QUESTION>
+            <QUESTION>Bên nào có thể yêu cầu Tòa án thay đổi mức bồi thường?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Khi mức bồi thường không còn phù hợp với thực tế thì bên bị thiệt hại hoặc bên gây thiệt hại có quyền yêu cầu Tòa án hoặc cơ quan nhà nước có thẩm quyền khác thay đổi mức bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="585">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp bên bị thiệt hại có lỗi, họ có quyền yêu cầu bồi thường không?</QUESTION>
+            <QUESTION>Bên bị thiệt hại có lỗi có được bồi thường cho phần thiệt hại mình gây ra không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Khi bên bị thiệt hại có lỗi trong việc gây thiệt hại thì không được bồi thường phần thiệt hại do lỗi của mình gây ra.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="585">
+        <QUESTIONS>
+            <QUESTION>Bên có quyền lợi bị xâm phạm có quyền yêu cầu bồi thường trong trường hợp nào?</QUESTION>
+            <QUESTION>Bên bị thiệt hại không thể yêu cầu bồi thường trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Bên có quyền, lợi ích bị xâm phạm không được bồi thường nếu thiệt hại xảy ra do không áp dụng các biện pháp cần thiết, hợp lý để ngăn chặn, hạn chế thiệt hại cho chính mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="586">
+        <QUESTIONS>
+            <QUESTION>Người từ đủ mười tám tuổi trở lên có trách nhiệm bồi thường thiệt hại như thế nào?</QUESTION>
+            <QUESTION>Khi người từ đủ mười tám tuổi gây thiệt hại, họ có phải tự bồi thường không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người từ đủ mười tám tuổi trở lên gây thiệt hại thì phải tự bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="586">
+        <QUESTIONS>
+            <QUESTION>Cha mẹ phải bồi thường thiệt hại khi nào?</QUESTION>
+            <QUESTION>Trường hợp nào cha mẹ phải bồi thường thiệt hại thay cho con chưa đủ mười lăm tuổi?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người chưa đủ mười lăm tuổi gây thiệt hại mà còn cha, mẹ thì cha, mẹ phải bồi thường toàn bộ thiệt hại; nếu tài sản của cha, mẹ không đủ để bồi thường mà con chưa thành niên gây thiệt hại có tài sản riêng thì lấy tài sản đó để bồi thường phần còn thiếu, trừ trường hợp quy định tại Điều 599 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="586">
+        <QUESTIONS>
+            <QUESTION>Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có trách nhiệm bồi thường như thế nào?</QUESTION>
+            <QUESTION>Trường hợp nào cha mẹ phải bồi thường thiệt hại thay cho con từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi gây thiệt hại thì phải bồi thường bằng tài sản của mình; nếu không đủ tài sản để bồi thường thì cha, mẹ phải bồi thường phần còn thiếu bằng tài sản của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="586">
+        <QUESTIONS>
+            <QUESTION>Người giám hộ có trách nhiệm gì khi người chưa thành niên hoặc người mất năng lực hành vi dân sự gây thiệt hại?</QUESTION>
+            <QUESTION>Trường hợp nào người giám hộ không phải dùng tài sản của mình để bồi thường?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi gây thiệt hại mà có người giám hộ thì người giám hộ đó được dùng tài sản của người được giám hộ để bồi thường; nếu người được giám hộ không có tài sản hoặc không đủ tài sản để bồi thường thì người giám hộ phải bồi thường bằng tài sản của mình; nếu người giám hộ chứng minh được mình không có lỗi trong việc giám hộ thì không phải lấy tài sản của mình để bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="587">
+        <QUESTIONS>
+            <QUESTION>Trường hợp nào nhiều người phải liên đới bồi thường thiệt hại?</QUESTION>
+            <QUESTION>Trách nhiệm bồi thường thiệt hại của từng người được xác định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp nhiều người cùng gây thiệt hại thì những người đó phải liên đới bồi thường cho người bị thiệt hại. Trách nhiệm bồi thường của từng người cùng gây thiệt hại được xác định tương ứng với mức độ lỗi của mỗi người; nếu không xác định được mức độ lỗi thì họ phải bồi thường thiệt hại theo phần bằng nhau.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="588">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu khởi kiện yêu cầu bồi thường thiệt hại là bao lâu?</QUESTION>
+            <QUESTION>Thời điểm tính thời hiệu khởi kiện yêu cầu bồi thường thiệt hại là khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Thời hiệu khởi kiện yêu cầu bồi thường thiệt hại là 03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="589">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại do tài sản bị xâm phạm bao gồm những gì?</QUESTION>
+            <QUESTION>Tài sản bị mất, hủy hoại hoặc hư hỏng có được tính là thiệt hại không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thiệt hại do tài sản bị xâm phạm bao gồm tài sản bị mất, bị hủy hoại hoặc bị hư hỏng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="589">
+        <QUESTIONS>
+            <QUESTION>Lợi ích gắn liền với việc sử dụng tài sản bị mất có được tính vào thiệt hại không?</QUESTION>
+            <QUESTION>Lợi ích bị giảm sút từ việc sử dụng tài sản có được xem là thiệt hại không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thiệt hại bao gồm lợi ích gắn liền với việc sử dụng, khai thác tài sản bị mất, bị giảm sút.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="589">
+        <QUESTIONS>
+            <QUESTION>Chi phí hợp lý để ngăn chặn thiệt hại có được tính vào thiệt hại không?</QUESTION>
+            <QUESTION>Chi phí nào sẽ được tính vào thiệt hại khi khắc phục tài sản bị xâm phạm?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Chi phí hợp lý để ngăn chặn, hạn chế và khắc phục thiệt hại cũng được tính là thiệt hại do tài sản bị xâm phạm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="589">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại khác do luật quy định là gì?</QUESTION>
+            <QUESTION>Pháp luật có quy định thêm thiệt hại nào ngoài các thiệt hại đã nêu không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Thiệt hại khác do luật quy định có thể được xác định theo các quy định khác của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="590">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại do sức khỏe bị xâm phạm bao gồm những gì?</QUESTION>
+            <QUESTION>Chi phí hợp lý cho việc cứu chữa, bồi dưỡng và phục hồi sức khỏe có được tính vào thiệt hại không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thiệt hại do sức khỏe bị xâm phạm bao gồm chi phí hợp lý cho việc cứu chữa, bồi dưỡng, phục hồi sức khỏe và chức năng bị mất, bị giảm sút của người bị thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="590">
+        <QUESTIONS>
+            <QUESTION>Thu nhập thực tế bị mất hoặc giảm sút của người bị thiệt hại có được tính vào thiệt hại không?</QUESTION>
+            <QUESTION>Thu nhập của người bị thiệt hại có phải được tính theo mức trung bình của lao động cùng loại nếu không xác định được?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thiệt hại bao gồm thu nhập thực tế bị mất hoặc bị giảm sút của người bị thiệt hại; nếu thu nhập thực tế của người bị thiệt hại không ổn định và không thể xác định được thì áp dụng mức thu nhập trung bình của lao động cùng loại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="590">
+        <QUESTIONS>
+            <QUESTION>Chi phí cho người chăm sóc người bị thiệt hại có được tính vào thiệt hại không?</QUESTION>
+            <QUESTION>Chi phí hợp lý cho việc chăm sóc người bị thiệt hại trong thời gian điều trị có được tính không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thiệt hại bao gồm chi phí hợp lý và phần thu nhập thực tế bị mất của người chăm sóc người bị thiệt hại trong thời gian điều trị; nếu người bị thiệt hại mất khả năng lao động và cần phải có người thường xuyên chăm sóc thì thiệt hại bao gồm cả chi phí hợp lý cho việc chăm sóc người bị thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="590">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại do sức khỏe bị xâm phạm còn bao gồm những khoản thiệt hại nào khác không?</QUESTION>
+            <QUESTION>Luật có quy định thiệt hại nào khác ngoài các khoản đã nêu không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thiệt hại khác do luật quy định có thể được tính theo các quy định khác của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="590">
+        <QUESTIONS>
+            <QUESTION>Khi sức khỏe của người khác bị xâm phạm, người chịu trách nhiệm có nghĩa vụ bồi thường như thế nào?</QUESTION>
+            <QUESTION>Bồi thường tổn thất về tinh thần được quy định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người chịu trách nhiệm bồi thường trong trường hợp sức khỏe của người khác bị xâm phạm phải bồi thường thiệt hại theo các quy định tại khoản 1 và một khoản tiền khác để bù đắp tổn thất về tinh thần mà người đó gánh chịu. Mức bồi thường bù đắp tổn thất về tinh thần do các bên thỏa thuận; nếu không thỏa thuận được thì mức tối đa cho một người có sức khỏe bị xâm phạm không quá năm mươi lần mức lương cơ sở do Nhà nước quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="591">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại do tính mạng bị xâm phạm bao gồm những gì?</QUESTION>
+            <QUESTION>Chi phí hợp lý cho việc mai táng có được tính vào thiệt hại không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thiệt hại do tính mạng bị xâm phạm bao gồm thiệt hại do sức khỏe bị xâm phạm theo quy định tại Điều 590 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="591">
+        <QUESTIONS>
+            <QUESTION>Chi phí hợp lý cho việc mai táng có được tính vào thiệt hại không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Chi phí hợp lý cho việc mai táng là một phần của thiệt hại do tính mạng bị xâm phạm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="591">
+        <QUESTIONS>
+            <QUESTION>Tiền cấp dưỡng cho những người mà người bị thiệt hại có nghĩa vụ cấp dưỡng có được tính vào thiệt hại không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Tiền cấp dưỡng cho những người mà người bị thiệt hại có nghĩa vụ cấp dưỡng là một phần của thiệt hại do tính mạng bị xâm phạm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="591">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại do tính mạng bị xâm phạm có bao gồm thiệt hại khác không?</QUESTION>
+            <QUESTION>Thiệt hại khác do luật quy định có được tính vào thiệt hại do tính mạng bị xâm phạm không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thiệt hại khác do luật quy định có thể được tính vào thiệt hại do tính mạng bị xâm phạm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="591">
+        <QUESTIONS>
+            <QUESTION>Khi tính mạng của người khác bị xâm phạm, người chịu trách nhiệm phải bồi thường như thế nào?</QUESTION>
+            <QUESTION>Bồi thường tổn thất về tinh thần cho những người thân thích được quy định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người chịu trách nhiệm bồi thường trong trường hợp tính mạng của người khác bị xâm phạm phải bồi thường thiệt hại theo quy định tại khoản 1 và một khoản tiền khác để bù đắp tổn thất về tinh thần cho những người thân thích thuộc hàng thừa kế thứ nhất của người bị thiệt hại, nếu không có những người này thì người mà người bị thiệt hại đã trực tiếp nuôi dưỡng, người đã trực tiếp nuôi dưỡng người bị thiệt hại được hưởng khoản tiền này. Mức bồi thường bù đắp tổn thất về tinh thần do các bên thỏa thuận; nếu không thỏa thuận được thì mức tối đa cho một người có tính mạng bị xâm phạm không quá một trăm lần mức lương cơ sở do Nhà nước quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="592">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm bao gồm những gì?</QUESTION>
+            <QUESTION>Chi phí hợp lý để hạn chế, khắc phục thiệt hại có được tính vào thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm bao gồm chi phí hợp lý để hạn chế, khắc phục thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="592">
+        <QUESTIONS>
+            <QUESTION>Thu nhập thực tế bị mất hoặc bị giảm sút có được tính vào thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thu nhập thực tế bị mất hoặc bị giảm sút là một phần của thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='31' article="592">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại khác do luật quy định có được tính vào thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thiệt hại khác do luật quy định có thể được tính vào thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='32' article="592">
+        <QUESTIONS>
+            <QUESTION>Khi danh dự, nhân phẩm, uy tín của người khác bị xâm phạm, người chịu trách nhiệm bồi thường phải làm gì?</QUESTION>
+            <QUESTION>Bồi thường tổn thất về tinh thần cho người bị xâm phạm danh dự, nhân phẩm, uy tín được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người chịu trách nhiệm bồi thường trong trường hợp danh dự, nhân phẩm, uy tín của người khác bị xâm phạm phải bồi thường thiệt hại theo quy định tại khoản 1 và một khoản tiền khác để bù đắp tổn thất về tinh thần mà người đó gánh chịu. Mức bồi thường bù đắp tổn thất về tinh thần do các bên thỏa thuận; nếu không thỏa thuận được thì mức tối đa cho một người có danh dự, nhân phẩm, uy tín bị xâm phạm không quá mười lần mức lương cơ sở do Nhà nước quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='33' article="593">
+        <QUESTIONS>
+            <QUESTION>Thời gian bồi thường thiệt hại cho người bị thiệt hại mất hoàn toàn khả năng lao động được tính như thế nào?</QUESTION>
+            <QUESTION>Người bị thiệt hại mất hoàn toàn khả năng lao động có được hưởng bồi thường cho đến khi chết không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp người bị thiệt hại mất hoàn toàn khả năng lao động thì người bị thiệt hại được hưởng bồi thường từ thời điểm mất hoàn toàn khả năng lao động cho đến khi chết, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='34' article="593">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp người bị thiệt hại chết, ai sẽ được hưởng tiền cấp dưỡng?</QUESTION>
+            <QUESTION>Thời hạn hưởng tiền cấp dưỡng của người con chưa thành niên hoặc đã thành thai của người chết được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người con chưa thành niên hoặc đã thành thai là con của người chết và còn sống sau khi sinh ra sẽ được hưởng tiền cấp dưỡng cho đến khi đủ mười tám tuổi, trừ trường hợp người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi đã tham gia lao động và có thu nhập đủ nuôi sống bản thân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='35' article="593">
+        <QUESTIONS>
+            <QUESTION>Người thành niên nhưng không có khả năng lao động có được hưởng tiền cấp dưỡng không?</QUESTION>
+            <QUESTION>Thời gian hưởng tiền cấp dưỡng của người thành niên không có khả năng lao động kéo dài đến khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người thành niên nhưng không có khả năng lao động được hưởng tiền cấp dưỡng cho đến khi chết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='36' article="593">
+        <QUESTIONS>
+            <QUESTION>Tiền cấp dưỡng cho con đã thành thai của người chết được tính từ thời điểm nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Đối với con đã thành thai của người chết, tiền cấp dưỡng được tính từ thời điểm người này sinh ra và còn sống.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='37' article="594">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp phòng vệ chính đáng, người gây thiệt hại có phải bồi thường không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người gây thiệt hại trong trường hợp phòng vệ chính đáng không phải bồi thường cho người bị thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='38' article="594">
+        <QUESTIONS>
+            <QUESTION>Người gây thiệt hại do vượt quá giới hạn phòng vệ chính đáng có phải bồi thường không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người gây thiệt hại do vượt quá giới hạn phòng vệ chính đáng phải bồi thường cho người bị thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='39' article="595">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp thiệt hại xảy ra do vượt quá yêu cầu của tình thế cấp thiết, người gây thiệt hại có phải bồi thường không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người gây thiệt hại phải bồi thường phần thiệt hại xảy ra do vượt quá yêu cầu của tình thế cấp thiết cho người bị thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='40' article="595">
+        <QUESTIONS>
+            <QUESTION>Người gây ra tình thế cấp thiết dẫn đến thiệt hại có phải bồi thường cho người bị thiệt hại không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người đã gây ra tình thế cấp thiết dẫn đến thiệt hại xảy ra thì phải bồi thường cho người bị thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='41' article="596">
+        <QUESTIONS>
+            <QUESTION>Người uống rượu hoặc dùng chất kích thích gây thiệt hại cho người khác có phải bồi thường không?</QUESTION>
+            <QUESTION>Người uống rượu hoặc dùng chất kích thích đến mức mất khả năng nhận thức và làm chủ hành vi có phải bồi thường thiệt hại không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người do uống rượu hoặc do dùng chất kích thích khác mà lâm vào tình trạng mất khả năng nhận thức và làm chủ hành vi, gây thiệt hại cho người khác thì phải bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='42' article="596">
+        <QUESTIONS>
+            <QUESTION>Khi một người cố ý dùng rượu hoặc chất kích thích để làm cho người khác mất khả năng nhận thức và làm chủ hành vi gây thiệt hại, có phải bồi thường không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi một người cố ý dùng rượu hoặc chất kích thích khác làm cho người khác lâm vào tình trạng mất khả năng nhận thức và làm chủ hành vi mà gây thiệt hại thì phải bồi thường cho người bị thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='43' article="597">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có phải bồi thường thiệt hại do người của mình gây ra không?</QUESTION>
+            <QUESTION>Pháp nhân phải bồi thường thiệt hại trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân phải bồi thường thiệt hại do người của mình gây ra trong khi thực hiện nhiệm vụ được pháp nhân giao.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='44' article="597">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có quyền yêu cầu người có lỗi phải hoàn trả một khoản tiền không?</QUESTION>
+            <QUESTION>Trong trường hợp pháp nhân đã bồi thường thiệt hại, pháp nhân có quyền yêu cầu gì từ người có lỗi?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nếu pháp nhân đã bồi thường thiệt hại thì có quyền yêu cầu người có lỗi trong việc gây thiệt hại phải hoàn trả một khoản tiền theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='45' article="598">
+        <QUESTIONS>
+            <QUESTION>Nhà nước có trách nhiệm gì trong việc bồi thường thiệt hại?</QUESTION>
+            <QUESTION>Bồi thường thiệt hại do hành vi trái pháp luật của người thi hành công vụ gây ra là trách nhiệm của ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nhà nước có trách nhiệm bồi thường thiệt hại do hành vi trái pháp luật của người thi hành công vụ gây ra theo quy định của Luật trách nhiệm bồi thường của Nhà nước.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='46' article="599">
+        <QUESTIONS>
+            <QUESTION>Trách nhiệm bồi thường thiệt hại trong trường hợp người chưa đủ mười lăm tuổi gây thiệt hại trong thời gian trường học quản lý là gì?</QUESTION>
+            <QUESTION>Ai sẽ phải bồi thường nếu một người dưới mười lăm tuổi gây thiệt hại trong trường học?</QUESTION>
+            <QUESTION>Trách nhiệm của trường học như thế nào khi học sinh gây thiệt hại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường học phải bồi thường thiệt hại xảy ra khi người chưa đủ mười lăm tuổi gây thiệt hại trong thời gian trường học trực tiếp quản lý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='47' article="599">
+        <QUESTIONS>
+            <QUESTION>Trách nhiệm bồi thường thiệt hại trong trường hợp người mất năng lực hành vi dân sự gây thiệt hại trong bệnh viện là gì?</QUESTION>
+            <QUESTION>Ai sẽ chịu trách nhiệm bồi thường khi người mất năng lực hành vi dân sự gây thiệt hại trong bệnh viện?</QUESTION>
+            <QUESTION>Điều gì sẽ xảy ra nếu người mất năng lực hành vi dân sự gây thiệt hại trong bệnh viện?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Bệnh viện hoặc pháp nhân khác phải bồi thường thiệt hại xảy ra nếu người mất năng lực hành vi dân sự gây thiệt hại trong thời gian họ trực tiếp quản lý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='48' article="599">
+        <QUESTIONS>
+            <QUESTION>Có trường hợp nào trường học, bệnh viện, pháp nhân khác không phải bồi thường thiệt hại không?</QUESTION>
+            <QUESTION>Trường học và bệnh viện có thể không phải bồi thường thiệt hại nếu chứng minh được gì?</QUESTION>
+            <QUESTION>Trong trường hợp trường học, bệnh viện không phải bồi thường thiệt hại, ai sẽ bồi thường thay họ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường học, bệnh viện, pháp nhân khác không phải bồi thường nếu chứng minh được họ không có lỗi trong quản lý; trong trường hợp này, cha, mẹ, người giám hộ của người dưới mười lăm tuổi hoặc người mất năng lực hành vi dân sự phải bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='49' article="600">
+        <QUESTIONS>
+            <QUESTION>Ai phải bồi thường thiệt hại khi người làm công hoặc người học nghề gây ra thiệt hại trong khi thực hiện công việc được giao?</QUESTION>
+            <QUESTION>Trách nhiệm bồi thường thiệt hại của cá nhân và pháp nhân đối với thiệt hại do người làm công hoặc người học nghề gây ra như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Cá nhân, pháp nhân phải bồi thường thiệt hại do người làm công, người học nghề gây ra trong khi thực hiện công việc được giao.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='50' article="600">
+        <QUESTIONS>
+            <QUESTION>Cá nhân, pháp nhân có quyền yêu cầu gì đối với người làm công hoặc người học nghề gây thiệt hại?</QUESTION>
+            <QUESTION>Người làm công hoặc người học nghề có lỗi trong việc gây thiệt hại phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Cá nhân, pháp nhân có quyền yêu cầu người làm công, người học nghề có lỗi trong việc gây thiệt hại phải hoàn trả một khoản tiền theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='51' article="601">
+        <QUESTIONS>
+            <QUESTION>Nguồn nguy hiểm cao độ bao gồm những gì?</QUESTION>
+            <QUESTION>Chủ sở hữu nguồn nguy hiểm cao độ phải làm gì để đảm bảo an toàn?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Nguồn nguy hiểm cao độ bao gồm phương tiện giao thông vận tải cơ giới, hệ thống tải điện, nhà máy công nghiệp đang hoạt động, vũ khí, chất nổ, chất cháy, chất độc, chất phóng xạ, thú dữ và các nguồn nguy hiểm cao độ khác do pháp luật quy định. Chủ sở hữu nguồn nguy hiểm cao độ phải vận hành, sử dụng, bảo quản, trông giữ, vận chuyển nguồn nguy hiểm cao độ theo đúng quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='52' article="601">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu nguồn nguy hiểm cao độ phải chịu trách nhiệm gì khi nguồn này gây thiệt hại?</QUESTION>
+            <QUESTION>Nếu chủ sở hữu nguồn nguy hiểm cao độ giao cho người khác chiếm hữu, sử dụng, ai sẽ phải bồi thường thiệt hại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Chủ sở hữu nguồn nguy hiểm cao độ phải bồi thường thiệt hại do nguồn nguy hiểm cao độ gây ra; nếu chủ sở hữu đã giao cho người khác chiếm hữu, sử dụng thì người này phải bồi thường, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='53' article="601">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu và người sử dụng nguồn nguy hiểm cao độ có phải bồi thường thiệt hại ngay cả khi không có lỗi không?</QUESTION>
+            <QUESTION>Có những trường hợp nào chủ sở hữu hoặc người sử dụng nguồn nguy hiểm cao độ không phải bồi thường thiệt hại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Chủ sở hữu, người chiếm hữu, sử dụng nguồn nguy hiểm cao độ phải bồi thường thiệt hại cả khi không có lỗi, trừ trường hợp thiệt hại xảy ra hoàn toàn do lỗi cố ý của người bị thiệt hại hoặc thiệt hại xảy ra trong trường hợp bất khả kháng hoặc tình thế cấp thiết, trừ trường hợp pháp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='54' article="601">
+        <QUESTIONS>
+            <QUESTION>Trường hợp nguồn nguy hiểm cao độ bị chiếm hữu hoặc sử dụng trái pháp luật, ai phải bồi thường thiệt hại?</QUESTION>
+            <QUESTION>Nếu chủ sở hữu, người sử dụng nguồn nguy hiểm cao độ có lỗi trong việc để nguồn này bị chiếm hữu trái pháp luật, ai sẽ bồi thường thiệt hại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Khi nguồn nguy hiểm cao độ bị chiếm hữu, sử dụng trái pháp luật thì người đang chiếm hữu, sử dụng nguồn nguy hiểm cao độ trái pháp luật phải bồi thường thiệt hại. Khi chủ sở hữu, người chiếm hữu, sử dụng nguồn nguy hiểm cao độ có lỗi trong việc để nguồn nguy hiểm cao độ bị chiếm hữu, sử dụng trái pháp luật thì phải liên đới bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='55' article="602">
+        <QUESTIONS>
+            <QUESTION>Chủ thể làm ô nhiễm môi trường phải chịu trách nhiệm như thế nào khi gây thiệt hại?</QUESTION>
+            <QUESTION>Có phải chủ thể làm ô nhiễm môi trường phải bồi thường ngay cả khi không có lỗi không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ thể làm ô nhiễm môi trường mà gây thiệt hại thì phải bồi thường theo quy định của pháp luật, kể cả trường hợp chủ thể đó không có lỗi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='56' article="603">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu súc vật phải chịu trách nhiệm như thế nào khi súc vật gây thiệt hại?</QUESTION>
+            <QUESTION>Người chiếm hữu, sử dụng súc vật có trách nhiệm gì khi súc vật gây thiệt hại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Chủ sở hữu súc vật phải bồi thường thiệt hại do súc vật gây ra cho người khác. Người chiếm hữu, sử dụng súc vật phải bồi thường thiệt hại trong thời gian chiếm hữu, sử dụng súc vật, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='57' article="603">
+        <QUESTIONS>
+            <QUESTION>Người thứ ba có lỗi trong việc làm cho súc vật gây thiệt hại có phải bồi thường không?</QUESTION>
+            <QUESTION>Trường hợp người thứ ba và chủ sở hữu súc vật cùng có lỗi thì bồi thường thiệt hại như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp người thứ ba hoàn toàn có lỗi làm cho súc vật gây thiệt hại cho người khác thì người thứ ba phải bồi thường thiệt hại; nếu người thứ ba và chủ sở hữu cùng có lỗi thì phải liên đới bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='58' article="603">
+        <QUESTIONS>
+            <QUESTION>Trường hợp súc vật bị chiếm hữu trái pháp luật gây thiệt hại thì ai sẽ bồi thường thiệt hại?</QUESTION>
+            <QUESTION>Chủ sở hữu súc vật có trách nhiệm gì khi súc vật bị chiếm hữu trái pháp luật?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp súc vật bị chiếm hữu, sử dụng trái pháp luật gây thiệt hại thì người chiếm hữu, sử dụng trái pháp luật phải bồi thường; khi chủ sở hữu, người chiếm hữu, sử dụng súc vật có lỗi trong việc để súc vật bị chiếm hữu, sử dụng trái pháp luật thì phải liên đới bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='59' article="603">
+        <QUESTIONS>
+            <QUESTION>Trường hợp súc vật thả rông gây thiệt hại thì chủ sở hữu có phải bồi thường không?</QUESTION>
+            <QUESTION>Điều kiện nào để chủ sở hữu súc vật thả rông phải bồi thường theo tập quán?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Trường hợp súc vật thả rông theo tập quán mà gây thiệt hại thì chủ sở hữu súc vật đó phải bồi thường theo tập quán nhưng không được trái pháp luật, đạo đức xã hội.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='60' article="604">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu cây cối phải chịu trách nhiệm gì khi cây cối gây thiệt hại?</QUESTION>
+            <QUESTION>Người chiếm hữu hoặc người được giao quản lý cây cối có trách nhiệm gì trong việc bồi thường thiệt hại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu, người chiếm hữu, người được giao quản lý phải bồi thường thiệt hại do cây cối gây ra.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='61' article="605">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu nhà cửa, công trình xây dựng khác có trách nhiệm bồi thường thiệt hại không?</QUESTION>
+            <QUESTION>Ai là người có trách nhiệm bồi thường khi nhà cửa, công trình xây dựng gây thiệt hại?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu, người chiếm hữu, người được giao quản lý, sử dụng nhà cửa, công trình xây dựng khác phải bồi thường thiệt hại do nhà cửa, công trình xây dựng khác gây thiệt hại cho người khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='62' article="605">
+        <QUESTIONS>
+            <QUESTION>Người thi công có trách nhiệm gì khi nhà cửa, công trình xây dựng gây thiệt hại?</QUESTION>
+            <QUESTION>Người thi công có lỗi sẽ phải chịu trách nhiệm như thế nào?</QUESTION>
+            <QUESTION>Ai sẽ phải bồi thường trong trường hợp người thi công có lỗi?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Khi người thi công có lỗi trong việc để nhà cửa, công trình xây dựng khác gây thiệt hại thì phải liên đới bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='63' article="606">
+        <QUESTIONS>
+            <QUESTION>Cá nhân, pháp nhân xâm phạm thi thể có trách nhiệm gì?</QUESTION>
+            <QUESTION>Ai phải bồi thường khi thi thể bị xâm phạm?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân, pháp nhân xâm phạm thi thể phải bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='64' article="606">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại do xâm phạm thi thể bao gồm những gì?</QUESTION>
+            <QUESTION>Chi phí hợp lý để hạn chế, khắc phục thiệt hại có bao gồm trong thiệt hại do xâm phạm thi thể không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thiệt hại do xâm phạm thi thể gồm chi phí hợp lý để hạn chế, khắc phục thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='65' article="606">
+        <QUESTIONS>
+            <QUESTION>Người chịu trách nhiệm bồi thường khi thi thể bị xâm phạm cần bồi thường những gì?</QUESTION>
+            <QUESTION>Mức bồi thường bù đắp tổn thất về tinh thần sẽ được thỏa thuận như thế nào?</QUESTION>
+            <QUESTION>Ai là người được hưởng bồi thường tổn thất về tinh thần khi thi thể bị xâm phạm?</QUESTION>
+            <QUESTION>Mức bồi thường tối đa cho mỗi thi thể bị xâm phạm là bao nhiêu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người chịu trách nhiệm bồi thường khi thi thể bị xâm phạm phải bồi thường theo quy định tại khoản 2 và một khoản tiền khác để bù đắp tổn thất về tinh thần cho những người thân thích thuộc hàng thừa kế thứ nhất của người chết, nếu không có những người này thì người trực tiếp nuôi dưỡng người chết được hưởng khoản tiền này. Mức bồi thường bù đắp tổn thất về tinh thần do các bên thỏa thuận; nếu không thỏa thuận được thì mức tối đa đối với mỗi thi thể bị xâm phạm không quá ba mươi lần mức lương cơ sở do Nhà nước quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='66' article="607">
+        <QUESTIONS>
+            <QUESTION>Cá nhân, pháp nhân xâm phạm đến mồ mả của người khác có trách nhiệm gì?</QUESTION>
+            <QUESTION>Ai phải bồi thường khi mồ mả bị xâm phạm?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cá nhân, pháp nhân xâm phạm đến mồ mả của người khác phải bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='67' article="607">
+        <QUESTIONS>
+            <QUESTION>Thiệt hại do xâm phạm mồ mả bao gồm những gì?</QUESTION>
+            <QUESTION>Chi phí hợp lý để hạn chế, khắc phục thiệt hại có bao gồm trong thiệt hại do xâm phạm mồ mả không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thiệt hại do xâm phạm mồ mả gồm chi phí hợp lý để hạn chế, khắc phục thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='68' article="607">
+        <QUESTIONS>
+            <QUESTION>Người chịu trách nhiệm bồi thường khi mồ mả bị xâm phạm cần bồi thường những gì?</QUESTION>
+            <QUESTION>Mức bồi thường bù đắp tổn thất về tinh thần sẽ được thỏa thuận như thế nào?</QUESTION>
+            <QUESTION>Ai là người được hưởng bồi thường tổn thất về tinh thần khi mồ mả bị xâm phạm?</QUESTION>
+            <QUESTION>Mức bồi thường tối đa cho mỗi mồ mả bị xâm phạm là bao nhiêu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người chịu trách nhiệm bồi thường trong trường hợp mồ mả của người khác bị xâm phạm phải bồi thường theo quy định tại khoản 2 và một khoản tiền khác để bù đắp tổn thất về tinh thần cho những người thân thích theo thứ tự hàng thừa kế của người chết; nếu không có những người này thì người trực tiếp nuôi dưỡng người chết được hưởng khoản tiền này. Mức bồi thường bù đắp tổn thất về tinh thần do các bên thỏa thuận; nếu không thỏa thuận được thì mức tối đa đối với mỗi mồ mả bị xâm phạm không quá mười lần mức lương cơ sở do Nhà nước quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='69' article="608">
+        <QUESTIONS>
+            <QUESTION>Cá nhân, pháp nhân sản xuất, kinh doanh hàng hóa, dịch vụ không bảo đảm chất lượng có trách nhiệm gì?</QUESTION>
+            <QUESTION>Người tiêu dùng có quyền gì khi hàng hóa, dịch vụ không bảo đảm chất lượng gây thiệt hại cho họ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Cá nhân, pháp nhân sản xuất, kinh doanh hàng hóa, dịch vụ không bảo đảm chất lượng hàng hóa, dịch vụ mà gây thiệt hại cho người tiêu dùng thì phải bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

@@ -1,0 +1,782 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>14</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="245">
+        <QUESTIONS>
+            <QUESTION>Quyền đối với bất động sản liền kề là quyền gì?</QUESTION>
+            <QUESTION>Quyền đối với bất động sản liền kề giúp cho việc khai thác bất động sản nào?</QUESTION>
+            <QUESTION>Khái niệm "bất động sản chịu hưởng quyền" và "bất động sản hưởng quyền" trong quyền đối với bất động sản liền kề có ý nghĩa gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền đối với bất động sản liền kề là quyền được thực hiện trên một bất động sản (gọi là bất động sản chịu hưởng quyền) nhằm phục vụ cho việc khai thác một bất động sản khác thuộc quyền sở hữu của người khác (gọi là bất động sản hưởng quyền).</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="246">
+        <QUESTIONS>
+            <QUESTION>Quyền đối với bất động sản liền kề có thể được xác lập từ những căn cứ nào?</QUESTION>
+            <QUESTION>Điều gì quyết định quyền đối với bất động sản liền kề theo quy định của Bộ luật này?</QUESTION>
+            <QUESTION>Quyền đối với bất động sản liền kề có thể được xác lập thông qua những hình thức nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền đối với bất động sản liền kề được xác lập do địa thế tự nhiên, theo quy định của luật, theo thỏa thuận hoặc theo di chúc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="247">
+        <QUESTIONS>
+            <QUESTION>Quyền đối với bất động sản liền kề có hiệu lực đối với ai?</QUESTION>
+            <QUESTION>Quyền đối với bất động sản liền kề được chuyển giao khi nào?</QUESTION>
+            <QUESTION>Có trường hợp nào quyền đối với bất động sản liền kề không được chuyển giao khi bất động sản được chuyển giao không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền đối với bất động sản liền kề có hiệu lực đối với mọi cá nhân, pháp nhân và được chuyển giao khi bất động sản được chuyển giao, trừ trường hợp luật liên quan có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="248">
+        <QUESTIONS>
+            <QUESTION>Việc thực hiện quyền đối với bất động sản liền kề theo thỏa thuận của các bên có nghĩa là gì?</QUESTION>
+            <QUESTION>Quyền đối với bất động sản liền kề phải đảm bảo nhu cầu khai thác bất động sản hưởng quyền ra sao?</QUESTION>
+            <QUESTION>Việc khai thác bất động sản hưởng quyền cần phải phù hợp với mục đích sử dụng của bất động sản chịu hưởng quyền không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Bảo đảm nhu cầu hợp lý của việc khai thác bất động sản hưởng quyền phù hợp với mục đích sử dụng của cả bất động sản hưởng quyền và bất động sản chịu hưởng quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="248">
+        <QUESTIONS>
+            <QUESTION>Không được lạm dụng quyền đối với bất động sản chịu hưởng quyền nghĩa là gì?</QUESTION>
+            <QUESTION>Lạm dụng quyền đối với bất động sản chịu hưởng quyền có thể gây ra những hậu quả gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Không được lạm dụng quyền đối với bất động sản chịu hưởng quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="248">
+        <QUESTIONS>
+            <QUESTION>Tại sao không được ngăn cản việc thực hiện quyền đối với bất động sản hưởng quyền?</QUESTION>
+            <QUESTION>Việc thực hiện quyền đối với bất động sản hưởng quyền có thể bị gây khó khăn không?</QUESTION>
+            <QUESTION>Hành vi nào sẽ bị coi là ngăn cản hoặc làm khó khăn việc thực hiện quyền đối với bất động sản hưởng quyền?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">Không được thực hiện hành vi ngăn cản hoặc làm cho việc thực hiện quyền đối với bất động sản hưởng quyền trở nên khó khăn.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="249">
+        <QUESTIONS>
+            <QUESTION>Trường hợp nào dẫn đến thay đổi việc thực hiện quyền đối với bất động sản hưởng quyền?</QUESTION>
+            <QUESTION>Khi có sự thay đổi về sử dụng, khai thác bất động sản chịu hưởng quyền, chủ sở hữu bất động sản chịu hưởng quyền cần làm gì?</QUESTION>
+            <QUESTION>Chủ sở hữu bất động sản chịu hưởng quyền phải thông báo cho chủ sở hữu bất động sản hưởng quyền trong thời hạn bao lâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp có sự thay đổi về sử dụng, khai thác bất động sản chịu hưởng quyền dẫn đến thay đổi việc thực hiện quyền đối với bất động sản hưởng quyền thì chủ sở hữu bất động sản chịu hưởng quyền phải thông báo trước cho chủ sở hữu bất động sản hưởng quyền trong một thời hạn hợp lý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="249">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu bất động sản chịu hưởng quyền có trách nhiệm gì đối với chủ sở hữu bất động sản hưởng quyền khi có sự thay đổi?</QUESTION>
+            <QUESTION>Chủ sở hữu bất động sản chịu hưởng quyền phải làm gì để tạo điều kiện thuận lợi cho chủ sở hữu bất động sản hưởng quyền?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu bất động sản chịu hưởng quyền phải tạo điều kiện thuận lợi cho chủ sở hữu bất động sản hưởng quyền phù hợp với thay đổi này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="250">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu nhà, công trình xây dựng có nghĩa vụ gì về việc thoát nước mưa?</QUESTION>
+            <QUESTION>Chủ sở hữu nhà, công trình xây dựng phải lắp đặt đường dẫn nước sao cho nước mưa không chảy xuống bất động sản của ai?</QUESTION>
+            <QUESTION>Điều 250 quy định về việc thoát nước mưa trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu nhà, công trình xây dựng khác phải lắp đặt đường dẫn nước sao cho nước mưa từ mái nhà, công trình xây dựng của mình không được chảy xuống bất động sản của chủ sở hữu bất động sản liền kề.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="251">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu nhà, công trình xây dựng có nghĩa vụ gì về việc thoát nước thải?</QUESTION>
+            <QUESTION>Chủ sở hữu nhà, công trình xây dựng phải làm gì để thoát nước thải ra nơi quy định?</QUESTION>
+            <QUESTION>Điều 251 quy định về nghĩa vụ của chủ sở hữu trong việc thoát nước thải như thế nào?</QUESTION>
+            <QUESTION>Nước thải không được chảy tràn sang những nơi nào theo quy định của Điều 251?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu nhà, công trình xây dựng khác phải làm cống ngầm hoặc rãnh thoát nước để đưa nước thải ra nơi quy định, sao cho nước thải không chảy tràn sang bất động sản của chủ sở hữu bất động sản liền kề, ra đường công cộng hoặc nơi sinh hoạt công cộng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="252">
+        <QUESTIONS>
+            <QUESTION>Quyền về cấp, thoát nước qua bất động sản liền kề được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp do vị trí tự nhiên của bất động sản mà việc cấp, thoát nước buộc phải qua một bất động sản khác thì chủ sở hữu bất động sản có nước chảy qua phải dành một lối cấp, thoát nước thích hợp, không được cản trở hoặc ngăn chặn dòng nước chảy.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="252">
+        <QUESTIONS>
+            <QUESTION>Khi cấp, thoát nước qua bất động sản khác, chủ sở hữu bất động sản phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp do vị trí tự nhiên của bất động sản mà việc cấp, thoát nước buộc phải qua một bất động sản khác thì chủ sở hữu bất động sản có nước chảy qua phải dành một lối cấp, thoát nước thích hợp, không được cản trở hoặc ngăn chặn dòng nước chảy.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="252">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu bất động sản có nước chảy qua có quyền gì về việc cấp, thoát nước?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp do vị trí tự nhiên của bất động sản mà việc cấp, thoát nước buộc phải qua một bất động sản khác thì chủ sở hữu bất động sản có nước chảy qua phải dành một lối cấp, thoát nước thích hợp, không được cản trở hoặc ngăn chặn dòng nước chảy.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="252">
+        <QUESTIONS>
+            <QUESTION>Trường hợp gây thiệt hại khi lắp đặt đường dẫn nước, người sử dụng lối cấp, thoát nước phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người sử dụng lối cấp, thoát nước phải hạn chế đến mức thấp nhất thiệt hại cho chủ sở hữu bất động sản có nước chảy qua khi lắp đặt đường dẫn nước; nếu gây thiệt hại thì phải bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="252">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nước tự nhiên chảy từ vị trí cao xuống thấp gây thiệt hại, người sử dụng lối cấp, thoát nước có phải bồi thường không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp nước tự nhiên chảy từ vị trí cao xuống vị trí thấp mà gây thiệt hại cho chủ sở hữu bất động sản có nước chảy qua thì người sử dụng lối cấp, thoát nước không phải bồi thường thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="253">
+        <QUESTIONS>
+            <QUESTION>Người có quyền sử dụng đất canh tác khi có nhu cầu về tưới nước, tiêu nước có quyền gì?</QUESTION>
+            <QUESTION>Người có quyền sử dụng đất canh tác yêu cầu những người sử dụng đất xung quanh làm gì?</QUESTION>
+            <QUESTION>Người được yêu cầu có nghĩa vụ gì khi có yêu cầu về tưới nước, tiêu nước?</QUESTION>
+            <QUESTION>Trong trường hợp gây thiệt hại cho người sử dụng đất xung quanh khi sử dụng lối dẫn nước, người sử dụng lối dẫn nước phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người có quyền sử dụng đất canh tác khi có nhu cầu về tưới nước, tiêu nước, có quyền yêu cầu những người sử dụng đất xung quanh để cho mình một lối dẫn nước thích hợp, thuận tiện cho việc tưới, tiêu; người được yêu cầu có nghĩa vụ đáp ứng yêu cầu đó; nếu người sử dụng lối dẫn nước gây thiệt hại cho người sử dụng đất xung quanh thì phải bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="254">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu bất động sản bị vây bọc có quyền yêu cầu gì khi không có hoặc không đủ lối đi ra đường công cộng?</QUESTION>
+            <QUESTION>Chủ sở hữu bất động sản bị vây bọc có quyền yêu cầu chủ sở hữu bất động sản vây bọc dành cho mình một lối đi như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Chủ sở hữu có bất động sản bị vây bọc bởi các bất động sản của các chủ sở hữu khác mà không có hoặc không đủ lối đi ra đường công cộng, có quyền yêu cầu chủ sở hữu bất động sản vây bọc dành cho mình một lối đi hợp lý trên phần đất của họ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="254">
+        <QUESTIONS>
+            <QUESTION>Điều kiện nào được coi là thuận tiện và hợp lý nhất khi mở lối đi qua bất động sản liền kề?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Lối đi được mở trên bất động sản liền kề nào mà được coi là thuận tiện và hợp lý nhất, có tính đến đặc điểm cụ thể của địa điểm, lợi ích của bất động sản bị vây bọc và thiệt hại gây ra là ít nhất cho bất động sản có mở lối đi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="254">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu bất động sản hưởng quyền về lối đi qua có nghĩa vụ gì đối với chủ sở hữu bất động sản chịu hưởng quyền?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Chủ sở hữu bất động sản hưởng quyền về lối đi qua phải đền bù cho chủ sở hữu bất động sản chịu hưởng quyền, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="254">
+        <QUESTIONS>
+            <QUESTION>Vị trí, giới hạn chiều dài, chiều rộng, chiều cao của lối đi qua bất động sản được xác định như thế nào?</QUESTION>
+            <QUESTION>Trường hợp có tranh chấp về lối đi, bên nào có quyền yêu cầu giải quyết?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Vị trí, giới hạn chiều dài, chiều rộng, chiều cao của lối đi do các bên thỏa thuận, bảo đảm thuận tiện cho việc đi lại và ít gây phiền hà cho các bên; nếu có tranh chấp về lối đi thì có quyền yêu cầu Tòa án, cơ quan nhà nước có thẩm quyền khác xác định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="254">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp bất động sản được chia thành nhiều phần cho các chủ sở hữu khác nhau, việc chia lối đi phải tuân theo quy định nào?</QUESTION>
+            <QUESTION>Chủ sở hữu bất động sản phải làm gì khi chia bất động sản thành nhiều phần cho các chủ sở hữu khác nhau?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp bất động sản được chia thành nhiều phần cho các chủ sở hữu, chủ sử dụng khác nhau thì khi chia phải dành lối đi cần thiết cho người phía trong theo quy định tại khoản 2 Điều này mà không có đền bù.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="255">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu bất động sản có quyền gì đối với bất động sản của các chủ sở hữu khác liên quan đến đường dây tải điện và thông tin liên lạc?</QUESTION>
+            <QUESTION>Chủ sở hữu bất động sản có thể mắc đường dây tải điện, thông tin liên lạc qua bất động sản của người khác như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Chủ sở hữu bất động sản có quyền mắc đường dây tải điện, thông tin liên lạc qua bất động sản của các chủ sở hữu khác một cách hợp lý, nhưng phải bảo đảm an toàn và thuận tiện cho các chủ sở hữu đó; nếu gây thiệt hại thì phải bồi thường.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="256">
+        <QUESTIONS>
+            <QUESTION>Quyền đối với bất động sản liền kề chấm dứt trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền đối với bất động sản liền kề chấm dứt trong các trường hợp: 
+                    1. Bất động sản hưởng quyền và bất động sản chịu hưởng quyền thuộc quyền sở hữu của một người.
+                    2. Việc sử dụng, khai thác bất động sản không còn làm phát sinh nhu cầu hưởng quyền.
+                    3. Theo thỏa thuận của các bên.
+                    4. Trường hợp khác theo quy định của luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="256">
+        <QUESTIONS>
+            <QUESTION>Quyền đối với bất động sản liền kề chấm dứt khi nào nếu bất động sản hưởng quyền và bất động sản chịu hưởng quyền thuộc quyền sở hữu của một người?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="1">Khi bất động sản hưởng quyền và bất động sản chịu hưởng quyền thuộc quyền sở hữu của một người, quyền đối với bất động sản liền kề chấm dứt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="256">
+        <QUESTIONS>
+            <QUESTION>Quyền đối với bất động sản liền kề có thể chấm dứt khi nào liên quan đến việc sử dụng, khai thác bất động sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="2">Khi việc sử dụng, khai thác bất động sản không còn làm phát sinh nhu cầu hưởng quyền, quyền đối với bất động sản liền kề chấm dứt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="256">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào quyền đối với bất động sản liền kề có thể chấm dứt theo thỏa thuận của các bên?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="3">Quyền đối với bất động sản liền kề có thể chấm dứt theo thỏa thuận của các bên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="256">
+        <QUESTIONS>
+            <QUESTION>Có trường hợp nào khác theo quy định của luật dẫn đến việc chấm dứt quyền đối với bất động sản liền kề không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause="4">Quyền đối với bất động sản liền kề cũng có thể chấm dứt trong trường hợp khác theo quy định của luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="257">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng là quyền gì?</QUESTION>
+            <QUESTION>Quyền hưởng dụng có liên quan đến tài sản của ai?</QUESTION>
+            <QUESTION>Quyền hưởng dụng có thời hạn như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền hưởng dụng là quyền của chủ thể được khai thác công dụng và hưởng hoa lợi, lợi tức đối với tài sản thuộc quyền sở hữu của chủ thể khác trong một thời hạn nhất định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="257">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng có cho phép khai thác công dụng của tài sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền hưởng dụng cho phép chủ thể khai thác công dụng và hưởng hoa lợi, lợi tức đối với tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="257">
+        <QUESTIONS>
+            <QUESTION>Hoa lợi và lợi tức từ tài sản có thuộc quyền hưởng dụng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Hoa lợi và lợi tức từ tài sản thuộc quyền hưởng dụng của chủ thể.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='31' article="257">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng có phải là quyền vĩnh viễn không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền hưởng dụng chỉ có hiệu lực trong một thời hạn nhất định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='32' article="258">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng được xác lập theo những căn cứ nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền hưởng dụng được xác lập theo quy định của luật, theo thỏa thuận hoặc theo di chúc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='33' article="258">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng có thể được xác lập qua thỏa thuận không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền hưởng dụng có thể được xác lập theo thỏa thuận giữa các bên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='34' article="258">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng có thể được xác lập thông qua di chúc không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền hưởng dụng có thể được xác lập theo di chúc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='35' article="259">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng được xác lập từ thời điểm nào?</QUESTION>
+            <QUESTION>Quyền hưởng dụng có thể có hiệu lực từ thời điểm khác không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền hưởng dụng được xác lập từ thời điểm nhận chuyển giao tài sản, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='36' article="259">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng có hiệu lực đối với ai?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền hưởng dụng đã được xác lập có hiệu lực đối với mọi cá nhân, pháp nhân, trừ trường hợp luật liên quan có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='37' article="260">
+        <QUESTIONS>
+            <QUESTION>Thời hạn của quyền hưởng dụng được xác định như thế nào?</QUESTION>
+            <QUESTION>Thời hạn của quyền hưởng dụng có giới hạn gì khi người hưởng dụng là cá nhân?</QUESTION>
+            <QUESTION>Thời hạn của quyền hưởng dụng có giới hạn gì khi người hưởng dụng là pháp nhân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hạn của quyền hưởng dụng do các bên thỏa thuận hoặc do luật quy định nhưng tối đa đến hết cuộc đời của người hưởng dụng đầu tiên nếu người hưởng dụng là cá nhân và đến khi pháp nhân chấm dứt tồn tại nhưng tối đa 30 năm nếu người hưởng dụng đầu tiên là pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='38' article="260">
+        <QUESTIONS>
+            <QUESTION>Người hưởng dụng có quyền gì liên quan đến quyền hưởng dụng trong thời hạn quy định?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người hưởng dụng có quyền cho thuê quyền hưởng dụng trong thời hạn quy định tại khoản 1 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='39' article="261">
+        <QUESTIONS>
+            <QUESTION>Người hưởng dụng có quyền gì liên quan đến việc khai thác, sử dụng và thu hoa lợi từ tài sản?</QUESTION>
+            <QUESTION>Người hưởng dụng có thể cho phép ai khai thác, sử dụng tài sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người hưởng dụng có quyền tự mình hoặc cho phép người khác khai thác, sử dụng, thu hoa lợi, lợi tức từ đối tượng của quyền hưởng dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='40' article="261">
+        <QUESTIONS>
+            <QUESTION>Người hưởng dụng có quyền yêu cầu chủ sở hữu tài sản làm gì liên quan đến tài sản?</QUESTION>
+            <QUESTION>Trong trường hợp người hưởng dụng thực hiện nghĩa vụ thay cho chủ sở hữu tài sản, họ có quyền yêu cầu gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người hưởng dụng có quyền yêu cầu chủ sở hữu tài sản thực hiện nghĩa vụ sửa chữa đối với tài sản theo quy định tại khoản 4 Điều 263 của Bộ luật này; trường hợp thực hiện nghĩa vụ thay cho chủ sở hữu tài sản thì có quyền yêu cầu chủ sở hữu tài sản hoàn trả chi phí.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='41' article="261">
+        <QUESTIONS>
+            <QUESTION>Người hưởng dụng có quyền gì đối với quyền hưởng dụng tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người hưởng dụng có quyền cho thuê quyền hưởng dụng đối với tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='42' article="262">
+        <QUESTIONS>
+            <QUESTION>Người hưởng dụng có nghĩa vụ gì khi tiếp nhận tài sản?</QUESTION>
+            <QUESTION>Người hưởng dụng có phải thực hiện đăng ký tài sản không? Trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người hưởng dụng có nghĩa vụ tiếp nhận tài sản theo hiện trạng và thực hiện đăng ký nếu luật có quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='43' article="262">
+        <QUESTIONS>
+            <QUESTION>Người hưởng dụng có nghĩa vụ gì liên quan đến việc khai thác tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người hưởng dụng có nghĩa vụ khai thác tài sản phù hợp với công dụng, mục đích sử dụng của tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='44' article="262">
+        <QUESTIONS>
+            <QUESTION>Người hưởng dụng có nghĩa vụ bảo quản tài sản như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người hưởng dụng có nghĩa vụ giữ gìn, bảo quản tài sản như tài sản của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='45' article="262">
+        <QUESTIONS>
+            <QUESTION>Người hưởng dụng có nghĩa vụ bảo dưỡng, sửa chữa tài sản như thế nào?</QUESTION>
+            <QUESTION>Người hưởng dụng phải khôi phục tình trạng tài sản trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Người hưởng dụng có nghĩa vụ bảo dưỡng, sửa chữa tài sản theo định kỳ để bảo đảm cho việc sử dụng bình thường; khôi phục tình trạng của tài sản và khắc phục các hậu quả xấu đối với tài sản do việc không thực hiện tốt nghĩa vụ của mình phù hợp với yêu cầu kỹ thuật hoặc theo tập quán về bảo quản tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='46' article="262">
+        <QUESTIONS>
+            <QUESTION>Người hưởng dụng có nghĩa vụ gì khi hết thời hạn hưởng dụng tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Người hưởng dụng có nghĩa vụ hoàn trả tài sản cho chủ sở hữu khi hết thời hạn hưởng dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='47' article="263">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu tài sản có quyền gì đối với tài sản của mình?</QUESTION>
+            <QUESTION>Chủ sở hữu tài sản có thể làm thay đổi quyền hưởng dụng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Chủ sở hữu tài sản có quyền định đoạt tài sản nhưng không được làm thay đổi quyền hưởng dụng đã được xác lập.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='48' article="263">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu tài sản có thể yêu cầu Tòa án truất quyền hưởng dụng trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Chủ sở hữu tài sản có quyền yêu cầu Tòa án truất quyền hưởng dụng trong trường hợp người hưởng dụng vi phạm nghiêm trọng nghĩa vụ của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='49' article="263">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu tài sản có thể thực hiện hành vi nào đối với quyền hưởng dụng?</QUESTION>
+            <QUESTION>Chủ sở hữu tài sản có được cản trở quyền lợi hợp pháp của người hưởng dụng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Chủ sở hữu tài sản không được cản trở, thực hiện hành vi khác gây khó khăn hoặc xâm phạm đến quyền, lợi ích hợp pháp của người hưởng dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='50' article="263">
+        <QUESTIONS>
+            <QUESTION>Chủ sở hữu tài sản có nghĩa vụ gì đối với tài sản của mình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Chủ sở hữu tài sản có nghĩa vụ thực hiện sửa chữa tài sản để bảo đảm không bị suy giảm đáng kể dẫn tới tài sản không thể sử dụng được hoặc mất toàn bộ công dụng, giá trị của tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='51' article="264">
+        <QUESTIONS>
+            <QUESTION>Người hưởng dụng có quyền gì đối với hoa lợi, lợi tức?</QUESTION>
+            <QUESTION>Hoa lợi, lợi tức được thu từ tài sản nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người hưởng dụng có quyền sở hữu đối với hoa lợi, lợi tức thu được từ tài sản là đối tượng của quyền hưởng dụng trong thời gian quyền này có hiệu lực.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='52' article="264">
+        <QUESTIONS>
+            <QUESTION>Trường hợp quyền hưởng dụng chấm dứt, người hưởng dụng có quyền gì đối với hoa lợi, lợi tức?</QUESTION>
+            <QUESTION>Người hưởng dụng có được hưởng giá trị hoa lợi, lợi tức sau khi quyền hưởng dụng chấm dứt không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp quyền hưởng dụng chấm dứt mà chưa đến kỳ hạn thu hoa lợi, lợi tức thì khi đến kỳ hạn thu hoa lợi, lợi tức, người hưởng dụng được hưởng giá trị của hoa lợi, lợi tức thu được tương ứng với thời gian người đó được quyền hưởng dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='53' article="265">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp nào quyền hưởng dụng chấm dứt?</QUESTION>
+            <QUESTION>Khi nào quyền hưởng dụng hết thời hạn?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Quyền hưởng dụng chấm dứt khi thời hạn của quyền hưởng dụng đã hết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='54' article="265">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng có thể chấm dứt theo cách nào ngoài thời hạn?</QUESTION>
+            <QUESTION>Có thể thỏa thuận để chấm dứt quyền hưởng dụng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Quyền hưởng dụng chấm dứt theo thỏa thuận của các bên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='55' article="265">
+        <QUESTIONS>
+            <QUESTION>Khi người hưởng dụng trở thành chủ sở hữu tài sản, quyền hưởng dụng có còn không?</QUESTION>
+            <QUESTION>Quyền hưởng dụng có chấm dứt nếu người hưởng dụng trở thành chủ sở hữu tài sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Quyền hưởng dụng chấm dứt khi người hưởng dụng trở thành chủ sở hữu tài sản là đối tượng của quyền hưởng dụng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='56' article="265">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng chấm dứt khi người hưởng dụng không thực hiện quyền hưởng dụng trong thời hạn quy định?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Quyền hưởng dụng chấm dứt khi người hưởng dụng từ bỏ hoặc không thực hiện quyền hưởng dụng trong thời hạn do luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='57' article="265">
+        <QUESTIONS>
+            <QUESTION>Quyền hưởng dụng có thể chấm dứt khi tài sản không còn không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Quyền hưởng dụng chấm dứt khi tài sản là đối tượng của quyền hưởng dụng không còn.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='58' article="265">
+        <QUESTIONS>
+            <QUESTION>Có thể quyền hưởng dụng chấm dứt theo quyết định của Tòa án không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='6'>Quyền hưởng dụng chấm dứt theo quyết định của Tòa án.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='59' article="265">
+        <QUESTIONS>
+            <QUESTION>Có trường hợp nào khác dẫn đến chấm dứt quyền hưởng dụng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='7'>Quyền hưởng dụng chấm dứt theo căn cứ khác theo quy định của luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='60' article="266">
+        <QUESTIONS>
+            <QUESTION>Khi quyền hưởng dụng chấm dứt, tài sản sẽ được xử lý như thế nào?</QUESTION>
+            <QUESTION>Có yêu cầu hoàn trả tài sản khi quyền hưởng dụng chấm dứt không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Tài sản là đối tượng của quyền hưởng dụng phải được hoàn trả cho chủ sở hữu khi chấm dứt quyền hưởng dụng, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='61' article="267">
+        <QUESTIONS>
+            <QUESTION>Quyền bề mặt là gì?</QUESTION>
+            <QUESTION>Quyền bề mặt có liên quan đến những yếu tố nào trên mặt đất, mặt nước và lòng đất?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền bề mặt là quyền của một chủ thể đối với mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất mà quyền sử dụng đất đó thuộc về chủ thể khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='62' article="268">
+        <QUESTIONS>
+            <QUESTION>Quyền bề mặt được xác lập căn cứ vào đâu?</QUESTION>
+            <QUESTION>Những yếu tố nào có thể xác lập quyền bề mặt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền bề mặt được xác lập theo quy định của luật, theo thỏa thuận hoặc theo di chúc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='63' article="269">
+        <QUESTIONS>
+            <QUESTION>Quyền bề mặt có hiệu lực từ khi nào?</QUESTION>
+            <QUESTION>Quyền bề mặt bắt đầu có hiệu lực khi nào đối với các bên liên quan?</QUESTION>
+            <QUESTION>Quyền bề mặt có hiệu lực ngay khi nào sau khi chuyển giao tài sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền bề mặt có hiệu lực từ thời điểm chủ thể có quyền sử dụng đất chuyển giao mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất cho chủ thể có quyền bề mặt, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='64' article="269">
+        <QUESTIONS>
+            <QUESTION>Quyền bề mặt có hiệu lực đối với ai?</QUESTION>
+            <QUESTION>Quyền bề mặt có áp dụng cho cá nhân và pháp nhân không?</QUESTION>
+            <QUESTION>Ai là người bị ảnh hưởng bởi quyền bề mặt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền bề mặt có hiệu lực đối với mọi cá nhân, pháp nhân, trừ trường hợp luật liên quan có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='65' article="270">
+        <QUESTIONS>
+            <QUESTION>Thời hạn của quyền bề mặt được xác định như thế nào?</QUESTION>
+            <QUESTION>Thời hạn quyền bề mặt có thể vượt quá thời hạn quyền sử dụng đất không?</QUESTION>
+            <QUESTION>Quyền bề mặt có thể có thời hạn bao lâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hạn của quyền bề mặt được xác định theo quy định của luật, theo thỏa thuận hoặc di chúc nhưng không vượt quá thời hạn của quyền sử dụng đất.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='66' article="270">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp thỏa thuận hoặc di chúc không xác định thời hạn của quyền bề mặt thì điều gì sẽ xảy ra?</QUESTION>
+            <QUESTION>Thỏa thuận không xác định thời hạn của quyền bề mặt sẽ dẫn đến điều gì?</QUESTION>
+            <QUESTION>Có cách nào chấm dứt quyền bề mặt nếu không có thời hạn xác định không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp thỏa thuận hoặc di chúc không xác định thời hạn của quyền bề mặt thì mỗi bên có quyền chấm dứt quyền này bất cứ lúc nào nhưng phải thông báo bằng văn bản cho bên kia biết trước ít nhất là 06 tháng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='67' article="271">
+        <QUESTIONS>
+            <QUESTION>Chủ thể quyền bề mặt có quyền gì đối với mặt đất, mặt nước và khoảng không gian?</QUESTION>
+            <QUESTION>Chủ thể quyền bề mặt có thể làm gì với mặt đất, mặt nước, khoảng không gian theo quy định?</QUESTION>
+            <QUESTION>Chủ thể quyền bề mặt có thể xây dựng công trình hay trồng cây không?</QUESTION>
+            <QUESTION>Chủ thể quyền bề mặt có quyền sử dụng đất của người khác không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Chủ thể quyền bề mặt có quyền khai thác, sử dụng mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất thuộc quyền sử dụng đất của người khác để xây dựng công trình, trồng cây, canh tác nhưng không được trái với quy định của Bộ luật này, pháp luật về đất đai, xây dựng, quy hoạch, tài nguyên, khoáng sản và quy định khác của pháp luật có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='68' article="271">
+        <QUESTIONS>
+            <QUESTION>Chủ thể quyền bề mặt có quyền sở hữu tài sản được tạo lập không?</QUESTION>
+            <QUESTION>Chủ thể quyền bề mặt có quyền sở hữu đối với tài sản nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Chủ thể quyền bề mặt có quyền sở hữu đối với tài sản được tạo lập theo quy định tại khoản 1 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='69' article="271">
+        <QUESTIONS>
+            <QUESTION>Khi quyền bề mặt được chuyển giao, chủ thể nhận chuyển giao có quyền gì?</QUESTION>
+            <QUESTION>Chủ thể nhận chuyển giao quyền bề mặt sẽ được gì?</QUESTION>
+            <QUESTION>Khi quyền bề mặt được chuyển giao, có điều gì cần lưu ý?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp quyền bề mặt được chuyển giao một phần hoặc toàn bộ thì chủ thể nhận chuyển giao được kế thừa quyền bề mặt theo điều kiện và trong phạm vi tương ứng với phần quyền bề mặt được chuyển giao.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='70' article="272">
+        <QUESTIONS>
+            <QUESTION>Quyền bề mặt chấm dứt trong trường hợp nào?</QUESTION>
+            <QUESTION>Điều kiện nào khiến quyền bề mặt chấm dứt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Quyền bề mặt chấm dứt khi thời hạn hưởng quyền bề mặt đã hết.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='71' article="272">
+        <QUESTIONS>
+            <QUESTION>Khi nào quyền bề mặt chấm dứt vì liên quan đến chủ thể có quyền sử dụng đất?</QUESTION>
+            <QUESTION>Quyền bề mặt có thể chấm dứt khi nào liên quan đến chủ thể có quyền sử dụng đất?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Quyền bề mặt chấm dứt khi chủ thể có quyền bề mặt và chủ thể có quyền sử dụng đất là một.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='72' article="272">
+        <QUESTIONS>
+            <QUESTION>Quyền bề mặt có thể chấm dứt khi chủ thể từ bỏ quyền của mình không?</QUESTION>
+            <QUESTION>Khi nào chủ thể có quyền bề mặt từ bỏ quyền của mình?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Quyền bề mặt chấm dứt khi chủ thể có quyền bề mặt từ bỏ quyền của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='73' article="272">
+        <QUESTIONS>
+            <QUESTION>Khi quyền sử dụng đất có quyền bề mặt bị thu hồi thì quyền bề mặt có bị chấm dứt không?</QUESTION>
+            <QUESTION>Quyền bề mặt sẽ chấm dứt khi nào liên quan đến quyền sử dụng đất?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Quyền bề mặt chấm dứt khi quyền sử dụng đất có quyền bề mặt bị thu hồi theo quy định của Luật đất đai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='74' article="272">
+        <QUESTIONS>
+            <QUESTION>Quyền bề mặt có thể chấm dứt khi nào theo thỏa thuận giữa các bên?</QUESTION>
+            <QUESTION>Điều kiện nào khác khiến quyền bề mặt chấm dứt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Quyền bề mặt chấm dứt theo thỏa thuận của các bên hoặc theo quy định của luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='75' article="273">
+        <QUESTIONS>
+            <QUESTION>Chủ thể quyền bề mặt phải làm gì khi quyền bề mặt chấm dứt?</QUESTION>
+            <QUESTION>Chủ thể quyền bề mặt phải trả lại gì khi quyền bề mặt chấm dứt?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi quyền bề mặt chấm dứt, chủ thể quyền bề mặt phải trả lại mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất cho chủ thể có quyền sử dụng đất theo thỏa thuận hoặc theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='76' article="273">
+        <QUESTIONS>
+            <QUESTION>Chủ thể quyền bề mặt phải xử lý tài sản như thế nào trước khi quyền bề mặt chấm dứt?</QUESTION>
+            <QUESTION>Chủ thể quyền bề mặt có cần xử lý tài sản khi quyền bề mặt chấm dứt không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Chủ thể quyền bề mặt phải xử lý tài sản thuộc sở hữu của mình trước khi quyền bề mặt chấm dứt, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='77' article="273">
+        <QUESTIONS>
+            <QUESTION>Quyền sở hữu tài sản thuộc về ai nếu chủ thể quyền bề mặt không xử lý tài sản trước khi quyền bề mặt chấm dứt?</QUESTION>
+            <QUESTION>Chủ thể có quyền sử dụng đất có quyền sở hữu tài sản khi quyền bề mặt chấm dứt trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp chủ thể quyền bề mặt không xử lý tài sản trước khi quyền bề mặt chấm dứt thì quyền sở hữu tài sản đó thuộc về chủ thể có quyền sử dụng đất kể từ thời điểm quyền bề mặt chấm dứt, trừ trường hợp chủ thể có quyền sử dụng đất không nhận tài sản đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='78' article="273">
+        <QUESTIONS>
+            <QUESTION>Chủ thể có quyền sử dụng đất không nhận tài sản khi quyền bề mặt chấm dứt có phải xử lý tài sản không?</QUESTION>
+            <QUESTION>Chủ thể quyền bề mặt có phải thanh toán chi phí xử lý tài sản không nếu chủ thể có quyền sử dụng đất không nhận tài sản?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp chủ thể có quyền sử dụng đất không nhận tài sản mà phải xử lý tài sản thì chủ thể có quyền bề mặt phải thanh toán chi phí xử lý tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

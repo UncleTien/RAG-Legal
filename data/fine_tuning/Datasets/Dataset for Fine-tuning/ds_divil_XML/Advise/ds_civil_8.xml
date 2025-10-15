@@ -1,0 +1,81 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>8</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id='1' article="119">
+        <QUESTIONS>
+            <QUESTION>Giờ em đang cho bên B vay nhưng không có giấy tờ mà chỉ có tin nhắn với qua lời nói, đến hạn rồi mà bên B không có ý định trả tiền và hợp tác. Bây giờ em có thể đòi nợ kiểu gì với mức như thế nào, có quyền giữ giấy tờ hay vật tư cá nhân không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1,2'>Dù không có giấy tờ nhưng nếu có bằng chứng khác thể hiện có giao dịch cho vay trên thực tế thì bạn vẫn có thể khởi kiện bên B đến Tòa án để yêu cầu bên B trả nợ, bạn có thể cung cấp bằng chứng là hình ảnh bạn và bên B có nhắn tin trao đổi về giao dịch cho vay trên.&#xA;Về vấn đề giữ giấy tờ hay vật tư cá nhân, nếu không có thỏa thuận nào khác với bên B thì bạn không được tự ý giữ giấy tờ hay tài sản của B bạn nhé.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="127">
+        <QUESTIONS>
+            <QUESTION>Bà A cho ông B vay tiền nhưng giờ ông B không có tiền trả nên ký văn bản thỏa thuận đặt cọc là dùng căn nhà của ông B trừ nợ. Tuy nhiên, trước đó ông B lại cho bà C mượn sổ đỏ để vay tiền ông D. Ông D bắt ông B ký Hợp đồng chuyển nhượng quyền sử dụng đất (công chứng treo) - ý là không sang tên, để thế chấp căn nhà. Giờ bà C bỏ trốn không trả tiền nên giờ ông B không lấy lại được sổ đó để chuyển nhượng lại cho bà A. Giờ bà A đang ở nhà này, vậy cần làm gì để đảm bảo được căn nhà này thuộc về bà A ạ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Việc ông B dùng căn nhà để đảm bảo nghĩa vụ trả nợ sẽ vô hiệu do bà A bị lừa dối, tức là tài sản thế chấp không hợp pháp do đã chuyển nhượng trước đó nhưng ông B vẫn đưa cho bà A để đảm bảo nghĩa vụ trả nợ.&#xA;Theo đó, lúc này bà A phải trả lại căn nhà và nghĩa vụ trả nợ của ông B vẫn còn. Bà A có thể kiện ông B để yêu cầu trả nợ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+    
+    <CONVERSATION id='3' article="119">
+        <QUESTIONS>
+            <QUESTION>Mua xe cũ bằng giấy viết tay có sang tên được không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Giấy mua bán xe viết tay giữa các bên hoàn toàn có giá trị pháp lý nếu các bên đã thỏa thuận rõ ràng về việc chuyển nhượng tài sản. Tuy nhiên, cũng cần phải lưu ý, để hoàn tất thủ tục sang tên chính chủ tại cơ quan nhà nước thì các bên cũng cần tuân thủ quy định cụ thể về giấy tờ và các thủ tục.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="124,131">
+        <QUESTIONS>
+            <QUESTION>Người vay nên làm gì trong trường hợp bên cho vay yêu cầu chuyển nhượng QSDĐ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Lời khuyên trong trường hợp này là hãy thực hiện các giao dịch dân sự theo đúng quy định của pháp luật, đi vay thì làm hợp đồng vay tài sản, thế chấp tài sản để bảo đảm khoản vay thì làm hợp đồng thế chấp tài sản, đề phòng nếu có tranh chấp xảy ra thì sẽ được pháp luật bảo vệ.&#xA;Nếu không có ý chí muốn bán, chuyển nhượng QSDĐ thì tuyệt đối không giao kết hợp đồng chuyển nhượng QSDĐ, vì điều này vừa vi phạm hợp đồng giả tạo, vừa mang lại rủi ro mất QSDĐ rất cao.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="117">
+        <QUESTIONS>
+            <QUESTION>Trẻ em có được đứng tên trên sổ hồng, sổ đỏ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trẻ em được đứng tên sổ đỏ, tuy nhiên khi làm thủ tục thì phải có sự đồng ý của cha mẹ hoặc người đại diện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="117">
+        <QUESTIONS>
+            <QUESTION>Những lưu ý khi ký kết Hợp đồng đặt cọc mua đất 2024</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Có những điểm đáng lưu ý khi thực hiện ký kết Hợp đồng đặt cọc mua đất 2024 như sau:&#xA;- Điều kiện tiên quyết: Để một Hợp đồng có hiệu lực là các chủ thể tham gia phải có đầy đủ năng lực hành vi dân sự theo quy định tại Bộ Luật Dân sự 2015, bao gồm:&#xA;+ Chủ thể có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập.&#xA;+ Chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện.&#xA;+ Mục đích và nội dung của giao dịch dân sự không vi phạm điều cấm của luật, không trái đạo đức xã hội.&#xA;- Công chứng: Mặc dù luật pháp hiện hành không quy định Hợp đồng đặt cọc bắt buộc phải công chứng. Tuy nhiên, để hạn chế rủi ro trong việc giao kết hợp đồng đặt cọc thì các bên vẫn nên thực hiện công chứng, chứng thực. Bởi công chứng, chứng thực sẽ giúp các bên kiểm tra tính chính xác, hợp pháp về các giấy tờ như căn nhà có thể giao dịch được không, chủ căn nhà có bị hạn chế giao dịch, tài sản có bị kê biên, thế chấp, hay đã được dùng vào giao dịch dân sự khác hay không,...&#xA;- Nội dung: Hợp đồng đặt cọc mua đất có thể được xem như giai đoạn chuẩn bị cho việc giao kết hợp đồng mua bán đất chính thức giữa các bên. Chính vì thế, khi thực hiện đặt cọc mua đất cần lưu ý những điểm sau:&#xA;+ Nội dung thỏa thuận về tài sản đặt cọc, phạt cọc và thời hạn đảm bảo giao kết, thực hiện hợp đồng.&#xA;+ Quyền và nghĩa vụ của các bên trong đặt cọc.&#xA;+ Điều kiện có hiệu lực của đặt cọc.&#xA;+ Mối quan hệ giữa hợp đồng đặt cọc và hợp đồng chính.&#xA;Tổng kết lại, Hợp đồng đặt cọc mua đất là một thỏa thuận của các bên xác lập việc một bên giao cho bên kia một khoản tiền hoặc tài sản có giá trị để đảm bảo cho Hợp đồng mua bán đất, thỏa thuận sẽ thực hiện. Khi thực hiện giao kết Hợp đồng đặt cọc mua đất 2024, các bên cần lưu ý các nội dung như đã nêu trên để tránh xảy ra những rủi ro không đáng có.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="117">
+        <QUESTIONS>
+            <QUESTION>“Hợp đồng tình ái” là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo pháp luật Việt Nam hiện hành, không hề có bất cứ khái niệm nào đề cập tới “hợp đồng tình ái”. Đây là một “thuật ngữ” mới xuất hiện và gây ra không ít sự tranh cãi về tính chất pháp lý của nó. &#xA;Nếu xem “hợp đồng tình ái” là một giao dịch giữa các bên thì căn cứ Bộ luật dân sự 2015, giao dịch dân sự có hiệu lực khi có đủ các điều kiện sau:&#xA;+ Chủ thể có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập;&#xA;+ Chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện;&#xA;+ Mục đích và nội dung của giao dịch dân sự không vi phạm điều cấm của luật, không trái đạo đức xã hội.&#xA;Như vậy, nếu cả hai bên đáp ứng được những điều kiện trên, thì “hợp đồng tình ái” được tồn tại như là một giao dịch dân sự (hợp đồng dân sự) và hoàn toàn đầy đủ các giá trị pháp lý.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="117">
+        <QUESTIONS>
+            <QUESTION>Điều kiện có hiệu lực của hợp đồng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Vì hợp đồng là một giao dịch dân sự nên để hợp đồng có hiệu lực pháp luật thì nó phải đáp ứng các điều kiện có hiệu lực dân sự tại như sau:&#xA;- Thứ nhất, chủ thể của giao dịch dân sự phải có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập;&#xA;- Thứ hai, chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện;&#xA;- Thứ ba, mục đích và nội dung của giao dịch dân sự không vi phạm điều cấm của luật, không trái đạo đức xã hội.&#xA;- Thứ tư, hình thức của giao dịch dân sự là điều kiện có hiệu lực của giao dịch dân sự trong trường hợp luật có quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+</CIVIL-CODE>

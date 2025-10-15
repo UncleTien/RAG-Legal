@@ -1,0 +1,374 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>21</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="609">
+    <QUESTIONS>
+        <QUESTION>Cá nhân có quyền gì liên quan đến di sản thừa kế?</QUESTION>
+        <QUESTION>Cá nhân có quyền lập di chúc để định đoạt tài sản của mình không?</QUESTION>
+        <QUESTION>Cá nhân có quyền để lại tài sản của mình cho người thừa kế theo pháp luật không?</QUESTION>
+        <QUESTION>Cá nhân có quyền hưởng di sản theo di chúc hoặc theo pháp luật không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Cá nhân có quyền lập di chúc để định đoạt tài sản của mình; để lại tài sản của mình cho người thừa kế theo pháp luật; hưởng di sản theo di chúc hoặc theo pháp luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="609">
+    <QUESTIONS>
+        <QUESTION>Người thừa kế không là cá nhân có quyền gì liên quan đến di sản?</QUESTION>
+        <QUESTION>Người thừa kế không là cá nhân có được hưởng di sản theo di chúc không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Người thừa kế không là cá nhân có quyền hưởng di sản theo di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="610">
+    <QUESTIONS>
+        <QUESTION>Mọi cá nhân có quyền bình đẳng gì liên quan đến thừa kế?</QUESTION>
+        <QUESTION>Mọi cá nhân có quyền để lại tài sản của mình cho người khác không?</QUESTION>
+        <QUESTION>Mọi cá nhân có quyền hưởng di sản theo di chúc hoặc theo pháp luật không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Mọi cá nhân đều bình đẳng về quyền để lại tài sản của mình cho người khác và quyền hưởng di sản theo di chúc hoặc theo pháp luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="611">
+    <QUESTIONS>
+        <QUESTION>Khi nào là thời điểm mở thừa kế?</QUESTION>
+        <QUESTION>Thời điểm mở thừa kế được xác định ra sao khi Tòa án tuyên bố một người đã chết?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Thời điểm mở thừa kế là thời điểm người có tài sản chết. Trường hợp Tòa án tuyên bố một người là đã chết thì thời điểm mở thừa kế là ngày được xác định tại khoản 2 Điều 71 của Bộ luật này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+    <CONVERSATION id='5' article="611">
+    <QUESTIONS>
+        <QUESTION>Địa điểm mở thừa kế được xác định như thế nào?</QUESTION>
+        <QUESTION>Nếu không xác định được nơi cư trú cuối cùng của người để lại di sản thì địa điểm mở thừa kế sẽ là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Địa điểm mở thừa kế là nơi cư trú cuối cùng của người để lại di sản; nếu không xác định được nơi cư trú cuối cùng thì địa điểm mở thừa kế là nơi có toàn bộ di sản hoặc nơi có phần lớn di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="612">
+    <QUESTIONS>
+        <QUESTION>Di sản bao gồm những loại tài sản nào?</QUESTION>
+        <QUESTION>Phần tài sản của người chết trong tài sản chung có được coi là di sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Di sản bao gồm tài sản riêng của người chết, phần tài sản của người chết trong tài sản chung với người khác.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="613">
+    <QUESTIONS>
+        <QUESTION>Người thừa kế cần đáp ứng điều kiện gì để được nhận thừa kế?</QUESTION>
+        <QUESTION>Những ai được coi là người thừa kế hợp lệ tại thời điểm mở thừa kế?</QUESTION>
+        <QUESTION>Người sinh ra sau thời điểm mở thừa kế nhưng đã thành thai trước đó có được hưởng di sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người thừa kế là cá nhân phải là người còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="613">
+    <QUESTIONS>
+        <QUESTION>Trường hợp người thừa kế theo di chúc không là cá nhân, họ cần đáp ứng điều kiện gì?</QUESTION>
+        <QUESTION>Người thừa kế không phải cá nhân có bắt buộc phải tồn tại tại thời điểm mở thừa kế không?</QUESTION>
+        <QUESTION>Khi nào người thừa kế không là cá nhân được hưởng di sản thừa kế?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp người thừa kế theo di chúc không là cá nhân thì phải tồn tại vào thời điểm mở thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="614">
+    <QUESTIONS>
+        <QUESTION>Quyền và nghĩa vụ của người thừa kế phát sinh từ thời điểm nào?</QUESTION>
+        <QUESTION>Khi nào người thừa kế bắt đầu có các quyền tài sản do người chết để lại?</QUESTION>
+        <QUESTION>Thời điểm mở thừa kế có ý nghĩa gì đối với quyền và nghĩa vụ của người thừa kế?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Kể từ thời điểm mở thừa kế, những người thừa kế có các quyền, nghĩa vụ tài sản do người chết để lại.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="615">
+    <QUESTIONS>
+        <QUESTION>Những người hưởng thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản như thế nào?</QUESTION>
+        <QUESTION>Trách nhiệm thực hiện nghĩa vụ tài sản của người thừa kế được giới hạn trong phạm vi nào?</QUESTION>
+        <QUESTION>Người thừa kế có được miễn trách nhiệm thực hiện nghĩa vụ tài sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Những người hưởng thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản trong phạm vi di sản do người chết để lại, trừ trường hợp có thỏa thuận khác.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="615">
+    <QUESTIONS>
+        <QUESTION>Ai sẽ thực hiện nghĩa vụ tài sản khi di sản chưa được chia?</QUESTION>
+        <QUESTION>Trường hợp di sản chưa được chia, nghĩa vụ tài sản do ai thực hiện và trong phạm vi nào?</QUESTION>
+        <QUESTION>Người quản lý di sản có trách nhiệm gì khi di sản chưa được chia?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp di sản chưa được chia thì nghĩa vụ tài sản do người chết để lại được người quản lý di sản thực hiện theo thỏa thuận của những người thừa kế trong phạm vi di sản do người chết để lại.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="615">
+    <QUESTIONS>
+        <QUESTION>Người thừa kế thực hiện nghĩa vụ tài sản thế nào khi di sản đã được chia?</QUESTION>
+        <QUESTION>Phần nghĩa vụ tài sản mà mỗi người thừa kế phải thực hiện có giới hạn không?</QUESTION>
+        <QUESTION>Trường hợp nào người thừa kế phải thực hiện nghĩa vụ tài sản vượt quá phần tài sản nhận được?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Trường hợp di sản đã được chia thì mỗi người thừa kế thực hiện nghĩa vụ tài sản do người chết để lại tương ứng nhưng không vượt quá phần tài sản mà mình đã nhận, trừ trường hợp có thỏa thuận khác.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="615">
+    <QUESTIONS>
+        <QUESTION>Người thừa kế không phải là cá nhân có nghĩa vụ tài sản thế nào khi hưởng di sản?</QUESTION>
+        <QUESTION>Trách nhiệm của người thừa kế không phải là cá nhân khác gì so với người thừa kế là cá nhân?</QUESTION>
+        <QUESTION>Người thừa kế không phải cá nhân có cần thực hiện nghĩa vụ tài sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='4'>Trường hợp người thừa kế không phải là cá nhân hưởng di sản theo di chúc thì cũng phải thực hiện nghĩa vụ tài sản do người chết để lại như người thừa kế là cá nhân.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="616">
+    <QUESTIONS>
+        <QUESTION>Người quản lý di sản có thể là ai?</QUESTION>
+        <QUESTION>Ai có quyền chỉ định người quản lý di sản?</QUESTION>
+        <QUESTION>Trường hợp nào người quản lý di sản được chỉ định theo thỏa thuận của những người thừa kế?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người quản lý di sản là người được chỉ định trong di chúc hoặc do những người thừa kế thỏa thuận cử ra.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="616">
+    <QUESTIONS>
+        <QUESTION>Trường hợp di chúc không chỉ định người quản lý di sản, ai sẽ tiếp tục quản lý di sản?</QUESTION>
+        <QUESTION>Ai có trách nhiệm quản lý di sản khi những người thừa kế chưa cử được người quản lý di sản?</QUESTION>
+        <QUESTION>Di sản sẽ được quản lý như thế nào trong trường hợp không có người quản lý theo di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp di chúc không chỉ định người quản lý di sản và những người thừa kế chưa cử được người quản lý di sản thì người đang chiếm hữu, sử dụng, quản lý di sản tiếp tục quản lý di sản đó cho đến khi những người thừa kế cử được người quản lý di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="616">
+    <QUESTIONS>
+        <QUESTION>Trong trường hợp nào di sản sẽ do cơ quan nhà nước quản lý?</QUESTION>
+        <QUESTION>Ai sẽ quản lý di sản khi chưa xác định được người thừa kế?</QUESTION>
+        <QUESTION>Di sản sẽ được ai quản lý nếu không có người thừa kế và không có người quản lý theo di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Trường hợp chưa xác định được người thừa kế và di sản chưa có người quản lý theo quy định tại khoản 1 và khoản 2 Điều này thì di sản do cơ quan nhà nước có thẩm quyền quản lý.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="617">
+    <QUESTIONS>
+        <QUESTION>Người quản lý di sản theo khoản 1 và khoản 3 Điều 616 có nghĩa vụ gì đối với tài sản di sản?</QUESTION>
+        <QUESTION>Người quản lý di sản có quyền bán, trao đổi, tặng cho tài sản di sản không?</QUESTION>
+        <QUESTION>Người quản lý di sản có trách nhiệm thông báo gì cho những người thừa kế?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người quản lý di sản quy định tại khoản 1 và khoản 3 Điều 616 có nghĩa vụ lập danh mục di sản; thu hồi tài sản thuộc di sản của người chết mà người khác đang chiếm hữu, bảo quản di sản; không được bán, trao đổi, tặng cho, cầm cố, thế chấp hoặc định đoạt tài sản bằng hình thức khác nếu không được những người thừa kế đồng ý bằng văn bản; thông báo về tình trạng di sản cho những người thừa kế; bồi thường thiệt hại nếu vi phạm nghĩa vụ của mình mà gây thiệt hại; giao lại di sản theo yêu cầu của người thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="617">
+    <QUESTIONS>
+        <QUESTION>Người quản lý di sản có thể bán hoặc trao đổi tài sản di sản không?</QUESTION>
+        <QUESTION>Người quản lý di sản cần có sự đồng ý của ai khi muốn định đoạt tài sản di sản?</QUESTION>
+        <QUESTION>Người quản lý di sản cần làm gì nếu vi phạm nghĩa vụ của mình?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người quản lý di sản không được bán, trao đổi, tặng cho, cầm cố, thế chấp hoặc định đoạt tài sản bằng hình thức khác nếu không được những người thừa kế đồng ý bằng văn bản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="617">
+    <QUESTIONS>
+        <QUESTION>Người quản lý di sản có nghĩa vụ thông báo gì cho những người thừa kế?</QUESTION>
+        <QUESTION>Người quản lý di sản cần làm gì nếu gây thiệt hại do vi phạm nghĩa vụ của mình?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người quản lý di sản có nghĩa vụ thông báo về tình trạng di sản cho những người thừa kế và bồi thường thiệt hại nếu vi phạm nghĩa vụ của mình mà gây thiệt hại.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="617">
+    <QUESTIONS>
+        <QUESTION>Người quản lý di sản cần làm gì khi có yêu cầu từ người thừa kế?</QUESTION>
+        <QUESTION>Người quản lý di sản có thể giao lại di sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người quản lý di sản cần giao lại di sản theo yêu cầu của người thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="617">
+    <QUESTIONS>
+        <QUESTION>Người đang chiếm hữu và sử dụng di sản có nghĩa vụ gì?</QUESTION>
+        <QUESTION>Người đang chiếm hữu di sản có thể bán hoặc trao đổi tài sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Người đang chiếm hữu, sử dụng, quản lý di sản có nghĩa vụ bảo quản di sản; không được bán, trao đổi, tặng cho, cầm cố, thế chấp hoặc định đoạt tài sản bằng hình thức khác; thông báo về di sản cho những người thừa kế; bồi thường thiệt hại nếu vi phạm nghĩa vụ của mình mà gây thiệt hại; giao lại di sản theo thỏa thuận trong hợp đồng với người để lại di sản hoặc theo yêu cầu của người thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="618">
+    <QUESTIONS>
+        <QUESTION>Người quản lý di sản theo khoản 1 và khoản 3 Điều 616 có quyền gì trong quan hệ với người thứ ba?</QUESTION>
+        <QUESTION>Người quản lý di sản có quyền yêu cầu thù lao không? Nếu có, theo thỏa thuận nào?</QUESTION>
+        <QUESTION>Người quản lý di sản có quyền yêu cầu thanh toán chi phí gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người quản lý di sản có quyền đại diện cho những người thừa kế trong quan hệ với người thứ ba liên quan đến di sản thừa kế, được hưởng thù lao theo thỏa thuận với những người thừa kế và được thanh toán chi phí bảo quản di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="618">
+    <QUESTIONS>
+        <QUESTION>Người đang chiếm hữu, sử dụng di sản có quyền gì liên quan đến di sản?</QUESTION>
+        <QUESTION>Người quản lý di sản có quyền yêu cầu thù lao từ đâu?</QUESTION>
+        <QUESTION>Người quản lý di sản có quyền yêu cầu thanh toán chi phí gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Người đang chiếm hữu, sử dụng, quản lý di sản có quyền được tiếp tục sử dụng di sản theo thỏa thuận trong hợp đồng với người để lại di sản hoặc được sự đồng ý của những người thừa kế, được hưởng thù lao theo thỏa thuận với những người thừa kế và được thanh toán chi phí bảo quản di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="618">
+    <QUESTIONS>
+        <QUESTION>Trong trường hợp không đạt được thỏa thuận về mức thù lao, người quản lý di sản được hưởng gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Trong trường hợp không đạt được thỏa thuận với những người thừa kế về mức thù lao, người quản lý di sản được hưởng một khoản thù lao hợp lý.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="619">
+    <QUESTIONS>
+        <QUESTION>Trường hợp những người có quyền thừa kế di sản của nhau chết cùng thời điểm sẽ thừa kế di sản như thế nào?</QUESTION>
+        <QUESTION>Di sản của những người chết cùng thời điểm sẽ được phân chia như thế nào?</QUESTION>
+        <QUESTION>Trường hợp thừa kế thế vị có ảnh hưởng gì đến việc thừa kế di sản khi các bên chết cùng thời điểm không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Khi những người có quyền thừa kế di sản của nhau chết cùng thời điểm hoặc không thể xác định được người nào chết trước, họ không được thừa kế di sản của nhau và di sản của mỗi người sẽ do người thừa kế của người đó hưởng, trừ trường hợp thừa kế thế vị theo quy định tại Điều 652.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="620">
+    <QUESTIONS>
+        <QUESTION>Người thừa kế có quyền từ chối nhận di sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người thừa kế có quyền từ chối nhận di sản, trừ trường hợp việc từ chối nhằm trốn tránh việc thực hiện nghĩa vụ tài sản của mình đối với người khác.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="620">
+    <QUESTIONS>
+        <QUESTION>Việc từ chối nhận di sản cần phải thực hiện như thế nào?</QUESTION>
+        <QUESTION>Việc từ chối nhận di sản có cần thông báo cho những ai không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Việc từ chối nhận di sản phải được lập thành văn bản và gửi đến người quản lý di sản, những người thừa kế khác, người được giao nhiệm vụ phân chia di sản để biết.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="620">
+    <QUESTIONS>
+        <QUESTION>Việc từ chối nhận di sản phải được thể hiện trước thời điểm nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Việc từ chối nhận di sản phải được thể hiện trước thời điểm phân chia di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="621">
+    <QUESTIONS>
+        <QUESTION>Những người nào không được quyền hưởng di sản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Những người không được quyền hưởng di sản gồm: 
+        - Người bị kết án về hành vi cố ý xâm phạm tính mạng, sức khỏe hoặc về hành vi ngược đãi nghiêm trọng, hành hạ người để lại di sản, xâm phạm nghiêm trọng danh dự, nhân phẩm của người đó.
+        - Người vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng người để lại di sản.
+        - Người bị kết án về hành vi cố ý xâm phạm tính mạng người thừa kế khác nhằm hưởng một phần hoặc toàn bộ phần di sản mà người thừa kế đó có quyền hưởng.
+        - Người có hành vi lừa dối, cưỡng ép hoặc ngăn cản người để lại di sản trong việc lập di chúc; giả mạo di chúc, sửa chữa di chúc, hủy di chúc, che giấu di chúc nhằm hưởng một phần hoặc toàn bộ di sản trái với ý chí của người để lại di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="621">
+    <QUESTIONS>
+        <QUESTION>Những người không được quyền hưởng di sản có thể nhận di sản nếu người để lại di sản biết hành vi của họ không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Những người không được quyền hưởng di sản vẫn có thể hưởng di sản nếu người để lại di sản đã biết hành vi của những người đó, nhưng vẫn cho họ hưởng di sản theo di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='31' article="622">
+    <QUESTIONS>
+        <QUESTION>Trường hợp không có người thừa kế theo di chúc hoặc pháp luật thì tài sản sẽ thuộc về ai?</QUESTION>
+        <QUESTION>Những trường hợp nào làm cho tài sản không có người nhận thừa kế?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Trường hợp không có người thừa kế theo di chúc, theo pháp luật hoặc có nhưng không được quyền hưởng di sản, từ chối nhận di sản thì tài sản còn lại sau khi đã thực hiện nghĩa vụ về tài sản mà không có người nhận thừa kế thuộc về Nhà nước.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='32' article="623">
+    <QUESTIONS>
+        <QUESTION>Thời hiệu yêu cầu chia di sản đối với bất động sản là bao lâu?</QUESTION>
+        <QUESTION>Thời hiệu yêu cầu chia di sản đối với động sản là bao lâu?</QUESTION>
+        <QUESTION>Khi hết thời hạn yêu cầu chia di sản, di sản sẽ thuộc về ai?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Thời hiệu để người thừa kế yêu cầu chia di sản là 30 năm đối với bất động sản, 10 năm đối với động sản, kể từ thời điểm mở thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='34' article="623">
+    <QUESTIONS>
+        <QUESTION>Di sản sẽ thuộc về ai nếu không có người thừa kế đang quản lý di sản?</QUESTION>
+        <QUESTION>Trường hợp không có người chiếm hữu di sản thì di sản sẽ được xử lý như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Hết thời hạn yêu cầu chia di sản mà không có người thừa kế đang quản lý, di sản sẽ thuộc quyền sở hữu của người đang chiếm hữu theo quy định tại Điều 236 của Bộ luật này, hoặc thuộc về Nhà nước nếu không có người chiếm hữu.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='35' article="623">
+    <QUESTIONS>
+        <QUESTION>Thời hiệu yêu cầu xác nhận quyền thừa kế của người thừa kế là bao lâu?</QUESTION>
+        <QUESTION>Thời gian yêu cầu bác bỏ quyền thừa kế của người khác là bao lâu?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Thời hiệu để người thừa kế yêu cầu xác nhận quyền thừa kế của mình hoặc bác bỏ quyền thừa kế của người khác là 10 năm, kể từ thời điểm mở thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='36' article="623">
+    <QUESTIONS>
+        <QUESTION>Thời hiệu yêu cầu thực hiện nghĩa vụ tài sản của người thừa kế là bao lâu?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Thời hiệu yêu cầu người thừa kế thực hiện nghĩa vụ về tài sản của người chết để lại là 03 năm, kể từ thời điểm mở thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

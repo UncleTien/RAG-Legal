@@ -1,0 +1,614 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>4</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="74">
+        <QUESTIONS>
+            <QUESTION>Một tổ chức được công nhận là pháp nhân khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Một tổ chức được công nhận là pháp nhân khi có đủ các điều kiện: được thành lập theo quy định của Bộ luật này, có cơ cấu tổ chức theo quy định tại Điều 83 của Bộ luật này, có tài sản độc lập và tự chịu trách nhiệm bằng tài sản của mình, nhân danh mình tham gia quan hệ pháp luật một cách độc lập.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="74">
+        <QUESTIONS>
+            <QUESTION>Các cá nhân, pháp nhân có quyền gì liên quan đến việc thành lập pháp nhân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Mọi cá nhân, pháp nhân đều có quyền thành lập pháp nhân, trừ trường hợp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="75">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân thương mại là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân thương mại là pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="75">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân thương mại bao gồm những gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Pháp nhân thương mại bao gồm doanh nghiệp và các tổ chức kinh tế khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="75">
+        <QUESTIONS>
+            <QUESTION>Việc thành lập, hoạt động và chấm dứt pháp nhân thương mại được thực hiện theo những quy định nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc thành lập, hoạt động và chấm dứt pháp nhân thương mại được thực hiện theo quy định của Bộ luật này, Luật doanh nghiệp và quy định khác của pháp luật có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="76">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân phi thương mại là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân phi thương mại là pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận; nếu có lợi nhuận thì cũng không được phân chia cho các thành viên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="76">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân phi thương mại bao gồm những tổ chức nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Pháp nhân phi thương mại bao gồm cơ quan nhà nước, đơn vị vũ trang nhân dân, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện, doanh nghiệp xã hội và các tổ chức phi thương mại khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="76">
+        <QUESTIONS>
+            <QUESTION>Việc thành lập, hoạt động và chấm dứt pháp nhân phi thương mại được thực hiện theo quy định nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc thành lập, hoạt động và chấm dứt pháp nhân phi thương mại được thực hiện theo quy định của Bộ luật này, các luật về tổ chức bộ máy nhà nước và quy định khác của pháp luật có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="77">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có cần điều lệ không?</QUESTION>
+            <QUESTION>Điều lệ của pháp nhân chỉ được áp dụng khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân phải có điều lệ trong trường hợp pháp luật có quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="77">
+        <QUESTIONS>
+            <QUESTION>Điều lệ của pháp nhân có những nội dung chủ yếu nào?</QUESTION>
+            <QUESTION>Điều lệ của pháp nhân có quy định về tên gọi không?</QUESTION>
+            <QUESTION>Điều lệ có yêu cầu về mục đích và phạm vi hoạt động của pháp nhân không?</QUESTION>
+            <QUESTION>Có yêu cầu gì về trụ sở của pháp nhân trong điều lệ?</QUESTION>
+            <QUESTION>Điều lệ có quy định về vốn điều lệ không?</QUESTION>
+            <QUESTION>Cơ cấu tổ chức của pháp nhân có phải được nêu trong điều lệ không?</QUESTION>
+            <QUESTION>Điều lệ có quy định về quyền và nghĩa vụ của thành viên pháp nhân không?</QUESTION>
+            <QUESTION>Điều lệ quy định như thế nào về việc sửa đổi, bổ sung?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Điều lệ của pháp nhân có những nội dung chủ yếu sau đây:
+                a) Tên gọi của pháp nhân;
+                b) Mục đích và phạm vi hoạt động của pháp nhân;
+                c) Trụ sở chính; chi nhánh, văn phòng đại diện, nếu có;
+                d) Vốn điều lệ, nếu có;
+                đ) Đại diện theo pháp luật của pháp nhân;
+                e) Cơ cấu tổ chức; thể thức cử, bầu, bổ nhiệm, miễn nhiệm, cách chức, nhiệm vụ và quyền hạn của các chức danh của cơ quan điều hành và các cơ quan khác;
+                g) Điều kiện trở thành thành viên hoặc không còn là thành viên của pháp nhân, nếu là pháp nhân có thành viên;
+                h) Quyền, nghĩa vụ của các thành viên, nếu là pháp nhân có thành viên;
+                i) Thể thức thông qua quyết định của pháp nhân; nguyên tắc giải quyết tranh chấp nội bộ;
+                k) Thể thức sửa đổi, bổ sung điều lệ;
+                l) Ðiều kiện hợp nhất, sáp nhập, chia, tách, chuyển đổi hình thức, giải thể pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="78">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có cần tên gọi không?</QUESTION>
+            <QUESTION>Tên gọi của pháp nhân phải dùng ngôn ngữ gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân phải có tên gọi bằng tiếng Việt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="78">
+        <QUESTIONS>
+            <QUESTION>Tên gọi của pháp nhân phải thể hiện điều gì?</QUESTION>
+            <QUESTION>Pháp nhân có cần phân biệt tên gọi với các pháp nhân khác không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Tên gọi của pháp nhân phải thể hiện rõ loại hình tổ chức của pháp nhân và phân biệt với các pháp nhân khác trong cùng một lĩnh vực hoạt động.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="78">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có phải sử dụng tên gọi trong giao dịch không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Pháp nhân phải sử dụng tên gọi của mình trong giao dịch dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="78">
+        <QUESTIONS>
+            <QUESTION>Tên gọi của pháp nhân có được pháp luật bảo vệ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Tên gọi của pháp nhân được pháp luật công nhận và bảo vệ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="79">
+        <QUESTIONS>
+            <QUESTION>Trụ sở của pháp nhân là gì?</QUESTION>
+            <QUESTION>Pháp nhân có cần công bố khi thay đổi trụ sở không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trụ sở của pháp nhân là nơi đặt cơ quan điều hành của pháp nhân. Trường hợp thay đổi trụ sở thì pháp nhân phải công bố công khai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="79">
+        <QUESTIONS>
+            <QUESTION>Địa chỉ liên lạc của pháp nhân là gì?</QUESTION>
+            <QUESTION>Pháp nhân có thể chọn địa chỉ liên lạc ở đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Địa chỉ liên lạc của pháp nhân là địa chỉ trụ sở của pháp nhân. Pháp nhân có thể chọn nơi khác làm địa chỉ liên lạc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="80">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân được thành lập theo pháp luật Việt Nam có quốc tịch gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Pháp nhân được thành lập theo pháp luật Việt Nam là pháp nhân Việt Nam.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="81">
+        <QUESTIONS>
+            <QUESTION>Tài sản của pháp nhân bao gồm những gì?</QUESTION>
+            <QUESTION>Tài sản của pháp nhân được xác lập quyền sở hữu theo quy định nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Tài sản của pháp nhân bao gồm vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác mà pháp nhân được xác lập quyền sở hữu theo quy định của Bộ luật này, luật khác có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="82">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có thể được thành lập theo những hình thức nào?</QUESTION>
+            <QUESTION>Cơ quan nào có thẩm quyền quyết định thành lập pháp nhân?</QUESTION>
+            <QUESTION>Pháp nhân có thể được thành lập bởi ai ngoài cá nhân và cơ quan nhà nước không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân được thành lập theo sáng kiến của cá nhân, pháp nhân hoặc theo quyết định của cơ quan nhà nước có thẩm quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="82">
+        <QUESTIONS>
+            <QUESTION>Việc đăng ký pháp nhân bao gồm những gì?</QUESTION>
+            <QUESTION>Các loại đăng ký nào cần phải thực hiện trong quá trình thành lập pháp nhân?</QUESTION>
+            <QUESTION>Việc đăng ký thay đổi pháp nhân có cần tuân thủ quy định pháp luật nào không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Đăng ký pháp nhân bao gồm đăng ký thành lập, đăng ký thay đổi và đăng ký khác theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="82">
+        <QUESTIONS>
+            <QUESTION>Việc đăng ký pháp nhân có yêu cầu gì đặc biệt không?</QUESTION>
+            <QUESTION>Việc công bố công khai đăng ký pháp nhân có nghĩa là gì?</QUESTION>
+            <QUESTION>Công khai đăng ký pháp nhân có tác dụng gì đối với các bên liên quan?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Việc đăng ký pháp nhân phải được công bố công khai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="83">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có cần phải có cơ quan điều hành không?</QUESTION>
+            <QUESTION>Cơ quan điều hành của pháp nhân có nhiệm vụ gì?</QUESTION>
+            <QUESTION>Cơ cấu tổ chức của cơ quan điều hành được quy định như thế nào?</QUESTION>
+            <QUESTION>Cơ quan điều hành có quyền hạn gì trong pháp nhân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân phải có cơ quan điều hành. Tổ chức, nhiệm vụ và quyền hạn của cơ quan điều hành của pháp nhân được quy định trong điều lệ của pháp nhân hoặc trong quyết định thành lập pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="83">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có thể có những cơ quan nào ngoài cơ quan điều hành?</QUESTION>
+            <QUESTION>Các cơ quan khác của pháp nhân được thành lập như thế nào?</QUESTION>
+            <QUESTION>Các cơ quan khác trong pháp nhân có tuân thủ quy định nào không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Pháp nhân có cơ quan khác theo quyết định của pháp nhân hoặc theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="84">
+        <QUESTIONS>
+            <QUESTION>Chi nhánh và văn phòng đại diện của pháp nhân có phải là pháp nhân không?</QUESTION>
+            <QUESTION>Chi nhánh và văn phòng đại diện có cùng quyền lợi và nghĩa vụ như pháp nhân không?</QUESTION>
+            <QUESTION>Chi nhánh và văn phòng đại diện có phải là đơn vị độc lập pháp lý không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Chi nhánh, văn phòng đại diện là đơn vị phụ thuộc của pháp nhân, không phải là pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="84">
+        <QUESTIONS>
+            <QUESTION>Chi nhánh có thể thực hiện toàn bộ hoặc chỉ một phần chức năng của pháp nhân, đúng không?</QUESTION>
+            <QUESTION>Chi nhánh có thể thực hiện các chức năng khác ngoài những chức năng của pháp nhân không?</QUESTION>
+            <QUESTION>Pháp nhân có thể giới hạn chức năng của chi nhánh không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Chi nhánh có nhiệm vụ thực hiện toàn bộ hoặc một phần chức năng của pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="84">
+        <QUESTIONS>
+            <QUESTION>Văn phòng đại diện của pháp nhân có nhiệm vụ đại diện pháp nhân trong phạm vi nào?</QUESTION>
+            <QUESTION>Văn phòng đại diện có thể thực hiện những công việc ngoài nhiệm vụ đại diện không?</QUESTION>
+            <QUESTION>Văn phòng đại diện có trách nhiệm bảo vệ lợi ích pháp nhân ở đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Văn phòng đại diện có nhiệm vụ đại diện trong phạm vi do pháp nhân giao, bảo vệ lợi ích của pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="84">
+        <QUESTIONS>
+            <QUESTION>Việc thành lập chi nhánh và văn phòng đại diện của pháp nhân phải tuân theo quy trình nào?</QUESTION>
+            <QUESTION>Chấm dứt hoạt động của chi nhánh và văn phòng đại diện có yêu cầu công khai không?</QUESTION>
+            <QUESTION>Pháp nhân có phải công bố công khai khi thay đổi chi nhánh hoặc văn phòng đại diện không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Việc thành lập, chấm dứt chi nhánh, văn phòng đại diện của pháp nhân phải được đăng ký theo quy định của pháp luật và công bố công khai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="84">
+        <QUESTIONS>
+            <QUESTION>Chi nhánh, văn phòng đại diện có cần phải đăng ký theo pháp luật không?</QUESTION>
+            <QUESTION>Việc đăng ký chi nhánh và văn phòng đại diện có phải công khai không?</QUESTION>
+            <QUESTION>Pháp nhân có thể giữ bí mật khi thay đổi chi nhánh hay văn phòng đại diện không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Chi nhánh, văn phòng đại diện phải đăng ký và công bố công khai theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="84">
+        <QUESTIONS>
+            <QUESTION>Người đứng đầu chi nhánh và văn phòng đại diện có quyền quyết định gì về hoạt động của chi nhánh/văn phòng đại diện?</QUESTION>
+            <QUESTION>Người đứng đầu chi nhánh có thể thay đổi quyết định được ủy quyền không?</QUESTION>
+            <QUESTION>Pháp nhân có thể yêu cầu người đứng đầu chi nhánh thực hiện các nhiệm vụ khác ngoài ủy quyền không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Người đứng đầu chi nhánh, văn phòng đại diện thực hiện nhiệm vụ theo ủy quyền của pháp nhân trong phạm vi và thời hạn được ủy quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="84">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có quyền và nghĩa vụ gì liên quan đến các giao dịch do chi nhánh và văn phòng đại diện thực hiện?</QUESTION>
+            <QUESTION>Pháp nhân phải chịu trách nhiệm như thế nào về giao dịch của chi nhánh và văn phòng đại diện?</QUESTION>
+            <QUESTION>Pháp nhân có thể từ chối trách nhiệm với giao dịch của chi nhánh không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='6'>Pháp nhân có quyền, nghĩa vụ dân sự phát sinh từ giao dịch dân sự do chi nhánh, văn phòng đại diện xác lập, thực hiện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='31' article="85">
+        <QUESTIONS>
+            <QUESTION>Đại diện của pháp nhân có thể là đại diện theo hình thức nào?</QUESTION>
+            <QUESTION>Pháp nhân có thể chọn hình thức đại diện theo pháp luật hoặc ủy quyền không?</QUESTION>
+            <QUESTION>Đại diện theo pháp luật và đại diện theo ủy quyền có điểm gì khác nhau?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Đại diện của pháp nhân có thể là đại diện theo pháp luật hoặc đại diện theo ủy quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='32' article="85">
+        <QUESTIONS>
+            <QUESTION>Người đại diện của pháp nhân phải tuân thủ quy định nào?</QUESTION>
+            <QUESTION>Có những quy định nào về đại diện của pháp nhân theo Chương IX Phần này?</QUESTION>
+            <QUESTION>Pháp nhân có thể tự do quyết định về đại diện hay không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Người đại diện của pháp nhân phải tuân theo quy định về đại diện tại Chương IX Phần này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='33' article="86">
+        <QUESTIONS>
+            <QUESTION>Năng lực pháp luật dân sự của pháp nhân là gì?</QUESTION>
+            <QUESTION>Năng lực pháp luật dân sự của pháp nhân có bị hạn chế không?</QUESTION>
+            <QUESTION>Có những trường hợp nào mà năng lực pháp luật dân sự của pháp nhân bị hạn chế?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Năng lực pháp luật dân sự của pháp nhân là khả năng của pháp nhân có các quyền, nghĩa vụ dân sự. Năng lực pháp luật dân sự của pháp nhân không bị hạn chế, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='34' article="86">
+        <QUESTIONS>
+            <QUESTION>Năng lực pháp luật dân sự của pháp nhân phát sinh từ thời điểm nào?</QUESTION>
+            <QUESTION>Khi nào năng lực pháp luật dân sự của pháp nhân phát sinh nếu pháp nhân phải đăng ký hoạt động?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Năng lực pháp luật dân sự của pháp nhân phát sinh từ thời điểm được cơ quan nhà nước có thẩm quyền thành lập hoặc cho phép thành lập; nếu pháp nhân phải đăng ký hoạt động thì năng lực pháp luật dân sự của pháp nhân phát sinh từ thời điểm ghi vào sổ đăng ký.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='35' article="86">
+        <QUESTIONS>
+            <QUESTION>Khi nào năng lực pháp luật dân sự của pháp nhân chấm dứt?</QUESTION>
+            <QUESTION>Pháp nhân mất năng lực pháp luật dân sự khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Năng lực pháp luật dân sự của pháp nhân chấm dứt kể từ thời điểm chấm dứt pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='36' article="87">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân phải chịu trách nhiệm dân sự về việc gì?</QUESTION>
+            <QUESTION>Pháp nhân chịu trách nhiệm dân sự về nghĩa vụ do ai xác lập?</QUESTION>
+            <QUESTION>Pháp nhân có thể chịu trách nhiệm về nghĩa vụ do sáng lập viên hoặc đại diện của sáng lập viên xác lập không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân phải chịu trách nhiệm dân sự về việc thực hiện quyền, nghĩa vụ dân sự do người đại diện xác lập, thực hiện nhân danh pháp nhân. Pháp nhân cũng chịu trách nhiệm dân sự về nghĩa vụ do sáng lập viên hoặc đại diện của sáng lập viên xác lập, thực hiện để thành lập, đăng ký pháp nhân, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='37' article="87">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân chịu trách nhiệm dân sự bằng gì?</QUESTION>
+            <QUESTION>Pháp nhân có chịu trách nhiệm thay cho người của pháp nhân không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Pháp nhân chịu trách nhiệm dân sự bằng tài sản của mình; không chịu trách nhiệm thay cho người của pháp nhân đối với nghĩa vụ dân sự do người của pháp nhân xác lập, thực hiện không nhân danh pháp nhân, trừ trường hợp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='38' article="87">
+        <QUESTIONS>
+            <QUESTION>Người của pháp nhân có chịu trách nhiệm dân sự thay cho pháp nhân không?</QUESTION>
+            <QUESTION>Khi nào người của pháp nhân mới phải chịu trách nhiệm dân sự thay cho pháp nhân?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người của pháp nhân không chịu trách nhiệm dân sự thay cho pháp nhân đối với nghĩa vụ dân sự do pháp nhân xác lập, thực hiện, trừ trường hợp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='39' article="88">
+        <QUESTIONS>
+            <QUESTION>Các pháp nhân có thể hợp nhất thành cái gì?</QUESTION>
+            <QUESTION>Pháp nhân hợp nhất sẽ trở thành pháp nhân nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Các pháp nhân có thể hợp nhất thành một pháp nhân mới.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='40' article="88">
+        <QUESTIONS>
+            <QUESTION>Khi hợp nhất, các pháp nhân cũ có còn tồn tại không?</QUESTION>
+            <QUESTION>Quyền và nghĩa vụ dân sự của pháp nhân cũ sẽ như thế nào sau khi hợp nhất?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Sau khi hợp nhất, các pháp nhân cũ chấm dứt tồn tại kể từ thời điểm pháp nhân mới được thành lập; quyền và nghĩa vụ dân sự của pháp nhân cũ được chuyển giao cho pháp nhân mới.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='41' article="89">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có thể sáp nhập vào pháp nhân nào?</QUESTION>
+            <QUESTION>Pháp nhân được sáp nhập sẽ được gọi là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Một pháp nhân có thể được sáp nhập vào một pháp nhân khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='42' article="89">
+        <QUESTIONS>
+            <QUESTION>Khi sáp nhập, pháp nhân được sáp nhập có còn tồn tại không?</QUESTION>
+            <QUESTION>Quyền và nghĩa vụ dân sự của pháp nhân được sáp nhập sẽ như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Sau khi sáp nhập, pháp nhân được sáp nhập chấm dứt tồn tại; quyền và nghĩa vụ dân sự của pháp nhân được sáp nhập được chuyển giao cho pháp nhân sáp nhập.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='43' article="90">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có thể chia thành bao nhiêu pháp nhân?</QUESTION>
+            <QUESTION>Việc chia pháp nhân có ảnh hưởng gì đến pháp nhân cũ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Một pháp nhân có thể chia thành nhiều pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='44' article="90">
+        <QUESTIONS>
+            <QUESTION>Khi chia pháp nhân, pháp nhân bị chia có còn tồn tại không?</QUESTION>
+            <QUESTION>Quyền và nghĩa vụ dân sự của pháp nhân bị chia sẽ được xử lý như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Sau khi chia, pháp nhân bị chia chấm dứt tồn tại; quyền, nghĩa vụ dân sự của pháp nhân bị chia được chuyển giao cho các pháp nhân mới.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='45' article="91">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có thể tách thành bao nhiêu pháp nhân?</QUESTION>
+            <QUESTION>Việc tách pháp nhân có ảnh hưởng gì đến pháp nhân cũ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Một pháp nhân có thể tách thành nhiều pháp nhân.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='46' article="91">
+        <QUESTIONS>
+            <QUESTION>Khi tách pháp nhân, pháp nhân bị tách có còn tồn tại không?</QUESTION>
+            <QUESTION>Pháp nhân được tách có quyền và nghĩa vụ gì sau khi tách?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Sau khi tách, pháp nhân bị tách và pháp nhân được tách thực hiện quyền, nghĩa vụ dân sự của mình phù hợp với mục đích hoạt động.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='47' article="92">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có thể chuyển đổi thành loại pháp nhân nào?</QUESTION>
+            <QUESTION>Pháp nhân có thể chuyển đổi hình thức thành bao nhiêu lần?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân có thể được chuyển đổi hình thức thành pháp nhân khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='48' article="92">
+        <QUESTIONS>
+            <QUESTION>Khi pháp nhân chuyển đổi hình thức, pháp nhân cũ còn tồn tại không?</QUESTION>
+            <QUESTION>Pháp nhân chuyển đổi có quyền và nghĩa vụ gì sau khi chuyển đổi?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Sau khi chuyển đổi hình thức, pháp nhân được chuyển đổi chấm dứt tồn tại kể từ thời điểm pháp nhân chuyển đổi được thành lập; pháp nhân chuyển đổi kế thừa quyền, nghĩa vụ dân sự của pháp nhân được chuyển đổi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='49' article="93">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có thể giải thể trong những trường hợp nào?</QUESTION>
+            <QUESTION>Pháp nhân có thể giải thể theo điều lệ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân giải thể trong trường hợp: theo quy định của điều lệ; theo quyết định của cơ quan nhà nước có thẩm quyền; hết thời hạn hoạt động được ghi trong điều lệ hoặc trong quyết định của cơ quan nhà nước có thẩm quyền; trường hợp khác theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='50' article="93">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân có cần thực hiện nghĩa vụ gì trước khi giải thể không?</QUESTION>
+            <QUESTION>Pháp nhân có phải thanh toán hết các nghĩa vụ tài sản khi giải thể?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trước khi giải thể, pháp nhân phải thực hiện đầy đủ các nghĩa vụ về tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='51' article="94">
+        <QUESTIONS>
+            <QUESTION>Tài sản của pháp nhân bị giải thể được thanh toán theo thứ tự nào?</QUESTION>
+            <QUESTION>Chi phí nào được ưu tiên thanh toán khi pháp nhân bị giải thể?</QUESTION>
+            <QUESTION>Những khoản nợ nào được thanh toán sau chi phí giải thể?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Tài sản của pháp nhân bị giải thể được thanh toán theo thứ tự sau đây: 
+            a) Chi phí giải thể pháp nhân; 
+            b) Các khoản nợ lương, trợ cấp thôi việc, bảo hiểm xã hội, bảo hiểm y tế đối với người lao động theo quy định của pháp luật và các quyền lợi khác của người lao động theo thỏa ước lao động tập thể và hợp đồng lao động đã ký kết; 
+            c) Nợ thuế và các khoản nợ khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='52' article="94">
+        <QUESTIONS>
+            <QUESTION>Sau khi thanh toán hết các khoản nợ, phần tài sản còn lại thuộc về ai?</QUESTION>
+            <QUESTION>Trong trường hợp nào phần tài sản còn lại không thuộc về chủ sở hữu pháp nhân hoặc các thành viên góp vốn?</QUESTION>
+            <QUESTION>Điều gì xảy ra với tài sản của pháp nhân nếu pháp luật có quy định khác?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Sau khi đã thanh toán hết chi phí giải thể pháp nhân và các khoản nợ, phần còn lại thuộc về chủ sở hữu pháp nhân, các thành viên góp vốn, trừ trường hợp quy định tại khoản 3 Điều này hoặc pháp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='53' article="94">
+        <QUESTIONS>
+            <QUESTION>Tài sản còn lại của quỹ xã hội, quỹ từ thiện sau khi giải thể được xử lý như thế nào?</QUESTION>
+            <QUESTION>Điều gì xảy ra nếu không có quỹ khác có cùng mục đích hoạt động để nhận tài sản chuyển giao?</QUESTION>
+            <QUESTION>Khi nào tài sản của quỹ bị giải thể thuộc về Nhà nước?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp quỹ xã hội, quỹ từ thiện đã thanh toán hết chi phí giải thể và các khoản nợ quy định tại khoản 1 Điều này, tài sản còn lại được chuyển giao cho quỹ khác có cùng mục đích hoạt động. 
+            Trường hợp không có quỹ khác có cùng mục đích hoạt động nhận tài sản chuyển giao hoặc quỹ bị giải thể do hoạt động vi phạm điều cấm của luật, trái đạo đức xã hội thì tài sản của quỹ bị giải thể thuộc về Nhà nước.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='54' article="95">
+        <QUESTIONS>
+            <QUESTION>Phá sản pháp nhân được thực hiện theo quy định nào?</QUESTION>
+            <QUESTION>Việc phá sản pháp nhân tuân theo pháp luật nào?</QUESTION>
+            <QUESTION>Quy trình phá sản pháp nhân được quy định ở đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Việc phá sản pháp nhân được thực hiện theo quy định của pháp luật về phá sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='55' article="96">
+        <QUESTIONS>
+            <QUESTION>Khi nào pháp nhân chấm dứt tồn tại?</QUESTION>
+            <QUESTION>Những trường hợp nào dẫn đến việc chấm dứt tồn tại của pháp nhân?</QUESTION>
+            <QUESTION>Pháp nhân bị tuyên bố phá sản có phải chấm dứt tồn tại không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Pháp nhân chấm dứt tồn tại trong các trường hợp sau đây: 
+            a) Hợp nhất, sáp nhập, chia, chuyển đổi hình thức, giải thể pháp nhân theo quy định tại các điều 88, 89, 90, 92 và 93 của Bộ luật này; 
+            b) Bị tuyên bố phá sản theo quy định của pháp luật về phá sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='56' article="96">
+        <QUESTIONS>
+            <QUESTION>Khi nào pháp nhân chấm dứt tồn tại theo thời điểm?</QUESTION>
+            <QUESTION>Pháp nhân chấm dứt tồn tại từ thời điểm nào?</QUESTION>
+            <QUESTION>Thời điểm chấm dứt tồn tại của pháp nhân được xác định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Pháp nhân chấm dứt tồn tại kể từ thời điểm xóa tên trong sổ đăng ký pháp nhân hoặc từ thời điểm được xác định trong quyết định của cơ quan nhà nước có thẩm quyền.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='57' article="96">
+        <QUESTIONS>
+            <QUESTION>Tài sản của pháp nhân được giải quyết thế nào khi pháp nhân chấm dứt tồn tại?</QUESTION>
+            <QUESTION>Khi pháp nhân chấm dứt tồn tại, tài sản được xử lý theo quy định nào?</QUESTION>
+            <QUESTION>Việc giải quyết tài sản của pháp nhân chấm dứt tồn tại có phải tuân theo quy định của pháp luật không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Khi pháp nhân chấm dứt tồn tại, tài sản của pháp nhân được giải quyết theo quy định của Bộ luật này và quy định khác của pháp luật có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

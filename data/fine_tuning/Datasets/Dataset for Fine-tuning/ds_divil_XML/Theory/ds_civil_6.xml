@@ -1,0 +1,107 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>6</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="101">
+        <QUESTIONS>
+            <QUESTION>Hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân có thể tham gia quan hệ dân sự như thế nào?</QUESTION>
+            <QUESTION>Thành viên của hộ gia đình, tổ hợp tác có thể ủy quyền cho người đại diện tham gia quan hệ dân sự không?</QUESTION>
+            <QUESTION>Khi có sự thay đổi người đại diện, pháp nhân có phải thông báo cho bên tham gia quan hệ dân sự không?</QUESTION>
+            <QUESTION>Thành viên của hộ gia đình, tổ hợp tác không có tư cách pháp nhân có thể là chủ thể của quan hệ dân sự không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi hộ gia đình, tổ hợp tác, tổ chức không có tư cách pháp nhân tham gia quan hệ dân sự, các thành viên của họ sẽ là chủ thể tham gia giao dịch hoặc ủy quyền cho người đại diện tham gia giao dịch dân sự. Việc ủy quyền phải lập thành văn bản và thông báo khi thay đổi người đại diện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="101">
+        <QUESTIONS>
+            <QUESTION>Hộ gia đình sử dụng đất có quy định về xác định chủ thể trong quan hệ dân sự không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Việc xác định chủ thể của quan hệ dân sự có sự tham gia của hộ gia đình sử dụng đất phải tuân theo quy định của Luật đất đai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="102">
+        <QUESTIONS>
+            <QUESTION>Cách xác định tài sản chung của các thành viên hộ gia đình được quy định như thế nào?</QUESTION>
+            <QUESTION>Quyền và nghĩa vụ đối với tài sản chung của hộ gia đình được xác định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Tài sản chung của các thành viên hộ gia đình, quyền và nghĩa vụ đối với tài sản này được xác định theo Điều 212 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="102">
+        <QUESTIONS>
+            <QUESTION>Cách xác định tài sản chung của các thành viên tổ hợp tác được quy định ở đâu?</QUESTION>
+            <QUESTION>Quyền và nghĩa vụ đối với tài sản chung của tổ hợp tác được xác định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Tài sản chung của các thành viên tổ hợp tác, quyền và nghĩa vụ đối với tài sản này được xác định theo Điều 506 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="102">
+        <QUESTIONS>
+            <QUESTION>Quy định về tài sản chung của các thành viên tổ chức khác không có tư cách pháp nhân là gì?</QUESTION>
+            <QUESTION>Quyền và nghĩa vụ đối với tài sản chung của tổ chức khác không có tư cách pháp nhân được xác định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Tài sản chung của các thành viên tổ chức khác không có tư cách pháp nhân, quyền và nghĩa vụ đối với tài sản này được xác định theo thỏa thuận của các thành viên, trừ trường hợp pháp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="103">
+        <QUESTIONS>
+            <QUESTION>Nghĩa vụ dân sự phát sinh từ việc tham gia quan hệ dân sự của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân được bảo đảm bằng gì?</QUESTION>
+            <QUESTION>Các thành viên hộ gia đình, tổ hợp tác, tổ chức không có tư cách pháp nhân phải thực hiện nghĩa vụ dân sự như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Nghĩa vụ dân sự phát sinh từ việc tham gia quan hệ dân sự của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân được bảo đảm thực hiện bằng tài sản chung của các thành viên.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="103">
+        <QUESTIONS>
+            <QUESTION>Trường hợp các thành viên không có hoặc không đủ tài sản chung thì người có quyền yêu cầu thực hiện nghĩa vụ như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trường hợp các thành viên không có hoặc không đủ tài sản chung để thực hiện nghĩa vụ chung thì người có quyền có thể yêu cầu các thành viên thực hiện nghĩa vụ theo quy định tại Điều 288 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="103">
+        <QUESTIONS>
+            <QUESTION>Khi các thành viên không có thỏa thuận hoặc hợp đồng hợp tác thì trách nhiệm dân sự được xác định như thế nào?</QUESTION>
+            <QUESTION>Cách xác định trách nhiệm dân sự của các thành viên trong trường hợp không có thỏa thuận hoặc hợp đồng hợp tác là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp các bên không có thỏa thuận, hợp đồng hợp tác hoặc luật không có quy định khác thì các thành viên chịu trách nhiệm dân sự theo phần tương ứng với phần đóng góp tài sản của mình, nếu không xác định được theo phần tương ứng thì xác định theo phần bằng nhau.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="104">
+        <QUESTIONS>
+            <QUESTION>Hậu quả pháp lý của giao dịch dân sự do thành viên không có quyền đại diện xác lập được áp dụng như thế nào?</QUESTION>
+            <QUESTION>Khi thành viên xác lập giao dịch vượt quá phạm vi đại diện thì hậu quả pháp lý được xử lý ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Hậu quả pháp lý của giao dịch dân sự do thành viên không có quyền đại diện hoặc vượt quá phạm vi đại diện xác lập, thực hiện được áp dụng theo quy định tại các Điều 130, 142 và 143 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="104">
+        <QUESTIONS>
+            <QUESTION>Khi giao dịch dân sự do bên không có quyền đại diện gây thiệt hại cho các thành viên hoặc người thứ ba, bên gây thiệt hại phải làm gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Giao dịch dân sự do bên không có quyền đại diện hoặc vượt quá phạm vi đại diện xác lập, thực hiện mà gây thiệt hại cho thành viên khác hoặc người thứ ba thì phải bồi thường cho người bị thiệt hại.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

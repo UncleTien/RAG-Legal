@@ -1,0 +1,746 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>22</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="624">
+    <QUESTIONS>
+        <QUESTION>Di chúc là gì?</QUESTION>
+        <QUESTION>Di chúc thể hiện điều gì từ người để lại tài sản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Di chúc là sự thể hiện ý chí của cá nhân nhằm chuyển tài sản của mình cho người khác sau khi chết.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="625">
+    <QUESTIONS>
+        <QUESTION>Ai có quyền lập di chúc?</QUESTION>
+        <QUESTION>Điều kiện để một người thành niên lập di chúc là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người thành niên có đủ điều kiện theo quy định tại điểm a khoản 1 Điều 630 của Bộ luật này có quyền lập di chúc để định đoạt tài sản của mình.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="625">
+    <QUESTIONS>
+        <QUESTION>Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có quyền lập di chúc không?</QUESTION>
+        <QUESTION>Điều kiện để người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi lập di chúc là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi được lập di chúc, nếu được cha, mẹ hoặc người giám hộ đồng ý về việc lập di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="626">
+    <QUESTIONS>
+        <QUESTION>Người lập di chúc có quyền gì trong việc chỉ định người thừa kế?</QUESTION>
+        <QUESTION>Người lập di chúc có thể truất quyền hưởng di sản của người thừa kế không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người lập di chúc có quyền chỉ định người thừa kế; truất quyền hưởng di sản của người thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="626">
+    <QUESTIONS>
+        <QUESTION>Người lập di chúc có quyền phân định phần di sản cho từng người thừa kế như thế nào?</QUESTION>
+        <QUESTION>Người lập di chúc có thể phân chia tài sản ra sao trong khối di sản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Người lập di chúc có quyền phân định phần di sản cho từng người thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="626">
+    <QUESTIONS>
+        <QUESTION>Người lập di chúc có quyền dành một phần tài sản trong khối di sản để làm gì?</QUESTION>
+        <QUESTION>Người lập di chúc có thể dùng tài sản trong khối di sản cho mục đích gì ngoài việc chia cho người thừa kế?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Người lập di chúc có quyền dành một phần tài sản trong khối di sản để di tặng, thờ cúng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="626">
+    <QUESTIONS>
+        <QUESTION>Người lập di chúc có thể giao nghĩa vụ cho người thừa kế không?</QUESTION>
+        <QUESTION>Người lập di chúc có thể yêu cầu người thừa kế thực hiện nghĩa vụ gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='4'>Người lập di chúc có quyền giao nghĩa vụ cho người thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="626">
+    <QUESTIONS>
+        <QUESTION>Người lập di chúc có quyền chỉ định ai trong việc quản lý di sản?</QUESTION>
+        <QUESTION>Người lập di chúc có thể chỉ định ai để phân chia di sản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='5'>Người lập di chúc có quyền chỉ định người giữ di chúc, người quản lý di sản, người phân chia di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="627">
+    <QUESTIONS>
+        <QUESTION>Di chúc phải được lập như thế nào để hợp lệ?</QUESTION>
+        <QUESTION>Di chúc có thể được lập bằng hình thức nào ngoài văn bản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Di chúc phải được lập thành văn bản; nếu không thể lập được di chúc bằng văn bản thì có thể di chúc miệng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="628">
+    <QUESTIONS>
+        <QUESTION>Di chúc bằng văn bản bao gồm những loại nào?</QUESTION>
+        <QUESTION>Di chúc bằng văn bản không có người làm chứng là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Di chúc bằng văn bản bao gồm di chúc bằng văn bản không có người làm chứng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="628">
+    <QUESTIONS>
+        <QUESTION>Di chúc bằng văn bản có người làm chứng là gì?</QUESTION>
+        <QUESTION>Di chúc có người làm chứng cần phải có những yếu tố nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Di chúc bằng văn bản có người làm chứng là loại di chúc được lập và có sự chứng nhận của một hoặc nhiều người làm chứng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="628">
+    <QUESTIONS>
+        <QUESTION>Di chúc bằng văn bản có công chứng là gì?</QUESTION>
+        <QUESTION>Di chúc có công chứng có ưu điểm gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Di chúc bằng văn bản có công chứng là loại di chúc đã được công chứng bởi cơ quan có thẩm quyền.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="628">
+    <QUESTIONS>
+        <QUESTION>Di chúc bằng văn bản có chứng thực là gì?</QUESTION>
+        <QUESTION>Di chúc có chứng thực có khác biệt gì so với các loại di chúc khác?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='4'>Di chúc bằng văn bản có chứng thực là loại di chúc được chứng thực bởi cơ quan nhà nước có thẩm quyền.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="629">
+    <QUESTIONS>
+        <QUESTION>Di chúc miệng được lập trong trường hợp nào?</QUESTION>
+        <QUESTION>Điều kiện để lập di chúc miệng là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Di chúc miệng được lập trong trường hợp tính mạng của người lập di chúc bị cái chết đe dọa và không thể lập di chúc bằng văn bản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="629">
+    <QUESTIONS>
+        <QUESTION>Di chúc miệng có bị hủy bỏ không?</QUESTION>
+        <QUESTION>Thời gian bao lâu di chúc miệng bị hủy bỏ?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Di chúc miệng sẽ bị hủy bỏ nếu sau 03 tháng kể từ thời điểm lập di chúc miệng, người lập di chúc còn sống, minh mẫn và sáng suốt.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="630">
+    <QUESTIONS>
+        <QUESTION>Di chúc hợp pháp có những điều kiện gì?</QUESTION>
+        <QUESTION>Điều kiện để di chúc hợp pháp là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Di chúc hợp pháp phải có đủ các điều kiện: Người lập di chúc minh mẫn, sáng suốt và không bị lừa dối, đe doạ, cưỡng ép; Nội dung di chúc không vi phạm điều cấm của luật và không trái đạo đức xã hội; Hình thức di chúc không trái quy định của luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="630">
+    <QUESTIONS>
+        <QUESTION>Di chúc của người từ đủ 15 tuổi đến chưa đủ 18 tuổi phải đáp ứng yêu cầu gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Di chúc của người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi phải được lập thành văn bản và phải có sự đồng ý của cha, mẹ hoặc người giám hộ về việc lập di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="630">
+    <QUESTIONS>
+        <QUESTION>Di chúc của người bị hạn chế về thể chất hoặc không biết chữ cần phải làm gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Di chúc của người bị hạn chế về thể chất hoặc không biết chữ phải được người làm chứng lập thành văn bản và có công chứng hoặc chứng thực.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="630">
+    <QUESTIONS>
+        <QUESTION>Di chúc bằng văn bản không có công chứng, chứng thực có được coi là hợp pháp không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='4'>Di chúc bằng văn bản không có công chứng, chứng thực chỉ được coi là hợp pháp nếu có đủ các điều kiện được quy định tại khoản 1 Điều này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="630">
+    <QUESTIONS>
+        <QUESTION>Di chúc miệng có được coi là hợp pháp không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='5'>Di chúc miệng được coi là hợp pháp nếu người lập di chúc thể hiện ý chí cuối cùng trước mặt ít nhất hai người làm chứng và người làm chứng ghi chép lại, cùng ký tên hoặc điểm chỉ. Trong thời hạn 05 ngày làm việc, di chúc phải được công chứng viên hoặc cơ quan có thẩm quyền chứng thực xác nhận chữ ký hoặc điểm chỉ của người làm chứng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="631">
+    <QUESTIONS>
+        <QUESTION>Di chúc gồm những nội dung chủ yếu nào?</QUESTION>
+        <QUESTION>Những nội dung nào cần có trong di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Di chúc gồm các nội dung chủ yếu: Ngày, tháng, năm lập di chúc; Họ, tên và nơi cư trú của người lập di chúc; Họ, tên người, cơ quan, tổ chức được hưởng di sản; Di sản để lại và nơi có di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="631">
+    <QUESTIONS>
+        <QUESTION>Di chúc có thể có những nội dung gì ngoài những yêu cầu quy định trong Điều này?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Ngoài các nội dung quy định tại khoản 1, di chúc có thể có các nội dung khác.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="631">
+    <QUESTIONS>
+        <QUESTION>Di chúc có những yêu cầu gì về cách viết và ký tên?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Di chúc không được viết tắt hoặc viết bằng ký hiệu, nếu di chúc gồm nhiều trang thì mỗi trang phải được ghi số thứ tự và có chữ ký hoặc điểm chỉ của người lập di chúc. Trường hợp di chúc có sự tẩy xóa, sửa chữa thì người tự viết di chúc hoặc người làm chứng phải ký tên bên cạnh chỗ tẩy xóa, sửa chữa.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="632">
+    <QUESTIONS>
+        <QUESTION>Điều 632 quy định ai không được làm chứng cho việc lập di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người thừa kế theo di chúc hoặc theo pháp luật của người lập di chúc không được làm chứng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="632">
+    <QUESTIONS>
+        <QUESTION>Điều 632 quy định ai là người không thể làm chứng do quyền, nghĩa vụ tài sản liên quan tới di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Những người có quyền, nghĩa vụ tài sản liên quan tới nội dung di chúc không thể làm chứng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="632">
+    <QUESTIONS>
+        <QUESTION>Điều 632 quy định những ai không đủ năng lực để làm chứng cho việc lập di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Những người chưa thành niên, người mất năng lực hành vi dân sự, hoặc người có khó khăn trong nhận thức, làm chủ hành vi không được làm chứng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="633">
+    <QUESTIONS>
+        <QUESTION>Điều 633 quy định như thế nào về việc lập di chúc bằng văn bản không có người làm chứng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Người lập di chúc phải tự viết và ký vào bản di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="633">
+    <QUESTIONS>
+        <QUESTION>Điều 633 yêu cầu tuân thủ quy định nào khi lập di chúc bằng văn bản không có người làm chứng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Việc lập di chúc bằng văn bản không có người làm chứng phải tuân theo quy định tại Điều 631 của Bộ luật này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="634">
+    <QUESTIONS>
+        <QUESTION>Điều 634 quy định như thế nào về việc lập di chúc bằng văn bản có người làm chứng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Trường hợp người lập di chúc không tự mình viết bản di chúc thì có thể tự mình đánh máy hoặc nhờ người khác viết hoặc đánh máy bản di chúc, nhưng phải có ít nhất là hai người làm chứng. Người lập di chúc phải ký hoặc điểm chỉ vào bản di chúc trước mặt những người làm chứng; những người làm chứng xác nhận chữ ký, điểm chỉ của người lập di chúc và ký vào bản di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="634">
+    <QUESTIONS>
+        <QUESTION>Điều 634 yêu cầu tuân thủ quy định nào khi lập di chúc bằng văn bản có người làm chứng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Việc lập di chúc bằng văn bản có người làm chứng phải tuân theo quy định tại Điều 631 và Điều 632 của Bộ luật này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='31' article="635">
+    <QUESTIONS>
+        <QUESTION>Điều 635 quy định về việc di chúc có công chứng hoặc chứng thực như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Người lập di chúc có thể yêu cầu công chứng hoặc chứng thực bản di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='32' article="636">
+    <QUESTIONS>
+        <QUESTION>Điều 636 yêu cầu người lập di chúc tuyên bố nội dung di chúc trước ai?</QUESTION>
+        <QUESTION>Ai sẽ ghi chép lại nội dung di chúc khi người lập di chúc tuyên bố?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người lập di chúc phải tuyên bố nội dung di chúc trước công chứng viên hoặc người có thẩm quyền chứng thực của Ủy ban nhân dân cấp xã.</ANSWER>
+        <ANSWER clause='1'>Công chứng viên hoặc người có thẩm quyền chứng thực phải ghi chép lại nội dung mà người lập di chúc đã tuyên bố.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='33' article="636">
+    <QUESTIONS>
+        <QUESTION>Điều 636 quy định như thế nào khi người lập di chúc không thể ký hoặc điểm chỉ vào bản di chúc?</QUESTION>
+        <QUESTION>Ai sẽ chứng nhận bản di chúc trong trường hợp người lập di chúc không thể ký hoặc điểm chỉ?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp người lập di chúc không thể ký hoặc điểm chỉ, người làm chứng phải ký xác nhận trước mặt công chứng viên hoặc người có thẩm quyền chứng thực của Ủy ban nhân dân cấp xã.</ANSWER>
+        <ANSWER clause='2'>Công chứng viên hoặc người có thẩm quyền chứng thực sẽ chứng nhận bản di chúc trước mặt người lập di chúc và người làm chứng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='34' article="637">
+    <QUESTIONS>
+        <QUESTION>Điều 637 quy định trường hợp nào không được công chứng, chứng thực di chúc?</QUESTION>
+        <QUESTION>Công chứng viên không được công chứng di chúc trong những trường hợp nào?</QUESTION>
+        <QUESTION>Có những ai không được chứng thực di chúc theo Điều 637?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Công chứng viên, người có thẩm quyền của Ủy ban nhân dân cấp xã không được công chứng di chúc nếu người thừa kế theo di chúc hoặc theo pháp luật là người lập di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='35' article="637">
+    <QUESTIONS>
+        <QUESTION>Trường hợp nào công chứng viên không thể chứng thực di chúc liên quan đến gia đình của người lập di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Công chứng viên không được chứng thực di chúc nếu người có cha, mẹ, vợ hoặc chồng, con là người thừa kế theo di chúc hoặc theo pháp luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='36' article="637">
+    <QUESTIONS>
+        <QUESTION>Điều 637 quy định công chứng viên không thể công chứng di chúc trong trường hợp nào liên quan đến quyền, nghĩa vụ tài sản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Công chứng viên không được công chứng di chúc nếu người có quyền, nghĩa vụ về tài sản liên quan tới nội dung di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='37' article="638">
+    <QUESTIONS>
+        <QUESTION>Điều 638 quy định di chúc của quân nhân có giá trị như di chúc công chứng hoặc chứng thực nếu có xác nhận của ai?</QUESTION>
+        <QUESTION>Di chúc của quân nhân tại ngũ cần xác nhận của ai để có giá trị như di chúc công chứng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Di chúc của quân nhân tại ngũ có xác nhận của thủ trưởng đơn vị từ cấp đại đội trở lên, nếu quân nhân không thể yêu cầu công chứng hoặc chứng thực.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='38' article="638">
+    <QUESTIONS>
+        <QUESTION>Di chúc của người đi trên tàu biển hoặc máy bay cần xác nhận của ai?</QUESTION>
+        <QUESTION>Điều kiện để di chúc của người đi trên tàu biển, máy bay có giá trị như di chúc công chứng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Di chúc của người đang đi trên tàu biển, máy bay có xác nhận của người chỉ huy phương tiện đó.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='39' article="638">
+    <QUESTIONS>
+        <QUESTION>Điều 638 quy định di chúc của người đang điều trị tại bệnh viện có xác nhận của ai để có giá trị như di chúc công chứng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Di chúc của người đang điều trị tại bệnh viện, cơ sở chữa bệnh, điều dưỡng khác có xác nhận của người phụ trách bệnh viện, cơ sở đó.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='40' article="638">
+    <QUESTIONS>
+        <QUESTION>Di chúc của người đang làm công việc khảo sát, thăm dò có xác nhận của ai để có giá trị như di chúc công chứng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='4'>Di chúc của người đang làm công việc khảo sát, thăm dò, nghiên cứu ở vùng rừng núi, hải đảo có xác nhận của người phụ trách đơn vị.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='41' article="638">
+    <QUESTIONS>
+        <QUESTION>Di chúc của công dân Việt Nam đang ở nước ngoài có yêu cầu xác nhận của cơ quan nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='5'>Di chúc của công dân Việt Nam đang ở nước ngoài có chứng nhận của cơ quan lãnh sự, đại diện ngoại giao Việt Nam ở nước đó.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='42' article="638">
+    <QUESTIONS>
+        <QUESTION>Điều 638 quy định di chúc của người đang bị tạm giam hoặc chấp hành hình phạt tù cần có xác nhận của ai để có giá trị như di chúc công chứng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='6'>Di chúc của người đang bị tạm giam, tạm giữ, đang chấp hành hình phạt tù, người đang chấp hành biện pháp xử lý hành chính tại cơ sở giáo dục, cơ sở chữa bệnh có xác nhận của người phụ trách cơ sở đó.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='43' article="639">
+    <QUESTIONS>
+        <QUESTION>Điều 639 quy định người lập di chúc có thể yêu cầu công chứng viên tới đâu để lập di chúc?</QUESTION>
+        <QUESTION>Người lập di chúc có thể yêu cầu công chứng viên tới đâu để thực hiện thủ tục lập di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người lập di chúc có thể yêu cầu công chứng viên tới chỗ ở của mình để lập di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='44' article="639">
+    <QUESTIONS>
+        <QUESTION>Thủ tục lập di chúc tại chỗ ở của người lập di chúc được thực hiện như thế nào?</QUESTION>
+        <QUESTION>Điều 639 quy định thủ tục lập di chúc tại chỗ ở của người lập di chúc giống như thủ tục nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Thủ tục lập di chúc tại chỗ ở được tiến hành như thủ tục lập di chúc tại tổ chức hành nghề công chứng theo quy định tại Điều 636 của Bộ luật này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='45' article="640">
+    <QUESTIONS>
+        <QUESTION>Điều 640 quy định ai có quyền sửa đổi, bổ sung, thay thế hoặc hủy bỏ di chúc đã lập?</QUESTION>
+        <QUESTION>Người lập di chúc có quyền làm gì đối với di chúc đã lập theo Điều 640?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người lập di chúc có thể sửa đổi, bổ sung, thay thế, hủy bỏ di chúc đã lập vào bất cứ lúc nào.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='46' article="640">
+    <QUESTIONS>
+        <QUESTION>Khi người lập di chúc bổ sung di chúc, phần bổ sung có hiệu lực như thế nào?</QUESTION>
+        <QUESTION>Điều 640 quy định di chúc bổ sung và di chúc đã lập có hiệu lực pháp luật ra sao?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Di chúc đã lập và phần bổ sung có hiệu lực pháp luật như nhau; nếu một phần của di chúc đã lập và phần bổ sung mâu thuẫn nhau thì chỉ phần bổ sung có hiệu lực pháp luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='47' article="640">
+    <QUESTIONS>
+        <QUESTION>Điều 640 quy định khi người lập di chúc thay thế di chúc, điều gì sẽ xảy ra với di chúc trước?</QUESTION>
+        <QUESTION>Khi người lập di chúc thay thế di chúc, di chúc trước sẽ như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Di chúc trước bị hủy bỏ khi người lập di chúc thay thế di chúc bằng di chúc mới.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='48' article="641">
+    <QUESTIONS>
+        <QUESTION>Điều 641 quy định người lập di chúc có thể yêu cầu tổ chức hành nghề công chứng làm gì?</QUESTION>
+        <QUESTION>Theo Điều 641, người lập di chúc có thể yêu cầu ai giữ bản di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Người lập di chúc có thể yêu cầu tổ chức hành nghề công chứng lưu giữ hoặc gửi người khác giữ bản di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='49' article="641">
+    <QUESTIONS>
+        <QUESTION>Khi tổ chức hành nghề công chứng lưu giữ bản di chúc, họ có nghĩa vụ gì theo Điều 641?</QUESTION>
+        <QUESTION>Theo Điều 641, tổ chức hành nghề công chứng phải làm gì khi lưu giữ bản di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Tổ chức hành nghề công chứng phải bảo quản, giữ gìn bản di chúc theo quy định của Bộ luật này và pháp luật về công chứng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='50' article="641">
+    <QUESTIONS>
+        <QUESTION>Điều 641 quy định nghĩa vụ của người giữ bản di chúc là gì?</QUESTION>
+        <QUESTION>Theo Điều 641, người giữ bản di chúc có những nghĩa vụ nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Người giữ bản di chúc có nghĩa vụ giữ bí mật nội dung di chúc, giữ gìn, bảo quản bản di chúc, và nếu bản di chúc bị thất lạc, hư hại phải báo ngay cho người lập di chúc. Khi người lập di chúc chết, người giữ di chúc phải giao lại bản di chúc cho người thừa kế hoặc người có thẩm quyền công bố di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='51' article="642">
+    <QUESTIONS>
+        <QUESTION>Điều 642 quy định gì khi di chúc bị thất lạc hoặc hư hại không thể hiện được đầy đủ ý chí của người lập di chúc?</QUESTION>
+        <QUESTION>Theo Điều 642, khi di chúc bị thất lạc hoặc hư hại và không có bằng chứng chứng minh ý nguyện của người lập di chúc thì sẽ được xử lý như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Kể từ thời điểm mở thừa kế, nếu bản di chúc bị thất lạc hoặc bị hư hại đến mức không thể hiện được đầy đủ ý chí của người lập di chúc và không có bằng chứng nào chứng minh được ý nguyện đích thực của người lập di chúc thì coi như không có di chúc và áp dụng các quy định về thừa kế theo pháp luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='52' article="642">
+    <QUESTIONS>
+        <QUESTION>Theo Điều 642, trường hợp di sản chưa chia mà tìm thấy di chúc thì di sản sẽ được chia như thế nào?</QUESTION>
+        <QUESTION>Khi di chúc được tìm thấy trước khi di sản được chia, Điều 642 quy định gì về việc chia di sản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp di sản chưa chia mà tìm thấy di chúc thì di sản được chia theo di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='53' article="642">
+    <QUESTIONS>
+        <QUESTION>Điều 642 quy định gì khi di sản đã chia mà sau đó tìm thấy di chúc?</QUESTION>
+        <QUESTION>Theo Điều 642, nếu di sản đã chia và sau đó tìm thấy di chúc, di sản sẽ được chia lại như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Trong thời hiệu yêu cầu chia di sản, trường hợp di sản đã chia mà tìm thấy di chúc thì phải chia lại theo di chúc nếu người thừa kế theo di chúc yêu cầu.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='54' article="643">
+    <QUESTIONS>
+        <QUESTION>Di chúc có hiệu lực từ khi nào theo Điều 643?</QUESTION>
+        <QUESTION>Theo Điều 643, di chúc có hiệu lực từ thời điểm nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Di chúc có hiệu lực từ thời điểm mở thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='55' article="643">
+    <QUESTIONS>
+        <QUESTION>Theo Điều 643, di chúc không có hiệu lực toàn bộ hoặc một phần trong trường hợp nào?</QUESTION>
+        <QUESTION>Điều 643 quy định di chúc không có hiệu lực trong những trường hợp nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Di chúc không có hiệu lực toàn bộ hoặc một phần trong các trường hợp sau đây:
+        a) Người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc;
+        b) Cơ quan, tổ chức được chỉ định là người thừa kế không còn tồn tại vào thời điểm mở thừa kế.
+        </ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='56' article="643">
+    <QUESTIONS>
+        <QUESTION>Theo Điều 643, di chúc sẽ như thế nào nếu có người thừa kế chết trước hoặc chết cùng thời điểm với người lập di chúc?</QUESTION>
+        <QUESTION>Theo Điều 643, khi một người thừa kế chết trước hoặc cùng thời điểm với người lập di chúc thì phần di chúc như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp có nhiều người thừa kế theo di chúc mà có người chết trước hoặc chết cùng thời điểm với người lập di chúc, thì chỉ phần di chúc có liên quan đến cá nhân, cơ quan, tổ chức này không có hiệu lực.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='57' article="643">
+    <QUESTIONS>
+        <QUESTION>Theo Điều 643, nếu di sản để lại cho người thừa kế không còn vào thời điểm mở thừa kế thì di chúc sẽ như thế nào?</QUESTION>
+        <QUESTION>Điều 643 quy định gì về hiệu lực của di chúc nếu di sản không còn tại thời điểm mở thừa kế?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Di chúc không có hiệu lực, nếu di sản để lại cho người thừa kế không còn vào thời điểm mở thừa kế; nếu di sản để lại cho người thừa kế chỉ còn một phần thì phần di chúc về phần di sản còn lại vẫn có hiệu lực.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='58' article="643">
+    <QUESTIONS>
+        <QUESTION>Theo Điều 643, nếu di chúc có phần không hợp pháp thì phần đó sẽ như thế nào?</QUESTION>
+        <QUESTION>Điều 643 quy định gì khi một phần của di chúc không hợp pháp?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='4'>Khi di chúc có phần không hợp pháp mà không ảnh hưởng đến hiệu lực của các phần còn lại thì chỉ phần đó không có hiệu lực.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='59' article="643">
+    <QUESTIONS>
+        <QUESTION>Theo Điều 643, khi một người để lại nhiều bản di chúc, bản di chúc nào sẽ có hiệu lực?</QUESTION>
+        <QUESTION>Điều 643 quy định gì khi một người để lại nhiều bản di chúc đối với một tài sản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='5'>Khi một người để lại nhiều bản di chúc đối với một tài sản thì chỉ bản di chúc sau cùng có hiệu lực.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='60' article="644">
+    <QUESTIONS>
+        <QUESTION>Theo Điều 644, những người nào vẫn được hưởng phần di sản bằng hai phần ba suất của một người thừa kế theo pháp luật nếu di sản được chia theo pháp luật?</QUESTION>
+        <QUESTION>Điều 644 quy định những ai sẽ được hưởng phần di sản bằng hai phần ba suất nếu không được người lập di chúc cho hưởng di sản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Những người sau đây vẫn được hưởng phần di sản bằng hai phần ba suất của một người thừa kế theo pháp luật nếu di sản được chia theo pháp luật, trong trường hợp họ không được người lập di chúc cho hưởng di sản hoặc chỉ cho hưởng phần di sản ít hơn hai phần ba suất đó:
+        a) Con chưa thành niên, cha, mẹ, vợ, chồng;
+        b) Con thành niên mà không có khả năng lao động.
+        </ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='61' article="644">
+    <QUESTIONS>
+        <QUESTION>Theo Điều 644, quy định tại khoản 1 không áp dụng đối với những người nào?</QUESTION>
+        <QUESTION>Điều 644 quy định trường hợp nào không áp dụng quyền hưởng di sản theo khoản 1?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Quy định tại khoản 1 Điều này không áp dụng đối với người từ chối nhận di sản theo quy định tại Điều 620 hoặc họ là những người không có quyền hưởng di sản theo quy định tại khoản 1 Điều 621 của Bộ luật này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='62' article="645">
+    <QUESTIONS>
+        <QUESTION>Điều 645 quy định gì về phần di sản dùng vào việc thờ cúng khi người lập di chúc chỉ định người quản lý?</QUESTION>
+        <QUESTION>Điều 645 có quy định gì về việc quản lý phần di sản thờ cúng nếu người lập di chúc không chỉ định người quản lý?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Trường hợp người lập di chúc để lại một phần di sản dùng vào việc thờ cúng thì phần di sản đó không được chia thừa kế và được giao cho người đã được chỉ định trong di chúc quản lý để thực hiện việc thờ cúng.</ANSWER>
+        <ANSWER clause='1'>Nếu người được chỉ định không thực hiện đúng di chúc hoặc không theo thỏa thuận của những người thừa kế thì những người thừa kế có quyền giao phần di sản dùng vào việc thờ cúng cho người khác quản lý để thờ cúng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='63' article="645">
+    <QUESTIONS>
+        <QUESTION>Điều 645 quy định gì khi tất cả những người thừa kế theo di chúc đã chết?</QUESTION>
+        <QUESTION>Điều 645 quy định ai sẽ quản lý di sản dùng vào việc thờ cúng nếu tất cả người thừa kế đã chết?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Trường hợp tất cả những người thừa kế theo di chúc đều đã chết thì phần di sản dùng để thờ cúng thuộc về người đang quản lý hợp pháp di sản đó trong số những người thuộc diện thừa kế theo pháp luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='64' article="645">
+    <QUESTIONS>
+        <QUESTION>Điều 645 có quy định gì khi di sản của người chết không đủ để thanh toán nghĩa vụ tài sản?</QUESTION>
+        <QUESTION>Điều 645 có cho phép dành phần di sản cho việc thờ cúng khi di sản không đủ để thanh toán nghĩa vụ tài sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp toàn bộ di sản của người chết không đủ để thanh toán nghĩa vụ tài sản của người đó thì không được dành một phần di sản dùng vào việc thờ cúng.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='65' article="646">
+    <QUESTIONS>
+        <QUESTION>Điều 646 quy định gì về di tặng?</QUESTION>
+        <QUESTION>Điều 646 yêu cầu gì đối với việc di tặng trong di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Di tặng là việc người lập di chúc dành một phần di sản để tặng cho người khác. Việc di tặng phải được ghi rõ trong di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='66' article="646">
+    <QUESTIONS>
+        <QUESTION>Điều 646 quy định người được di tặng phải còn sống vào thời điểm nào?</QUESTION>
+        <QUESTION>Điều 646 có yêu cầu gì đối với người được di tặng là cá nhân?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Người được di tặng là cá nhân phải còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='67' article="646">
+    <QUESTIONS>
+        <QUESTION>Điều 646 quy định gì đối với người được di tặng không phải là cá nhân?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp người được di tặng không phải là cá nhân thì phải tồn tại vào thời điểm mở thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='68' article="646">
+    <QUESTIONS>
+        <QUESTION>Điều 646 có yêu cầu gì đối với nghĩa vụ tài sản của người được di tặng?</QUESTION>
+        <QUESTION>Điều 646 có quy định gì khi toàn bộ di sản không đủ để thanh toán nghĩa vụ tài sản?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Người được di tặng không phải thực hiện nghĩa vụ tài sản đối với phần được di tặng, trừ trường hợp toàn bộ di sản không đủ để thanh toán nghĩa vụ tài sản của người lập di chúc thì phần di tặng cũng được dùng để thực hiện phần nghĩa vụ còn lại của người này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='69' article="647">
+    <QUESTIONS>
+        <QUESTION>Điều 647 quy định gì về việc công bố di chúc khi di chúc được lưu giữ tại tổ chức hành nghề công chứng?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Trường hợp di chúc bằng văn bản được lưu giữ tại tổ chức hành nghề công chứng thì công chứng viên là người công bố di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='70' article="647">
+    <QUESTIONS>
+        <QUESTION>Điều 647 quy định gì khi người để lại di chúc chỉ định người công bố di chúc?</QUESTION>
+        <QUESTION>Điều 647 có quy định gì nếu người được chỉ định công bố di chúc từ chối?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp người để lại di chúc chỉ định người công bố di chúc thì người này có nghĩa vụ công bố di chúc; nếu người để lại di chúc không chỉ định hoặc có chỉ định nhưng người được chỉ định từ chối công bố di chúc thì những người thừa kế còn lại thỏa thuận cử người công bố di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='71' article="647">
+    <QUESTIONS>
+        <QUESTION>Điều 647 quy định gì về việc sao gửi di chúc tới những người có liên quan?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Sau thời điểm mở thừa kế, người công bố di chúc phải sao gửi di chúc tới tất cả những người có liên quan đến nội dung di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='72' article="647">
+    <QUESTIONS>
+        <QUESTION>Điều 647 có quy định gì đối với người nhận bản sao di chúc?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='4'>Người nhận được bản sao di chúc có quyền yêu cầu đối chiếu với bản gốc của di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='73' article="647">
+    <QUESTIONS>
+        <QUESTION>Điều 647 có quy định gì đối với di chúc lập bằng tiếng nước ngoài?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='5'>Trường hợp di chúc được lập bằng tiếng nước ngoài thì bản di chúc đó phải được dịch ra tiếng Việt và phải có công chứng hoặc chứng thực.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='74' article="648">
+    <QUESTIONS>
+        <QUESTION>Điều 648 quy định như thế nào khi nội dung di chúc không rõ ràng và dẫn đến nhiều cách hiểu khác nhau?</QUESTION>
+        <QUESTION>Ai sẽ chịu trách nhiệm giải thích nội dung di chúc khi có nhiều cách hiểu khác nhau?</QUESTION>
+        <QUESTION>Điều gì sẽ xảy ra nếu những người thừa kế không nhất trí về cách hiểu nội dung di chúc?</QUESTION>
+        <QUESTION>Có thể yêu cầu Tòa án giải quyết vấn đề không rõ ràng trong nội dung di chúc không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Trường hợp nội dung di chúc không rõ ràng dẫn đến nhiều cách hiểu khác nhau thì những người thừa kế theo di chúc phải cùng nhau giải thích nội dung di chúc dựa trên ý nguyện đích thực trước đây của người chết, có xem xét đến mối quan hệ của người chết với người thừa kế theo di chúc. Khi những người này không nhất trí về cách hiểu nội dung di chúc thì có quyền yêu cầu Tòa án giải quyết.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='75' article="648">
+    <QUESTIONS>
+        <QUESTION>Điều 648 quy định gì khi một phần nội dung di chúc không thể giải thích được?</QUESTION>
+        <QUESTION>Các phần còn lại của di chúc có bị ảnh hưởng khi một phần nội dung không thể giải thích được?</QUESTION>
+        <QUESTION>Phần không giải thích được trong di chúc có hiệu lực không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Trường hợp có một phần nội dung di chúc không giải thích được nhưng không ảnh hưởng đến các phần còn lại của di chúc thì chỉ phần không giải thích được không có hiệu lực.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

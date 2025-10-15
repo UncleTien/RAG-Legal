@@ -1,0 +1,214 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>23</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="649">
+    <QUESTIONS>
+        <QUESTION>Điều 649 quy định về thừa kế theo pháp luật là gì?</QUESTION>
+        <QUESTION>Điều kiện và trình tự thừa kế theo pháp luật được quy định như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Thừa kế theo pháp luật là thừa kế theo hàng thừa kế, điều kiện và trình tự thừa kế do pháp luật quy định.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="650">
+    <QUESTIONS>
+        <QUESTION>Điều 650 quy định thừa kế theo pháp luật được áp dụng trong những trường hợp nào?</QUESTION>
+        <QUESTION>Các trường hợp không có di chúc sẽ áp dụng thừa kế theo pháp luật không?</QUESTION>
+        <QUESTION>Điều 650 có áp dụng thừa kế theo pháp luật trong trường hợp di chúc không hợp pháp không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Thừa kế theo pháp luật được áp dụng trong các trường hợp không có di chúc, di chúc không hợp pháp, hoặc những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="650">
+    <QUESTIONS>
+        <QUESTION>Điều 650 quy định những trường hợp nào thừa kế theo pháp luật trong di chúc không hợp pháp?</QUESTION>
+        <QUESTION>Điều 650 có quy định thừa kế theo pháp luật nếu di chúc không hợp pháp không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Nếu di chúc không hợp pháp, thừa kế sẽ được thực hiện theo pháp luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="650">
+    <QUESTIONS>
+        <QUESTION>Thừa kế theo pháp luật có được áp dụng khi những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc không?</QUESTION>
+        <QUESTION>Điều 650 quy định thế nào khi cơ quan, tổ chức được hưởng thừa kế theo di chúc không còn tồn tại vào thời điểm mở thừa kế?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Thừa kế theo pháp luật sẽ được áp dụng nếu những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc, hoặc cơ quan, tổ chức được hưởng thừa kế theo di chúc không còn tồn tại vào thời điểm mở thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="650">
+    <QUESTIONS>
+        <QUESTION>Điều 650 quy định thế nào khi người thừa kế theo di chúc không có quyền hưởng di sản hoặc từ chối nhận di sản?</QUESTION>
+        <QUESTION>Thừa kế theo pháp luật có được áp dụng trong trường hợp người thừa kế theo di chúc từ chối nhận di sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Nếu người thừa kế theo di chúc không có quyền hưởng di sản hoặc từ chối nhận di sản, thừa kế sẽ được thực hiện theo pháp luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="650">
+    <QUESTIONS>
+        <QUESTION>Thừa kế theo pháp luật có được áp dụng đối với phần di sản không được định đoạt trong di chúc không?</QUESTION>
+        <QUESTION>Điều 650 quy định thế nào đối với phần di sản có liên quan đến phần của di chúc không có hiệu lực pháp luật?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Thừa kế theo pháp luật cũng được áp dụng đối với phần di sản không được định đoạt trong di chúc và phần di sản có liên quan đến phần của di chúc không có hiệu lực pháp luật.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="650">
+    <QUESTIONS>
+        <QUESTION>Điều 650 có áp dụng thừa kế theo pháp luật trong trường hợp người thừa kế theo di chúc không có quyền hưởng di sản hoặc từ chối nhận di sản không?</QUESTION>
+        <QUESTION>Điều 650 quy định thừa kế theo pháp luật trong trường hợp người thừa kế theo di chúc chết trước người lập di chúc như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Thừa kế theo pháp luật cũng được áp dụng đối với phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="650">
+    <QUESTIONS>
+        <QUESTION>Điều 650 quy định thừa kế theo pháp luật trong trường hợp cơ quan, tổ chức được hưởng di sản theo di chúc không còn tồn tại như thế nào?</QUESTION>
+        <QUESTION>Điều 650 có quy định thừa kế theo pháp luật trong trường hợp người được thừa kế theo di chúc không còn tồn tại không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Thừa kế theo pháp luật cũng được áp dụng đối với phần di sản có liên quan đến cơ quan, tổ chức được hưởng di sản theo di chúc nhưng không còn tồn tại vào thời điểm mở thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="651">
+    <QUESTIONS>
+        <QUESTION>Điều 651 quy định thứ tự người thừa kế theo pháp luật như thế nào?</QUESTION>
+        <QUESTION>Điều 651 có quy định các hàng thừa kế không? Nếu có, các hàng thừa kế được quy định như thế nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Điều 651 quy định ba hàng thừa kế theo pháp luật. Hàng thừa kế thứ nhất bao gồm vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết. Hàng thừa kế thứ hai gồm ông bà nội, ông bà ngoại, anh ruột, chị ruột, em ruột của người chết. Hàng thừa kế thứ ba gồm cụ nội, cụ ngoại của người chết và các anh chị em ruột của ông bà nội, ngoại, các cháu ruột của người chết.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="651">
+    <QUESTIONS>
+        <QUESTION>Điều 651 quy định những người thừa kế trong hàng thừa kế thứ nhất bao gồm những ai?</QUESTION>
+        <QUESTION>Hàng thừa kế thứ nhất trong Điều 651 gồm có những ai và có phải những người này luôn được hưởng di sản không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Hàng thừa kế thứ nhất gồm vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết. Những người này được hưởng phần di sản bằng nhau nếu họ còn sống tại thời điểm mở thừa kế.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="651">
+    <QUESTIONS>
+        <QUESTION>Điều 651 quy định ai thuộc hàng thừa kế thứ hai?</QUESTION>
+        <QUESTION>Hàng thừa kế thứ hai trong Điều 651 bao gồm những người nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Hàng thừa kế thứ hai bao gồm ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="651">
+    <QUESTIONS>
+        <QUESTION>Điều 651 quy định thế nào về hàng thừa kế thứ ba?</QUESTION>
+        <QUESTION>Hàng thừa kế thứ ba trong Điều 651 gồm những người nào và điều kiện để hưởng thừa kế là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Hàng thừa kế thứ ba bao gồm cụ nội, cụ ngoại của người chết; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của người chết; cháu ruột của người chết mà người chết là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chắt ruột của người chết mà người chết là cụ nội, cụ ngoại.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="651">
+    <QUESTIONS>
+        <QUESTION>Điều 651 quy định những người thừa kế cùng hàng sẽ hưởng phần di sản như thế nào?</QUESTION>
+        <QUESTION>Những người thừa kế cùng hàng có quyền hưởng phần di sản bằng nhau không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Những người thừa kế cùng hàng sẽ được hưởng phần di sản bằng nhau.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="651">
+    <QUESTIONS>
+        <QUESTION>Điều 651 quy định trường hợp nào những người thừa kế ở hàng thừa kế sau mới được hưởng di sản?</QUESTION>
+        <QUESTION>Điều kiện để những người ở hàng thừa kế sau có thể hưởng di sản theo Điều 651 là gì?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Những người ở hàng thừa kế sau chỉ được hưởng di sản nếu không còn ai ở hàng thừa kế trước, hoặc những người ở hàng thừa kế trước đã chết, không có quyền hưởng di sản, bị truất quyền hưởng di sản hoặc từ chối nhận di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="652">
+    <QUESTIONS>
+        <QUESTION>Điều 652 quy định thừa kế thế vị như thế nào?</QUESTION>
+        <QUESTION>Thừa kế thế vị trong Điều 652 được áp dụng trong trường hợp nào?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Thừa kế thế vị được áp dụng trong trường hợp con của người để lại di sản chết trước hoặc cùng một thời điểm với người để lại di sản. Trong trường hợp này, cháu sẽ được hưởng phần di sản mà cha hoặc mẹ của cháu được hưởng nếu còn sống. Nếu cháu cũng chết trước hoặc cùng một thời điểm với người để lại di sản, thì chắt sẽ được hưởng phần di sản mà cha hoặc mẹ của chắt được hưởng nếu còn sống.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="653">
+    <QUESTIONS>
+        <QUESTION>Điều 653 quy định về quan hệ thừa kế giữa con nuôi và cha nuôi, mẹ nuôi như thế nào?</QUESTION>
+        <QUESTION>Con nuôi và cha nuôi, mẹ nuôi có quyền thừa kế di sản của nhau không?</QUESTION>
+        <QUESTION>Điều 653 có liên quan gì đến các điều trong Bộ luật này về thừa kế?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Con nuôi và cha nuôi, mẹ nuôi được thừa kế di sản của nhau và còn được thừa kế di sản theo quy định tại Điều 651 và Điều 652 của Bộ luật này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="654">
+    <QUESTIONS>
+        <QUESTION>Điều 654 quy định về quan hệ thừa kế giữa con riêng và bố dượng, mẹ kế như thế nào?</QUESTION>
+        <QUESTION>Con riêng và bố dượng, mẹ kế có quyền thừa kế di sản của nhau không?</QUESTION>
+        <QUESTION>Điều 654 có liên quan gì đến các điều trong Bộ luật này về thừa kế?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER>Con riêng và bố dượng, mẹ kế nếu có quan hệ chăm sóc, nuôi dưỡng nhau như cha con, mẹ con thì được thừa kế di sản của nhau và còn được thừa kế di sản theo quy định tại Điều 652 và Điều 653 của Bộ luật này.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="655">
+    <QUESTIONS>
+        <QUESTION>Trường hợp vợ, chồng đã chia tài sản chung khi hôn nhân còn tồn tại, nếu một người chết, người còn sống có quyền thừa kế di sản không?</QUESTION>
+        <QUESTION>Điều 655 quy định như thế nào về việc thừa kế di sản của vợ, chồng trong trường hợp tài sản đã chia?</QUESTION>
+        <QUESTION>Vợ, chồng đã chia tài sản chung trong khi hôn nhân còn tồn tại có được hưởng thừa kế khi một người chết không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='1'>Trường hợp vợ, chồng đã chia tài sản chung khi hôn nhân còn tồn tại mà sau đó một người chết thì người còn sống vẫn được thừa kế di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="655">
+    <QUESTIONS>
+        <QUESTION>Điều 655 quy định thế nào về quyền thừa kế của vợ, chồng khi xin ly hôn?</QUESTION>
+        <QUESTION>Trường hợp vợ, chồng đang xin ly hôn mà một trong hai người chết, người còn sống có quyền thừa kế di sản không?</QUESTION>
+        <QUESTION>Điều 655 có những điều khoản nào liên quan đến việc thừa kế di sản khi vợ, chồng đang xin ly hôn?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='2'>Trường hợp vợ, chồng xin ly hôn mà chưa được hoặc đã được Tòa án cho ly hôn bằng bản án hoặc quyết định chưa có hiệu lực pháp luật, nếu một người chết thì người còn sống vẫn được thừa kế di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="655">
+    <QUESTIONS>
+        <QUESTION>Trong trường hợp vợ, chồng đã kết hôn với người khác sau khi người phối ngẫu của họ chết, họ có quyền thừa kế di sản không?</QUESTION>
+        <QUESTION>Điều 655 có quy định gì về việc thừa kế di sản của vợ, chồng khi đã kết hôn với người khác sau khi một người chết?</QUESTION>
+        <QUESTION>Điều 655 có thay đổi quyền thừa kế di sản của vợ, chồng nếu họ tái hôn với người khác không?</QUESTION>
+    </QUESTIONS>
+    <ANSWERS>
+        <ANSWER clause='3'>Người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó đã kết hôn với người khác vẫn được thừa kế di sản.</ANSWER>
+    </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

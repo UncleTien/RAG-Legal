@@ -1,0 +1,430 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>10</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="144">
+        <QUESTIONS>
+            <QUESTION>Thời hạn là gì theo Điều 144?</QUESTION>
+            <QUESTION>Thời hạn có thể được xác định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hạn là một khoảng thời gian được xác định từ thời điểm này đến thời điểm khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="144">
+        <QUESTIONS>
+            <QUESTION>Thời hạn có thể được xác định bằng những đơn vị nào?</QUESTION>
+            <QUESTION>Thời hạn có thể được xác định theo sự kiện nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thời hạn có thể được xác định bằng phút, giờ, ngày, tuần, tháng, năm hoặc bằng một sự kiện có thể sẽ xảy ra.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="145">
+        <QUESTIONS>
+            <QUESTION>Cách tính thời hạn được áp dụng như thế nào theo Điều 145?</QUESTION>
+            <QUESTION>Điều gì sẽ xảy ra nếu có thỏa thuận khác hoặc pháp luật quy định khác về cách tính thời hạn?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Cách tính thời hạn được áp dụng theo quy định của Bộ luật này, trừ trường hợp có thỏa thuận khác hoặc pháp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="145">
+        <QUESTIONS>
+            <QUESTION>Thời hạn được tính theo gì theo Điều 145?</QUESTION>
+            <QUESTION>Có trường hợp nào ngoại lệ về cách tính thời hạn không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thời hạn được tính theo dương lịch, trừ trường hợp có thỏa thuận khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="146">
+        <QUESTIONS>
+            <QUESTION>Thời hạn một năm được tính như thế nào theo Điều 146?</QUESTION>
+            <QUESTION>Thời hạn nửa năm được tính ra sao?</QUESTION>
+            <QUESTION>Thời gian một tháng được tính bao nhiêu ngày theo Điều 146?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Một năm được tính là ba trăm sáu mươi lăm ngày.</ANSWER>
+            <ANSWER clause='1'>Nửa năm được tính là sáu tháng.</ANSWER>
+            <ANSWER clause='1'>Một tháng được tính là ba mươi ngày.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="146">
+        <QUESTIONS>
+            <QUESTION>Thời điểm đầu tháng, giữa tháng và cuối tháng được quy định như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Đầu tháng là ngày đầu tiên của tháng.</ANSWER>
+            <ANSWER clause='2'>Giữa tháng là ngày thứ mười lăm của tháng.</ANSWER>
+            <ANSWER clause='2'>Cuối tháng là ngày cuối cùng của tháng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="146">
+        <QUESTIONS>
+            <QUESTION>Thời điểm đầu năm, giữa năm và cuối năm được quy định ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Đầu năm là ngày đầu tiên của tháng một.</ANSWER>
+            <ANSWER clause='3'>Giữa năm là ngày cuối cùng của tháng sáu.</ANSWER>
+            <ANSWER clause='3'>Cuối năm là ngày cuối cùng của tháng mười hai.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="147">
+        <QUESTIONS>
+            <QUESTION>Thời hạn được xác định bằng phút, giờ thì bắt đầu từ thời điểm nào?</QUESTION>
+            <QUESTION>Thời điểm nào được coi là bắt đầu của thời hạn nếu thời hạn tính bằng phút, giờ?</QUESTION>
+            <QUESTION>Thời hạn tính bằng phút, giờ có sự khác biệt gì so với thời hạn tính bằng ngày, tuần không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi thời hạn được xác định bằng phút, giờ thì thời hạn được bắt đầu từ thời điểm đã xác định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="147">
+        <QUESTIONS>
+            <QUESTION>Thời hạn được xác định bằng ngày, tuần, tháng, năm thì bắt đầu từ thời điểm nào?</QUESTION>
+            <QUESTION>Ngày đầu tiên của thời hạn có được tính không khi thời hạn là ngày, tuần, tháng hoặc năm?</QUESTION>
+            <QUESTION>Thời hạn tính theo ngày, tuần, tháng có thay đổi khi bắt đầu từ sự kiện?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi thời hạn được xác định bằng ngày, tuần, tháng, năm thì ngày đầu tiên của thời hạn không được tính mà tính từ ngày tiếp theo liền kề ngày được xác định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="147">
+        <QUESTIONS>
+            <QUESTION>Thời hạn bắt đầu từ sự kiện thì tính như thế nào?</QUESTION>
+            <QUESTION>Thời gian bắt đầu từ sự kiện có khác gì với thời hạn tính theo ngày, tuần, tháng, năm?</QUESTION>
+            <QUESTION>Ngày xảy ra sự kiện có được tính vào thời hạn không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Khi thời hạn bắt đầu bằng một sự kiện thì ngày xảy ra sự kiện không được tính mà tính từ ngày tiếp theo liền kề của ngày xảy ra sự kiện đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="148">
+        <QUESTIONS>
+            <QUESTION>Thời hạn kết thúc khi được tính bằng ngày như thế nào?</QUESTION>
+            <QUESTION>Khi thời hạn tính bằng ngày, làm sao xác định thời điểm kết thúc?</QUESTION>
+            <QUESTION>Khi thời hạn tính bằng ngày, kết thúc vào thời điểm nào trong ngày cuối cùng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Khi thời hạn tính bằng ngày thì thời hạn kết thúc tại thời điểm kết thúc ngày cuối cùng của thời hạn.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='12' article="148">
+        <QUESTIONS>
+            <QUESTION>Thời hạn tính bằng tuần kết thúc như thế nào?</QUESTION>
+            <QUESTION>Khi thời hạn tính bằng tuần, kết thúc vào thời điểm nào?</QUESTION>
+            <QUESTION>Ngày cuối cùng của thời hạn tính theo tuần là khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi thời hạn tính bằng tuần thì thời hạn kết thúc tại thời điểm kết thúc ngày tương ứng của tuần cuối cùng của thời hạn.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='13' article="148">
+        <QUESTIONS>
+            <QUESTION>Thời hạn tính bằng tháng kết thúc như thế nào?</QUESTION>
+            <QUESTION>Thời điểm kết thúc thời hạn khi tính bằng tháng có điểm gì đặc biệt?</QUESTION>
+            <QUESTION>Nếu tháng kết thúc không có ngày tương ứng, thời hạn kết thúc vào ngày nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Khi thời hạn tính bằng tháng thì thời hạn kết thúc tại thời điểm kết thúc ngày tương ứng của tháng cuối cùng của thời hạn; nếu tháng kết thúc thời hạn không có ngày tương ứng thì thời hạn kết thúc vào ngày cuối cùng của tháng đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='14' article="148">
+        <QUESTIONS>
+            <QUESTION>Khi thời hạn tính bằng năm, kết thúc vào thời điểm nào?</QUESTION>
+            <QUESTION>Thời hạn tính theo năm kết thúc tại thời điểm nào trong năm cuối cùng?</QUESTION>
+            <QUESTION>Ngày, tháng tương ứng của năm cuối cùng có ảnh hưởng gì đến việc kết thúc thời hạn?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Khi thời hạn tính bằng năm thì thời hạn kết thúc tại thời điểm kết thúc ngày, tháng tương ứng của năm cuối cùng của thời hạn.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='15' article="148">
+        <QUESTIONS>
+            <QUESTION>Thời gian kết thúc thời hạn khi ngày cuối cùng rơi vào ngày nghỉ cuối tuần hoặc nghỉ lễ như thế nào?</QUESTION>
+            <QUESTION>Ngày nghỉ cuối tuần hoặc nghỉ lễ ảnh hưởng thế nào đến thời hạn?</QUESTION>
+            <QUESTION>Khi ngày cuối cùng là ngày nghỉ lễ hoặc cuối tuần, thời hạn kết thúc vào ngày nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='5'>Khi ngày cuối cùng của thời hạn là ngày nghỉ cuối tuần hoặc ngày nghỉ lễ thì thời hạn kết thúc tại thời điểm kết thúc ngày làm việc tiếp theo ngày nghỉ đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='16' article="148">
+        <QUESTIONS>
+            <QUESTION>Thời điểm kết thúc của thời hạn vào lúc nào trong ngày cuối cùng?</QUESTION>
+            <QUESTION>Vào lúc nào thì thời hạn kết thúc nếu là ngày cuối cùng của thời hạn?</QUESTION>
+            <QUESTION>Thời gian kết thúc vào ngày cuối cùng của thời hạn là bao nhiêu giờ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='6'>Thời điểm kết thúc ngày cuối cùng của thời hạn vào lúc hai mươi bốn giờ của ngày đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='17' article="149">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu là gì?</QUESTION>
+            <QUESTION>Thời hiệu được quy định như thế nào theo pháp luật?</QUESTION>
+            <QUESTION>Thời hiệu có tác động pháp lý như thế nào đối với các chủ thể?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu là thời hạn do luật quy định mà khi kết thúc thời hạn đó thì phát sinh hậu quả pháp lý đối với chủ thể theo điều kiện do luật quy định. Thời hiệu được áp dụng theo quy định của Bộ luật này, luật khác có liên quan.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='18' article="149">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu có thể được áp dụng theo yêu cầu của bên nào?</QUESTION>
+            <QUESTION>Tòa án áp dụng quy định về thời hiệu khi nào?</QUESTION>
+            <QUESTION>Có điều kiện nào để yêu cầu áp dụng thời hiệu tại Tòa án?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Tòa án chỉ áp dụng quy định về thời hiệu theo yêu cầu áp dụng thời hiệu của một bên hoặc các bên với điều kiện yêu cầu này phải được đưa ra trước khi Tòa án cấp sơ thẩm ra bản án, quyết định giải quyết vụ, việc.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='19' article="149">
+        <QUESTIONS>
+            <QUESTION>Người hưởng lợi từ thời hiệu có quyền gì?</QUESTION>
+            <QUESTION>Có thể từ chối áp dụng thời hiệu không?</QUESTION>
+            <QUESTION>Trường hợp nào người hưởng lợi không thể từ chối áp dụng thời hiệu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người được hưởng lợi từ việc áp dụng thời hiệu có quyền từ chối áp dụng thời hiệu, trừ trường hợp việc từ chối đó nhằm mục đích trốn tránh thực hiện nghĩa vụ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='20' article="150">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu hưởng quyền dân sự là gì?</QUESTION>
+            <QUESTION>Khi nào chủ thể được hưởng quyền dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu hưởng quyền dân sự là thời hạn mà khi kết thúc thời hạn đó thì chủ thể được hưởng quyền dân sự.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='21' article="150">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu miễn trừ nghĩa vụ dân sự là gì?</QUESTION>
+            <QUESTION>Khi nào người có nghĩa vụ dân sự được miễn thực hiện nghĩa vụ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thời hiệu miễn trừ nghĩa vụ dân sự là thời hạn mà khi kết thúc thời hạn đó thì người có nghĩa vụ dân sự được miễn việc thực hiện nghĩa vụ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='22' article="150">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu khởi kiện là gì?</QUESTION>
+            <QUESTION>Khi nào chủ thể mất quyền khởi kiện?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Thời hiệu khởi kiện là thời hạn mà chủ thể được quyền khởi kiện để yêu cầu Tòa án giải quyết vụ án dân sự bảo vệ quyền và lợi ích hợp pháp bị xâm phạm; nếu thời hạn đó kết thúc thì mất quyền khởi kiện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='23' article="150">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu yêu cầu giải quyết việc dân sự là gì?</QUESTION>
+            <QUESTION>Khi nào chủ thể mất quyền yêu cầu giải quyết việc dân sự?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Thời hiệu yêu cầu giải quyết việc dân sự là thời hạn mà chủ thể được quyền yêu cầu Tòa án giải quyết việc dân sự để bảo vệ quyền và lợi ích hợp pháp của cá nhân, pháp nhân, lợi ích quốc gia, dân tộc, lợi ích công cộng; nếu thời hạn đó kết thúc thì mất quyền yêu cầu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='24' article="151">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu được tính như thế nào?</QUESTION>
+            <QUESTION>Khi nào thời hiệu kết thúc?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Thời hiệu được tính từ thời điểm bắt đầu ngày đầu tiên của thời hiệu và chấm dứt tại thời điểm kết thúc ngày cuối cùng của thời hiệu.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='25' article="152">
+        <QUESTIONS>
+            <QUESTION>Hiệu lực của thời hiệu hưởng quyền dân sự và miễn trừ nghĩa vụ dân sự là gì?</QUESTION>
+            <QUESTION>Khi nào việc hưởng quyền dân sự hoặc miễn trừ nghĩa vụ dân sự có hiệu lực?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Trường hợp pháp luật quy định cho các chủ thể được hưởng quyền dân sự hoặc được miễn trừ nghĩa vụ dân sự theo thời hiệu thì chỉ sau khi thời hiệu đó kết thúc, việc hưởng quyền dân sự hoặc miễn trừ nghĩa vụ dân sự mới có hiệu lực.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='26' article="153">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu hưởng quyền dân sự và miễn trừ nghĩa vụ dân sự có tính liên tục không?</QUESTION>
+            <QUESTION>Thời hiệu sẽ được tính lại từ đầu trong trường hợp nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu hưởng quyền dân sự, miễn trừ nghĩa vụ dân sự có tính liên tục từ khi bắt đầu cho đến khi kết thúc; nếu có sự kiện làm gián đoạn thì thời hiệu phải được tính lại từ đầu, sau khi sự kiện làm gián đoạn chấm dứt.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='27' article="153">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu bị gián đoạn khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thời hiệu hưởng quyền dân sự, miễn trừ nghĩa vụ dân sự bị gián đoạn khi có một trong các sự kiện sau đây:
+            Có sự giải quyết bằng một quyết định có hiệu lực pháp luật của cơ quan nhà nước có thẩm quyền đối với quyền, nghĩa vụ dân sự đang được áp dụng thời hiệu;
+            Quyền, nghĩa vụ dân sự đang được áp dụng thời hiệu mà bị người có quyền, nghĩa vụ liên quan tranh chấp và đã được giải quyết bằng một bản án, quyết định có hiệu lực pháp luật của Tòa án.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='28' article="153">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu sẽ bị gián đoạn nếu có sự giải quyết bằng quyết định của cơ quan nhà nước không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Có sự giải quyết bằng một quyết định có hiệu lực pháp luật của cơ quan nhà nước có thẩm quyền đối với quyền, nghĩa vụ dân sự đang được áp dụng thời hiệu;</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='29' article="153">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu bị gián đoạn khi quyền, nghĩa vụ dân sự bị tranh chấp và đã được giải quyết bằng bản án không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Quyền, nghĩa vụ dân sự đang được áp dụng thời hiệu mà bị người có quyền, nghĩa vụ liên quan tranh chấp và đã được giải quyết bằng một bản án, quyết định có hiệu lực pháp luật của Tòa án.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='30' article="153">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu có thay đổi khi quyền dân sự hoặc nghĩa vụ được chuyển giao cho người khác không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Thời hiệu cũng được tính liên tục trong trường hợp việc hưởng quyền dân sự, miễn trừ nghĩa vụ dân sự được chuyển giao hợp pháp cho người khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='31' article="154">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu khởi kiện vụ án dân sự bắt đầu tính từ thời điểm nào?</QUESTION>
+            <QUESTION>Thời hiệu khởi kiện vụ án dân sự có ngoại lệ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu khởi kiện vụ án dân sự được tính từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm, trừ trường hợp pháp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='32' article="154">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu yêu cầu giải quyết việc dân sự bắt đầu tính từ khi nào?</QUESTION>
+            <QUESTION>Thời hiệu yêu cầu giải quyết việc dân sự có ngoại lệ không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thời hiệu yêu cầu giải quyết việc dân sự được tính từ ngày phát sinh quyền yêu cầu, trừ trường hợp pháp luật có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='33' article="155">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu khởi kiện không áp dụng trong những trường hợp nào?</QUESTION>
+            <QUESTION>Yêu cầu bảo vệ quyền nhân thân có áp dụng thời hiệu khởi kiện không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu khởi kiện không áp dụng trong trường hợp yêu cầu bảo vệ quyền nhân thân không gắn với tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='34' article="155">
+        <QUESTIONS>
+            <QUESTION>Yêu cầu bảo vệ quyền sở hữu có áp dụng thời hiệu khởi kiện không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Yêu cầu bảo vệ quyền sở hữu không áp dụng thời hiệu khởi kiện, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='35' article="155">
+        <QUESTIONS>
+            <QUESTION>Tranh chấp về quyền sử dụng đất có áp dụng thời hiệu khởi kiện không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Tranh chấp về quyền sử dụng đất theo quy định của Luật đất đai không áp dụng thời hiệu khởi kiện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='36' article="155">
+        <QUESTIONS>
+            <QUESTION>Còn những trường hợp nào khác không áp dụng thời hiệu khởi kiện?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Thời hiệu khởi kiện không áp dụng trong các trường hợp khác do luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='37' article="156">
+        <QUESTIONS>
+            <QUESTION>Thời gian không tính vào thời hiệu khởi kiện vụ án dân sự, thời hiệu yêu cầu giải quyết việc dân sự là khi nào?</QUESTION>
+            <QUESTION>Sự kiện nào được coi là bất khả kháng làm gián đoạn thời hiệu khởi kiện?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời gian không tính vào thời hiệu khởi kiện vụ án dân sự, thời hiệu yêu cầu giải quyết việc dân sự là khoảng thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan làm cho chủ thể không thể khởi kiện, yêu cầu trong phạm vi thời hiệu.</ANSWER>
+            <ANSWER clause='1'>Sự kiện bất khả kháng là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép.</ANSWER>
+            <ANSWER clause='1'>Trở ngại khách quan là những trở ngại do hoàn cảnh khách quan tác động làm cho người có quyền, nghĩa vụ dân sự không thể biết về việc quyền, lợi ích hợp pháp của mình bị xâm phạm hoặc không thể thực hiện được quyền, nghĩa vụ dân sự của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='38' article="156">
+        <QUESTIONS>
+            <QUESTION>Thời gian không tính vào thời hiệu khởi kiện trong trường hợp người có quyền khởi kiện chưa có người đại diện là như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thời gian không tính vào thời hiệu khởi kiện vụ án dân sự khi người có quyền khởi kiện, người có quyền yêu cầu là người chưa thành niên, mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi hoặc bị hạn chế năng lực hành vi dân sự mà chưa có người đại diện.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='39' article="156">
+        <QUESTIONS>
+            <QUESTION>Trong trường hợp người có quyền khởi kiện chưa thành niên, mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi chưa có người đại diện khác, thời gian không tính vào thời hiệu khởi kiện là như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Thời gian không tính vào thời hiệu khởi kiện khi người đại diện chết nếu là cá nhân, chấm dứt tồn tại nếu là pháp nhân, hoặc người đại diện vì lý do chính đáng mà không thể tiếp tục đại diện được.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='40' article="157">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu khởi kiện vụ án dân sự có thể bắt đầu lại trong những trường hợp nào?</QUESTION>
+            <QUESTION>Khi nào bên có nghĩa vụ thừa nhận nghĩa vụ của mình đối với người khởi kiện sẽ làm cho thời hiệu khởi kiện bắt đầu lại?</QUESTION>
+            <QUESTION>Thời hiệu khởi kiện vụ án dân sự có thể bắt đầu lại khi các bên đã tự hòa giải với nhau, đúng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Thời hiệu khởi kiện vụ án dân sự bắt đầu lại trong trường hợp bên có nghĩa vụ đã thừa nhận một phần hoặc toàn bộ nghĩa vụ của mình đối với người khởi kiện, hoặc khi bên có nghĩa vụ thừa nhận hoặc thực hiện xong một phần nghĩa vụ của mình, hoặc khi các bên đã tự hòa giải với nhau.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='41' article="157">
+        <QUESTIONS>
+            <QUESTION>Thời hiệu khởi kiện vụ án dân sự bắt đầu lại từ khi nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Thời hiệu khởi kiện vụ án dân sự bắt đầu lại kể từ ngày tiếp theo sau ngày xảy ra sự kiện quy định tại khoản 1 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

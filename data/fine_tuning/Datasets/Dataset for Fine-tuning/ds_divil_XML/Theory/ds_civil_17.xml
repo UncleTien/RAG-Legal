@@ -1,0 +1,120 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>17</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="570">
+        <QUESTIONS>
+            <QUESTION>Người hứa thưởng phải làm gì khi có người thực hiện công việc theo yêu cầu?</QUESTION>
+            <QUESTION>Hứa thưởng có yêu cầu trả thưởng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="570">
+        <QUESTIONS>
+            <QUESTION>Công việc được hứa thưởng phải có những đặc điểm gì?</QUESTION>
+            <QUESTION>Công việc hứa thưởng có được vi phạm điều cấm của luật không?</QUESTION>
+            <QUESTION>Công việc hứa thưởng có được trái đạo đức xã hội không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Công việc được hứa thưởng phải cụ thể, có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="571">
+        <QUESTIONS>
+            <QUESTION>Người hứa thưởng có quyền rút lại tuyên bố hứa thưởng trong trường hợp nào?</QUESTION>
+            <QUESTION>Việc rút lại tuyên bố hứa thưởng có được thực hiện khi đã bắt đầu công việc không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Khi chưa đến hạn bắt đầu thực hiện công việc thì người hứa thưởng có quyền rút lại tuyên bố hứa thưởng của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="571">
+        <QUESTIONS>
+            <QUESTION>Việc rút lại tuyên bố hứa thưởng phải tuân theo nguyên tắc nào?</QUESTION>
+            <QUESTION>Người hứa thưởng phải làm gì để rút lại tuyên bố hứa thưởng?</QUESTION>
+            <QUESTION>Việc rút lại tuyên bố hứa thưởng có cần thực hiện trên phương tiện công bố không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Việc rút lại tuyên bố hứa thưởng phải được thực hiện theo cách thức và trên phương tiện mà việc hứa thưởng đã được công bố.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="572">
+        <QUESTIONS>
+            <QUESTION>Khi một công việc được hứa thưởng do một người thực hiện thì người đó được nhận thưởng trong trường hợp nào?</QUESTION>
+            <QUESTION>Điều kiện để một người nhận thưởng khi thực hiện công việc là gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Trường hợp một công việc được hứa thưởng do một người thực hiện thì khi công việc hoàn thành, người thực hiện công việc đó được nhận thưởng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="572">
+        <QUESTIONS>
+            <QUESTION>Nếu nhiều người thực hiện công việc được hứa thưởng nhưng độc lập với nhau, ai sẽ được nhận thưởng?</QUESTION>
+            <QUESTION>Trong trường hợp có nhiều người thực hiện công việc nhưng chỉ một người hoàn thành đầu tiên, ai sẽ nhận thưởng?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Khi một công việc được hứa thưởng do nhiều người cùng thực hiện nhưng mỗi người thực hiện độc lập với nhau thì người hoàn thành đầu tiên được nhận thưởng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="572">
+        <QUESTIONS>
+            <QUESTION>Phần thưởng sẽ được chia như thế nào nếu nhiều người hoàn thành công việc vào cùng một thời điểm?</QUESTION>
+            <QUESTION>Trong trường hợp có nhiều người cùng hoàn thành công việc hứa thưởng, họ có được chia đều phần thưởng không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Trường hợp nhiều người cùng hoàn thành công việc được hứa thưởng vào cùng một thời điểm thì phần thưởng được chia đều cho những người đó.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="572">
+        <QUESTIONS>
+            <QUESTION>Nếu nhiều người cộng tác để thực hiện công việc hứa thưởng, phần thưởng được chia như thế nào?</QUESTION>
+            <QUESTION>Người hứa thưởng cần làm gì để đảm bảo chia phần thưởng đúng với mức đóng góp của mỗi người?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Trường hợp nhiều người cùng cộng tác để thực hiện công việc được hứa thưởng do người hứa thưởng yêu cầu thì mỗi người được nhận một phần của phần thưởng tương ứng với phần đóng góp của mình.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='9' article="573">
+        <QUESTIONS>
+            <QUESTION>Việc tổ chức các cuộc thi văn hóa, nghệ thuật, thể thao cần tuân thủ những điều kiện gì?</QUESTION>
+            <QUESTION>Các cuộc thi được tổ chức phải đảm bảo không vi phạm điều gì?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Việc tổ chức các cuộc thi văn hóa, nghệ thuật, thể thao, khoa học, kỹ thuật và các cuộc thi khác không được vi phạm điều cấm của luật, không trái đạo đức xã hội.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='10' article="573">
+        <QUESTIONS>
+            <QUESTION>Người tổ chức các cuộc thi cần công bố những thông tin gì liên quan đến cuộc thi?</QUESTION>
+            <QUESTION>Điều kiện dự thi và mức thưởng của các giải phải được công bố như thế nào?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Người tổ chức các cuộc thi phải công bố điều kiện dự thi, thang điểm, các giải thưởng và mức thưởng của mỗi giải. Việc thay đổi điều kiện dự thi phải được thực hiện theo cách thức đã công bố trong một thời gian hợp lý trước khi diễn ra cuộc thi.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='11' article="573">
+        <QUESTIONS>
+            <QUESTION>Người đoạt giải có quyền yêu cầu gì từ người tổ chức thi?</QUESTION>
+            <QUESTION>Điều gì đảm bảo người đoạt giải nhận được phần thưởng đúng mức?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Người đoạt giải có quyền yêu cầu người tổ chức thi trao giải thưởng đúng mức đã công bố.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

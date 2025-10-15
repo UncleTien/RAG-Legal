@@ -1,0 +1,53 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>7</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+    
+    <CONVERSATION id='1' article="107">
+        <QUESTIONS>
+            <QUESTION>A thuê nhà của B để mở cửa hàng kinh doanh. Theo hợp đồng, khi hết hạn thuê A được quyền mang đi các động sản. Trong thời gian thuê, A lắp máy quạt trần. Khi hết hạn thuê, A gỡ máy quạt trần thì B không đồng ý vì cho rằng đó là bất động sản thuộc diện tài sản gắn liền với nhà. Trong vụ này thì ai đúng</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Theo thông tin bạn cung cấp thì trong thời gian thuê “A đã lắp máy quạt trần”, mặt khác trong hợp đồng giữa A và B có nội dung “khi hết hạn thuê A được quyền mang đi các động sản”. Theo đó, nếu giữa A và B không có thỏa thuận nào khác (ví dụ như B mua lại máy quạt trần này....) thì khi hết hạn thuê, A được quyền gỡ (tháo) “máy quạt trần” do A đã lắp tại nhà thuê của B mà không cần phải được sự đồng ý của B.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="105,115">
+        <QUESTIONS>
+            <QUESTION>Quyền sử dụng đất có phải là tài sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Quyền sử dụng đất được xem là quyền tài sản và là một loại tài sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="105,107">
+        <QUESTIONS>
+            <QUESTION>Tiền có phải là tài sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Phải, tiền là tài sản và là động sản.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="105">
+        <QUESTIONS>
+            <QUESTION>Vàng có phải là tài sản không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Vàng là một loại tài sản vì nó là vật và có một giá trị nhất định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="105">
+        <QUESTIONS>
+            <QUESTION>Đốt xe máy của chính mình có bị pháp luật xử phạt không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Đốt xe máy của chính mình không chỉ gây rối trật tự công cộng mà còn gây nguy hiểm đối với những người dân xung quanh. Người thực hiện hành vi trên chắc chắn sẽ phải đối diện với phạt tiền 100 nghìn đồng với mức nhẹ và có thể 10 năm tù giam đối với trường hợp nặng.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>

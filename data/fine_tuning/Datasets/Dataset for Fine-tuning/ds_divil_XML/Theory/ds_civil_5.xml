@@ -1,0 +1,98 @@
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <CHAPTER>5</CHAPTER>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
+    </INFORMATION>
+
+    <CONVERSATION id='1' article="97">
+        <QUESTIONS>
+            <QUESTION>Nhà nước Việt Nam tham gia quan hệ dân sự như thế nào?</QUESTION>
+            <QUESTION>Cơ quan nhà nước ở Trung ương và địa phương khi tham gia quan hệ dân sự có bình đẳng với các chủ thể khác không?</QUESTION>
+            <QUESTION>Nhà nước và cơ quan nhà nước có chịu trách nhiệm dân sự trong quan hệ dân sự không?</QUESTION>
+            <QUESTION>Trách nhiệm dân sự của Nhà nước được quy định tại điều nào trong Bộ luật này?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương khi tham gia quan hệ dân sự thì bình đẳng với các chủ thể khác và chịu trách nhiệm dân sự theo quy định tại Điều 99 và Điều 100 của Bộ luật này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='2' article="98">
+        <QUESTIONS>
+            <QUESTION>Việc đại diện cho Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam trong quan hệ dân sự được thực hiện như thế nào?</QUESTION>
+            <QUESTION>Ai có thể đại diện cho cơ quan nhà nước ở Trung ương và địa phương tham gia quan hệ dân sự?</QUESTION>
+            <QUESTION>Việc đại diện thông qua cá nhân hoặc pháp nhân khác trong quan hệ dân sự có bị giới hạn không?</QUESTION>
+            <QUESTION>Trình tự và thủ tục đại diện cho Nhà nước trong quan hệ dân sự được quy định ở đâu?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER>Việc đại diện cho Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương tham gia quan hệ dân sự được thực hiện theo quy định của pháp luật về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của cơ quan nhà nước. Việc đại diện thông qua cá nhân, pháp nhân khác chỉ được thực hiện trong các trường hợp và theo trình tự, thủ tục do pháp luật quy định.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='3' article="99">
+        <QUESTIONS>
+            <QUESTION>Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam chịu trách nhiệm về nghĩa vụ dân sự của mình bằng tài sản nào?</QUESTION>
+            <QUESTION>Trong trường hợp nào tài sản của Nhà nước không được sử dụng để chịu trách nhiệm về nghĩa vụ dân sự?</QUESTION>
+            <QUESTION>Cơ quan nhà nước ở Trung ương và địa phương chịu trách nhiệm về nghĩa vụ dân sự ra sao?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương chịu trách nhiệm về nghĩa vụ dân sự của mình bằng tài sản mà mình là đại diện chủ sở hữu và thống nhất quản lý, trừ trường hợp tài sản đã được chuyển giao cho pháp nhân theo quy định tại khoản 2 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='4' article="99">
+        <QUESTIONS>
+            <QUESTION>Pháp nhân do Nhà nước thành lập có chịu trách nhiệm về nghĩa vụ dân sự của Nhà nước không?</QUESTION>
+            <QUESTION>Nghĩa vụ dân sự của Nhà nước và cơ quan nhà nước có phải do pháp nhân thành lập bởi họ chịu trách nhiệm không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Pháp nhân do Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương thành lập không chịu trách nhiệm về nghĩa vụ phát sinh từ quan hệ dân sự của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='5' article="99">
+        <QUESTIONS>
+            <QUESTION>Nhà nước có chịu trách nhiệm về nghĩa vụ dân sự của pháp nhân do mình thành lập không?</QUESTION>
+            <QUESTION>Trong trường hợp nào Nhà nước chịu trách nhiệm về nghĩa vụ dân sự của doanh nghiệp nhà nước?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='3'>Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương không chịu trách nhiệm về nghĩa vụ dân sự của pháp nhân do mình thành lập, bao gồm cả doanh nghiệp nhà nước, trừ trường hợp Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương bảo lãnh cho nghĩa vụ dân sự của pháp nhân này theo quy định của pháp luật.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='6' article="99">
+        <QUESTIONS>
+            <QUESTION>Cơ quan nhà nước ở Trung ương có chịu trách nhiệm về nghĩa vụ dân sự của cơ quan nhà nước ở địa phương không?</QUESTION>
+            <QUESTION>Trong trường hợp nào cơ quan nhà nước ở Trung ương và địa phương không chịu trách nhiệm về nghĩa vụ dân sự của nhau?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='4'>Cơ quan nhà nước ở Trung ương, ở địa phương không chịu trách nhiệm về nghĩa vụ dân sự của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước khác ở Trung ương, ở địa phương, trừ trường hợp luật liên quan có quy định khác.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='7' article="100">
+        <QUESTIONS>
+            <QUESTION>Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam chịu trách nhiệm về nghĩa vụ dân sự với nhà nước, pháp nhân, cá nhân nước ngoài trong trường hợp nào?</QUESTION>
+            <QUESTION>Khi nào Nhà nước Việt Nam từ bỏ quyền miễn trừ trong quan hệ dân sự?</QUESTION>
+            <QUESTION>Điều ước quốc tế quy định như thế nào về trách nhiệm dân sự của Nhà nước Việt Nam trong trường hợp từ bỏ quyền miễn trừ?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='1'>Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương chịu trách nhiệm về nghĩa vụ dân sự do mình xác lập với nhà nước, pháp nhân, cá nhân nước ngoài trong trường hợp sau đây: 
+            a) Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định về việc từ bỏ quyền miễn trừ;
+            b) Các bên trong quan hệ dân sự có thỏa thuận từ bỏ quyền miễn trừ;
+            c) Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương từ bỏ quyền miễn trừ.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+
+    <CONVERSATION id='8' article="100">
+        <QUESTIONS>
+            <QUESTION>Trách nhiệm về nghĩa vụ dân sự của nhà nước nước ngoài khi tham gia quan hệ dân sự với Nhà nước Việt Nam được áp dụng như thế nào?</QUESTION>
+            <QUESTION>Khoản 1 Điều 100 áp dụng ra sao đối với trách nhiệm dân sự của nhà nước nước ngoài?</QUESTION>
+            <QUESTION>Các quy định tương tự về trách nhiệm dân sự của Nhà nước Việt Nam có áp dụng cho nhà nước nước ngoài không?</QUESTION>
+        </QUESTIONS>
+        <ANSWERS>
+            <ANSWER clause='2'>Trách nhiệm về nghĩa vụ dân sự của nhà nước, cơ quan nhà nước của nước ngoài khi tham gia quan hệ dân sự với Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương, pháp nhân, cá nhân Việt Nam được áp dụng tương tự khoản 1 Điều này.</ANSWER>
+        </ANSWERS>
+    </CONVERSATION>
+</CIVIL-CODE>
