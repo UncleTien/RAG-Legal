@@ -87,18 +87,20 @@ streamlit run app.py
 ```
 RAG-Legal/
 │
-├── app.py                     # Streamlit web interface
-├── datasets/                  # Legal document dataset (e.g., luat_dan_su.docx)
-├── data/vectorstore/          # Generated vector database
+├── app.py                         # Streamlit web interface (entry)
+├── data/
+│   ├── rag/                       # RAG source documents (e.g., luat_dan_su.docx)
+│   └── fine_tuning/               # Fine-tuning data (xml / json)
+│   └── chroma_db/                 # generated vector database (after build)
 │
 ├── scripts/
-│   ├── build_vectorstore.py   # Build vector embeddings
-│   └── run_rag.py             # Run RAG pipeline
+│   ├── build_vectorstore.py       # Build vector embeddings
+│   └── run_rag.py                 # Run RAG pipeline (CLI)
 │
 ├── src/
-│   ├── config/settings.py     # Project configuration
-│   ├── data/loader.py         # Data loading & preprocessing
-│   └── pipeline/rag_pipeline.py # Main RAG pipeline
+│   ├── config/settings.py         # Project configuration
+│   ├── data/loader.py             # Data loading & preprocessing
+│   └── pipeline/rag_pipeline.py   # Main RAG pipeline
 │
 ├── requirements.txt
 └── README.md
